@@ -1,0 +1,518 @@
+name,state,latitude,longitude,status,commodity_group,commodity_class
+A1,VIC,-37.5051,146.1997,Operating mine,"Precious metals - Au, Ag",Precious metals
+Abel,NSW,-32.818419,151.621127,Care and maintenance,Coal,Coal
+Abra,WA,-24.643101,118.587279,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Achilles,WA,-31.3009,119.3908,Operating mine,"Precious metals - Au, Ag",Precious metals
+Admiral,WA,-29.2001,121.367,Operating mine,"Precious metals - Au, Ag",Precious metals
+Agate Creek,QLD,-18.9942,143.5486,Operating mine,"Precious metals - Au, Ag",Precious metals
+Agnew,WA,-28.00071,120.5081,Operating mine,"Precious metals - Au, Ag",Precious metals
+Agricola,SA,-36.1867,139.6796,Operating mine,Magnesium,Magnesium
+Airly,NSW,-33.097754,150.01477,Operating mine,Coal,Coal
+Ammaroo,NT,-21.792109,135.834839,Developing mine,"Fertiliser elements - P,K",Fertiliser elements
+Amrun,QLD,-12.973,141.633,Operating mine,Bauxite,Bauxite
+Andoom,QLD,-12.538352,141.832296,Operating mine,Bauxite,Bauxite
+Angas,SA,-35.251066,138.915917,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Angus Place,NSW,-33.349157,150.199019,Care and maintenance,Coal,Coal
+Ant Hill,WA,-22.090917,120.594976,Care and maintenance,Manganese,Manganese
+Anthill,QLD,-20.2505,139.1151,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Appin,NSW,-34.2079,150.7918,Operating mine,Coal,Coal
+Aquilla-Capcoal,QLD,-22.902571,148.551017,Operating mine,Coal,Coal
+Ardlethan,NSW,-34.316917,146.849987,Operating mine,"Tin, Tungsten","Tin, Tungsten"
+Ardmore,QLD,-21.647041,139.170007,Operating mine,"Fertiliser elements - P,K",Fertiliser elements
+Arrowsmith North,WA,-29.5129,115.1104,Developing mine,"High-purity elements - Al, Si",High-purity elements
+Ashton,NSW,-32.46667,151.06667,Operating mine,Coal,Coal
+Atlas,WA,-30.538165,115.248896,Developing mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Atlas-Campaspe,NSW,-33.7921,143.3413,Operating mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Avebury,TAS,-41.92011,145.24854,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Avoca Tank,NSW,-31.1967,146.841,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Avonbank,VIC,-36.62,142.32,Developing mine,"Heavy mineral sands - Ti, Zr, REE",Heavy mineral sands
+Axehandle,WA,-31.3165,119.3931,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Balcooma,QLD,-18.7718,144.713,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Bald Hill,WA,-31.513331,122.181148,Care and maintenance,"Battery/Alloy metals - Li, Ta",Battery/Alloy metals
+Ballarat,VIC,-37.5897,143.8597,Operating mine,"Precious metals - Au, Ag",Precious metals
+Balranald,NSW,-34.45993,143.461186,Developing mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Bamboo Creek,WA,-20.9307,120.2117,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Baneygo,WA,-27.9637,122.3123,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Baralaba North,QLD,-24.164856,149.803238,Operating mine,Coal,Coal
+Barbara,QLD,-20.415343,139.850148,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Battler,WA,-31.3464,119.3896,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Bauxite Hills,QLD,-11.83479,142.04488,Operating mine,Bauxite,Bauxite
+Beatons Creek,WA,-21.80833,120.4169,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Beebyn-W11,WA,-26.8585,117.8717,Developing mine,Iron ore,Iron ore
+Bellevue,WA,-27.638941,120.557701,Operating mine,"Precious metals - Au, Ag",Precious metals
+Beltana,SA,-30.675227,138.434446,Care and maintenance,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Ben Hur,WA,-28.1647,122.3673,Operating mine,"Precious metals - Au, Ag",Precious metals
+Bengalla,NSW,-32.2715,150.846,Operating mine,Coal,Coal
+Beta Hunt,WA,-31.24026,121.693915,Operating mine,"Precious metals - Au, Ag",Precious metals
+Beverley,SA,-30.1904,139.6051,Care and maintenance,Uranium,Uranium
+Beyondie,WA,-24.77,120.32,Care and maintenance,"Fertiliser elements - P,K",Fertiliser elements
+Bidaminna,WA,-31.100482,115.603394,Developing mine,"Heavy mineral sands - Ti, Zr, REE",Heavy mineral sands
+Big Bell,WA,-27.3209,117.6542,Operating mine,"Precious metals - Au, Ag",Precious metals
+Binjour,QLD,-25.5,151.5,Developing mine,Bauxite,Bauxite
+Black Swan,WA,-30.3934,121.652,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Blackwater,QLD,-23.685585,148.807361,Operating mine,Coal,Coal
+Blackwater,TAS,-41.1101,144.9469,Operating mine,"High-purity elements - Al, Si",High-purity elements
+Blair Athol,QLD,-22.6905,147.527,Operating mine,Coal,Coal
+Bloomfield,NSW,-32.792189,151.566962,Operating mine,Coal,Coal
+Blue Bar,WA,-21.3974,119.7067,Operating mine,"Precious metals - Au, Ag",Precious metals
+Blue Spec,WA,-21.8209,120.273,Developing mine,"Precious metals - Au, Ag",Precious metals
+Bluebird-South Junction,WA,-26.7162,118.4251,Operating mine,"Precious metals - Au, Ag",Precious metals
+Bluff,QLD,-23.520513,149.063875,Care and maintenance,Coal,Coal
+Boddington,WA,-32.7509,116.3581,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Boggabri,NSW,-30.590411,150.163344,Operating mine,Coal,Coal
+Boonanarring,WA,-31.2237,115.8346,Care and maintenance,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Boorara,WA,-30.8057,121.6402,Operating mine,"Precious metals - Au, Ag",Precious metals
+Bootu Creek,NT,-18.699756,134.125836,Care and maintenance,Manganese,Manganese
+Boundary Hill,QLD,-24.1994,150.4941,Operating mine,Coal,Coal
+Break of Day,WA,-27.6973,117.8318,Operating mine,"Precious metals - Au, Ag",Precious metals
+British King,WA,-27.9404,121.2437,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Broadlea,QLD,-21.9267,148.1825,Operating mine,Coal,Coal
+Broadmedow East,QLD,-21.8076,148.1524,Operating mine,Coal,Coal
+Brockman 2,WA,-22.4124,117.3376,Operating mine,Iron ore,Iron ore
+Brockman 4,WA,-22.598301,117.220398,Operating mine,Iron ore,Iron ore
+Broken Hill,NSW,-31.9665,141.465,Operating mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Bronzewing,WA,-27.419227,120.939005,Operating mine,"Precious metals - Au, Ag",Precious metals
+Browns Range,WA,-18.859476,128.939813,Care and maintenance,Rare earth elements,Rare earth elements
+Bulga,NSW,-32.68684,151.109984,Operating mine,Coal,Coal
+Bungarra,WA,-27.3971,121.4661,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Burton Complex,QLD,-21.5886,148.1726,Operating mine,Coal,Coal
+Butcherbird-Yanneri,WA,-24.367,119.683,Care and maintenance,Manganese,Manganese
+Buzzard,SA,-29.995743,135.152727,Operating mine,Iron ore,Iron ore
+Byerwen,QLD,-21.35,147.81,Operating mine,Coal,Coal
+Cadia East,NSW,-33.465,149.0123,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Cadoux,WA,-30.6772,117.193,Developing mine,"High-purity elements - Al, Si",High-purity elements
+Cairn Hill,SA,-29.2987022,135.1234485,Care and maintenance,Iron ore,Iron ore
+Callide,QLD,-24.310921,150.622173,Operating mine,Coal,Coal
+Cameby Downs,QLD,-26.578622,150.287178,Operating mine,Coal,Coal
+Cannington,QLD,-21.8658,140.9199,Operating mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Cannon,WA,-30.8161,121.7629,Developing mine,"Precious metals - Au, Ag",Precious metals
+Cape Flattery,QLD,-14.985,145.2722,Operating mine,"High-purity elements - Al, Si",High-purity elements
+Cape Flattery,QLD,-14.96,145.33,Developing mine,"High-purity elements - Al, Si",High-purity elements
+Capricorn Copper,QLD,-19.694925,139.363156,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Carborough Downs,QLD,-21.9502,148.2094,Operating mine,Coal,Coal
+Carina,WA,-30.45635,119.998703,Operating mine,Iron ore,Iron ore
+Carmichael,QLD,-22.018,146.322,Operating mine,Coal,Coal
+Carosue Dam,WA,-30.12,122.35,Operating mine,"Precious metals - Au, Ag",Precious metals
+Carrapateena,SA,-31.2175,137.4984,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Cassini,WA,-31.700939,121.621101,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Castle Hill,WA,-30.638232,121.033696,Operating mine,"Precious metals - Au, Ag",Precious metals
+Cataby,WA,-30.7351,115.5387,Operating mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Caval Ridge,QLD,-22.221466,148.17199,Operating mine,Coal,Coal
+Cawse,WA,-30.368888,121.148544,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Central Eyre,SA,-33.2438,135.6677,Developing mine,Iron ore,Iron ore
+Centurion,QLD,-21.64755,147.976615,Operating mine,Coal,Coal
+Century,QLD,-18.738057,138.625021,Operating mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Chain Valley,NSW,-33.163056,151.550004,Operating mine,Coal,Coal
+Challenger,SA,-29.8782,133.5889,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Channar,WA,-23.29938,117.788592,Operating mine,Iron ore,Iron ore
+Charters Towers,QLD,-20.0757,146.2666,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Christmas Creek,WA,-22.376169,119.758987,Operating mine,Iron ore,Iron ore
+Christmas Island,IOT,-10.492,105.65,Operating mine,"Fertiliser elements - P,K",Fertiliser elements
+Clarence,NSW,-33.456479,150.24393,Operating mine,Coal,Coal
+Clermont,QLD,-22.689216,147.630768,Operating mine,Coal,Coal
+Cliffs,WA,-27.310489,120.552825,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Cloudbreak,WA,-22.302778,119.396385,Operating mine,Iron ore,Iron ore
+Cobar,NSW,-31.40802,145.798597,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Coburn,WA,-26.70377,114.126953,Operating mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Cockatoo Island,WA,-16.094966,123.607113,Care and maintenance,Iron ore,Iron ore
+Cock-eyed Bob,WA,-31.0895,122.1761,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Collie-Ewington,WA,-33.3624,116.25,Operating mine,Coal,Coal
+Collinsville,QLD,-20.567608,147.768557,Operating mine,Coal,Coal
+Comet,WA,-27.5401,118.0436,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Comet Vale,WA,-29.954928,121.131043,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Commodore,QLD,-27.930269,151.279051,Operating mine,Coal,Coal
+Cook,QLD,-23.709213,148.914684,Operating mine,Coal,Coal
+Cooks North,SA,-33.1650563,137.1307166,Operating mine,Iron ore,Iron ore
+Cooljarloo,WA,-30.593306,115.360681,Operating mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Coppabella,QLD,-21.844554,148.427187,Operating mine,Coal,Coal
+Corinna,TAS,-41.6224,145.112,Operating mine,"High-purity elements - Al, Si",High-purity elements
+Cornwall,TAS,-41.55,148.133333,Operating mine,Coal,Coal
+Cosmos,WA,-27.600285,120.576324,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Costerfield,VIC,-36.8957,144.8015,Operating mine,"Precious metals - Au, Ag",Precious metals
+Cowal,NSW,-33.6369,147.4067,Operating mine,"Precious metals - Au, Ag",Precious metals
+Coyote,WA,-19.8989,128.8319,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Cracow,QLD,-25.28928,150.2703,Operating mine,"Precious metals - Au, Ag",Precious metals
+Cullen Valley,NSW,-33.269288,150.016163,Care and maintenance,Coal,Coal
+Cullenswood,TAS,-41.6145245231,148.134233001,Operating mine,Coal,Coal
+Curragh,QLD,-23.466218,148.854144,Operating mine,Coal,Coal
+Cyclone,WA,-28.817064,128.732174,Developing mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Daisy,WA,-31.0133,121.9224,Operating mine,"Precious metals - Au, Ag",Precious metals
+Dalgaranga,WA,-27.84617,117.265297,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Dargues Reef,NSW,-35.538216,149.747189,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Darlot,WA,-27.8875,121.2689,Operating mine,"Precious metals - Au, Ag",Precious metals
+Dartbrook,NSW,-32.183,150.8402,Operating mine,Coal,Coal
+Daunia,QLD,-22.043993,148.288546,Operating mine,Coal,Coal
+Dawson,QLD,-24.616826,150.059238,Operating mine,Coal,Coal
+Deflector,WA,-28.6691,116.3796,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+DeGrussa,WA,-25.5406,119.3281,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Dendrobium,NSW,-34.37685,150.759992,Operating mine,Coal,Coal
+Devon,WA,-29.2847,122.4482,Developing mine,"Precious metals - Au, Ag",Precious metals
+Dhupuma,NT,-12.38,136.82,Operating mine,Bauxite,Bauxite
+DL130,TAS,-41.465,146.749,Developing mine,Bauxite,Bauxite
+Dogbolter-Coopers,WA,-27.7208,122.3421,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Dolphin,TAS,-40.05334,144.05868,Operating mine,"Tin, Tungsten","Tin, Tungsten"
+Donald,VIC,-36.49918,142.78148,Developing mine,"Heavy mineral sands - Ti, Zr, REE",Heavy mineral sands
+Drake,QLD,-20.708,147.816,Operating mine,Coal,Coal
+Dubbo,NSW,-32.445319,148.618178,Developing mine,Rare earth elements,Rare earth elements
+Duchess,QLD,-21.874555,139.968205,Operating mine,"Fertiliser elements - P,K",Fertiliser elements
+Dugald River,QLD,-20.2545,140.1558,Operating mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Duketon South Operations,WA,-27.9064,122.356,Operating mine,"Precious metals - Au, Ag",Precious metals
+East Menzies,WA,-29.695339,121.077797,Operating mine,"Precious metals - Au, Ag",Precious metals
+East Weipa,QLD,-12.6637,141.8732,Operating mine,Bauxite,Bauxite
+Eastern Range,WA,-23.253071,117.682198,Operating mine,Iron ore,Iron ore
+Edna May,WA,-31.2912,118.6998,Operating mine,"Precious metals - Au, Ag",Precious metals
+Eliwana,WA,-22.495916,116.940854,Operating mine,Iron ore,Iron ore
+Eloise,QLD,-20.954853,140.979894,Operating mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Endeavor,NSW,-31.162921,145.653796,Developing mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Eneabba,WA,-29.88897336,115.30321492,Developing mine,"Heavy mineral sands - Ti, Zr, REE",Heavy mineral sands
+Ensham,QLD,-23.454464,148.497455,Operating mine,Coal,Coal
+Enterprise,WA,-30.3719,121.089,Operating mine,"Precious metals - Au, Ag",Precious metals
+Ernest Henry,QLD,-20.439829,140.70281,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Federation,NSW,-32.2018,146.303,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Fender,WA,-27.344488,117.63454,Operating mine,"Precious metals - Au, Ag",Precious metals
+Finniss,NT,-12.695,130.791,Care and maintenance,"Battery/Alloy metals - Li, Ta",Battery/Alloy metals
+Firetail,WA,-22.128667,117.769485,Operating mine,Iron ore,Iron ore
+Flying Fox,WA,-32.4185,119.689,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Fosterville,VIC,-36.7163,144.5036,Operating mine,"Precious metals - Au, Ag",Precious metals
+Four Mile,SA,-30.141667,139.529167,Operating mine,Uranium,Uranium
+Foxleigh,QLD,-22.997778,148.803889,Operating mine,Coal,Coal
+Frances Creek,NT,-13.564163,131.850016,Care and maintenance,Iron ore,Iron ore
+Frasers,WA,-31.237,119.3312,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+French Kiss,WA,-31.223917,122.579332,Operating mine,"Precious metals - Au, Ag",Precious metals
+Gabanintha,WA,-26.967612,118.646257,Developing mine,"Battery/Alloy metals - V (Mo, Ti)",Battery/Alloy metals
+Geko,WA,-30.8641,120.9,Developing mine,"Precious metals - Au, Ag",Precious metals
+George Fisher,QLD,-20.5711,139.472,Operating mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Ginkgo-Crayfish-Snapper,NSW,-33.3644,142.226,Care and maintenance,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Glendell,NSW,-32.451192,151.077551,Operating mine,Coal,Coal
+Gloster,WA,-27.5645,122.0749,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Golden Age-Wiluna,WA,-26.6018,120.246,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Golden Camel,VIC,-36.6462,144.7371,Developing mine,"Precious metals - Au, Ag",Precious metals
+Golden Cities,WA,-30.407235,121.396748,Operating mine,"Precious metals - Au, Ag",Precious metals
+Golden Dragon,WA,-28.9841,116.9578,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Golden Grove,WA,-28.7629,116.9848,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Goonyella,QLD,-21.792321,147.962045,Operating mine,Coal,Coal
+Goschen,VIC,-35.5598696,143.5315807,Developing mine,"Heavy mineral sands - Ti, Zr, REE",Heavy mineral sands
+Gove,NT,-12.261117,136.837017,Operating mine,Bauxite,Bauxite
+Granny Smith,WA,-28.8112,122.4149,Operating mine,"Precious metals - Au, Ag",Precious metals
+Great Australia Complex,QLD,-20.7206,140.5105,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Great Fingall,WA,-27.4606,117.8582,Developing mine,"Precious metals - Au, Ag",Precious metals
+Greenbushes,WA,-33.855846,116.06683,Operating mine,"Battery/Alloy metals - Li, Ta",Battery/Alloy metals
+Gregory Crinum,QLD,-23.172246,148.356348,Operating mine,Coal,Coal
+Groote Eylandt,NT,-13.992158,136.445547,Operating mine,Manganese,Manganese
+Grosvenor,QLD,-21.873168,147.992728,Operating mine,Coal,Coal
+Gruyere,WA,-27.98443,123.845213,Operating mine,"Precious metals - Au, Ag",Precious metals
+Gudai-Darri,WA,-22.555946,119.023928,Operating mine,Iron ore,Iron ore
+Gwalia,WA,-28.9185,121.334,Operating mine,"Precious metals - Au, Ag",Precious metals
+Hail Creek,QLD,-21.505383,148.406805,Operating mine,Coal,Coal
+Halls Creek,WA,-18.4096,127.3567,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Hamlet,WA,-31.4001,121.8122,Operating mine,"Precious metals - Au, Ag",Precious metals
+Hawkes Creek,TAS,-41.096,144.8844,Operating mine,"High-purity elements - Al, Si",High-purity elements
+HBJ,WA,-31.0276,121.6031,Operating mine,"Precious metals - Au, Ag",Precious metals
+Hellyer,TAS,-41.5746,145.7221,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Hemi,WA,-20.8634,118.4277,Developing mine,"Precious metals - Au, Ag",Precious metals
+Henty,TAS,-41.8664,145.5574,Operating mine,"Precious metals - Au, Ag",Precious metals
+Hera,NSW,-32.1107,146.3259,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Hillgrove,NSW,-30.5745,151.9009,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Hillside,SA,-34.5375,137.8722,Developing mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Homestead,WA,-30.5421,121.2283,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Honeymoon,SA,-31.74095,140.662365,Operating mine,Uranium,Uranium
+Hope Downs,WA,-22.94691,119.122931,Operating mine,Iron ore,Iron ore
+Hunter Valley Operations,NSW,-32.5104,150.992,Operating mine,Coal,Coal
+Huntly,WA,-32.555795,116.166496,Operating mine,Bauxite,Bauxite
+Invincible,NSW,-33.326854,150.030003,Care and maintenance,Coal,Coal
+Invincible,WA,-31.3243,121.7451,Operating mine,"Precious metals - Au, Ag",Precious metals
+Iron Baron,SA,-32.998,137.156,Operating mine,Iron ore,Iron ore
+Iron Bridge,WA,-21.25194,119.05583,Operating mine,Iron ore,Iron ore
+Iron Knob,SA,-32.7345743,137.1434666,Operating mine,Iron ore,Iron ore
+Iron Ridge,WA,-26.9455,117.6818,Operating mine,Iron ore,Iron ore
+Iron Valley,WA,-22.7201,119.3171,Operating mine,Iron ore,Iron ore
+Ironbark No 1,QLD,-21.742897,148.173142,Operating mine,Coal,Coal
+Isaac Plains Complex,QLD,-21.9565,148.1088,Operating mine,Coal,Coal
+Jacinth-Ambrosia,SA,-30.861125,132.228669,Operating mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Jack Hills,WA,-26.05232,117.2414,Care and maintenance,Iron ore,Iron ore
+Jaguar,WA,-28.4446,121.1551,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Janet Ivy,WA,-30.7745,121.3834,Operating mine,"Precious metals - Au, Ag",Precious metals
+Jaurdi,WA,-30.68871,120.925,Operating mine,"Precious metals - Au, Ag",Precious metals
+Jax,QLD,-20.72,147.87,Operating mine,Coal,Coal
+Jeffrey's Find,WA,-31.9454,122.1523,Operating mine,"Precious metals - Au, Ag",Precious metals
+Jellinbah East,QLD,-23.406874,148.950644,Operating mine,Coal,Coal
+Jericho,QLD,-20.98,140.985,Developing mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Jervois,NT,-22.6594,136.267,Developing mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Jimblebar,WA,-23.379259,120.139061,Operating mine,Iron ore,Iron ore
+Jundee,WA,-26.3725,120.6041,Operating mine,"Precious metals - Au, Ag",Precious metals
+Jupiter,WA,-28.8072,122.2192,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+JWD,WA,-26.791821,119.954639,Operating mine,Iron ore,Iron ore
+Kalgoorlie (Super Pit),WA,-30.7781,121.505,Operating mine,"Precious metals - Au, Ag",Precious metals
+Kanmantoo,SA,-35.0919,139.0054,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Kanowna Belle,WA,-30.6101,121.5761,Operating mine,"Precious metals - Au, Ag",Precious metals
+Kara,TAS,-41.309996,145.772011,Operating mine,Iron ore,Iron ore
+Karara,WA,-29.187544,116.774427,Operating mine,Iron ore,Iron ore
+Karlawinda,WA,-23.7646,120.0997,Operating mine,"Precious metals - Au, Ag",Precious metals
+Kathleen Valley,WA,-27.4694,120.5581,Operating mine,"Battery/Alloy metals - Li, Ta",Battery/Alloy metals
+Kestrel,QLD,-23.241972,148.370306,Operating mine,Coal,Coal
+Keysbrook,WA,-32.46423,115.938797,Operating mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Kimbolton,TAS,-42.5405282218,146.7821614371,Operating mine,Coal,Coal
+King of the Hills,WA,-28.6715,121.163,Operating mine,"Precious metals - Au, Ag",Precious metals
+King Vol,QLD,-16.9363,144.2496,Care and maintenance,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Kings Valley,WA,-22.17611,117.5217,Operating mine,Iron ore,Iron ore
+Kirkalocka,WA,-28.675,117.762,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Kogan Creek,QLD,-26.895716,150.772631,Operating mine,Coal,Coal
+Koolan Island,WA,-16.127535,123.740184,Operating mine,Iron ore,Iron ore
+Koolyanobbing,WA,-30.8336,119.538,Operating mine,Iron ore,Iron ore
+Kundana,WA,-30.711143,121.231141,Operating mine,"Precious metals - Au, Ag",Precious metals
+Kunwarara,QLD,-22.8814,150.1869,Operating mine,Magnesium,Magnesium
+Lady Annie,QLD,-19.773053,139.044016,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Lady Loretta,QLD,-19.768589,139.070193,Operating mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Lake Vermont,QLD,-22.399002,148.438513,Operating mine,Coal,Coal
+Lanfranchi,WA,-31.50546,121.8429,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Leinster,WA,-27.788893,120.697235,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Liddell,NSW,-32.3916,150.9999,Care and maintenance,Coal,Coal
+Lighthouse,QLD,-18.3944,144.1733,Care and maintenance,"High-purity elements - Al, Si",High-purity elements
+Lindsay's Find,WA,-30.3275,121.6917,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Lorena,QLD,-20.7187,140.6487,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Loy Yang,VIC,-38.2347,146.564,Operating mine,Coal,Coal
+Lucky Bay,WA,-28.02938,114.183055,Operating mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+MacPherson's Reward,WA,-30.996009,121.198518,Operating mine,"Precious metals - Au, Ag",Precious metals
+Maddingley,VIC,-37.704289,144.440161,Operating mine,Coal,Coal
+Maggie Hays,WA,-32.222472,120.516998,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Maldon,VIC,-36.9849,144.0731,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Mandalong,NSW,-33.126841,151.449976,Operating mine,Coal,Coal
+Mangoola,NSW,-32.296844,150.669987,Operating mine,Coal,Coal
+Manna,WA,-30.871,122.5373,Developing mine,"Battery/Alloy metals - Li, Ta",Battery/Alloy metals
+Mannering,NSW,-33.164218,151.532511,Care and maintenance,Coal,Coal
+Maralla Road,WA,-31.7388,115.9704,Operating mine,"High-purity elements - Al, Si",High-purity elements
+Marandoo,WA,-22.638099,118.138562,Operating mine,Iron ore,Iron ore
+Marda,WA,-30.2,119.26,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Mardie,WA,-21.2507,115.8847,Developing mine,"Fertiliser elements - P,K",Fertiliser elements
+Marvel Loch,WA,-31.464569,119.492599,Operating mine,"Precious metals - Au, Ag",Precious metals
+Matilda,WA,-26.7575,120.2149,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Maules Creek,NSW,-30.545121,150.154234,Operating mine,Coal,Coal
+Maxwell,NSW,-32.34722,150.91139,Operating mine,Coal,Coal
+Maxwells,WA,-31.0809,122.1989,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+McArthur River,NT,-16.436,136.0985,Operating mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Merlin,QLD,-21.653303,140.493067,Care and maintenance,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Merlin,NT,-16.847948,136.345105,Developing mine,Diamond,Diamond
+Metropolitan,NSW,-34.184912,150.996569,Operating mine,Coal,Coal
+Middlemount,QLD,-22.848131,148.631626,Operating mine,Coal,Coal
+Millennium,QLD,-22.025,148.213,Care and maintenance,Coal,Coal
+Mindarie,SA,-34.795,140.2075,Operating mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Mindijup,WA,-34.7689,118.0768,Operating mine,"High-purity elements - Al, Si",High-purity elements
+Mineral Hill,NSW,-32.5755,146.9871,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Mining Area C,WA,-22.92817,118.96431,Operating mine,Iron ore,Iron ore
+Miralga Creek,WA,-20.9725,119.4314,Operating mine,Iron ore,Iron ore
+Moolarben,NSW,-32.29,149.785,Operating mine,Coal,Coal
+Moolart Well,WA,-27.6112,122.3479,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Moora,WA,-30.515323,116.03445,Operating mine,"High-purity elements - Al, Si",High-purity elements
+Moorvale,QLD,-21.995517,148.35358,Operating mine,Coal,Coal
+Moranbah North,QLD,-21.871331,147.956742,Operating mine,Coal,Coal
+Morningstar,VIC,-37.5686,146.2456,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Mount Arthur,NSW,-32.3483,150.9055,Operating mine,Coal,Coal
+Mount Boppy,NSW,-31.5618,146.3161,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Mount Bundy,NT,-12.917,131.4984,Developing mine,"Precious metals - Au, Ag",Precious metals
+Mount Carbine,QLD,-16.518296,145.131875,Operating mine,"Tin, Tungsten","Tin, Tungsten"
+Mount Carlton,QLD,-20.2716,147.5619,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Mount Cattlin,WA,-33.56241,120.038002,Operating mine,"Battery/Alloy metals - Li, Ta",Battery/Alloy metals
+Mount Colin,QLD,-20.7759,140.0445,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Mount Garnet,QLD,-17.6849,145.1126,Care and maintenance,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Mount Holland,WA,-32.087573,119.74847,Operating mine,"Battery/Alloy metals - Li, Ta",Battery/Alloy metals
+Mount Isa,QLD,-20.743392,139.478345,Operating mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Mount Keith,WA,-27.229599,120.54174,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Mount Lyell,TAS,-42.061,145.5855,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Mount Magnet,WA,-28.0602,117.7834,Operating mine,"Precious metals - Au, Ag",Precious metals
+Mount Marion,WA,-31.0738,121.4611,Operating mine,"Battery/Alloy metals - Li, Ta",Battery/Alloy metals
+Mount Moss,QLD,-19.085818,145.84711,Care and maintenance,Iron ore,Iron ore
+Mount Newman,WA,-23.355737,119.677787,Operating mine,Iron ore,Iron ore
+Mount Owen,NSW,-32.38684,151.099981,Operating mine,Coal,Coal
+Mount Pleasant,NSW,-32.236842,150.839983,Operating mine,Coal,Coal
+Mount Rawdon,QLD,-25.2713,151.7641,Operating mine,"Precious metals - Au, Ag",Precious metals
+Mount Thorley,NSW,-32.63741,151.108624,Operating mine,Coal,Coal
+Mount Tom Price,WA,-22.76352,117.771357,Operating mine,Iron ore,Iron ore
+Mount Webber,WA,-21.537,119.289,Operating mine,Iron ore,Iron ore
+Mount Weld,WA,-28.859949,122.547523,Operating mine,Rare earth elements,Rare earth elements
+Mount Windarra,WA,-28.4852,122.233,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Mountain of Light,SA,-30.578933,138.451284,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Mourilyan,QLD,-17.727639,146.077237,Developing mine,"High-purity elements - Al, Si",High-purity elements
+Mulga Rock,WA,-29.904345,123.592004,Developing mine,Uranium,Uranium
+Mungana,QLD,-17.0991,144.3825,Care and maintenance,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Munglinup,WA,-33.66352,120.858621,Developing mine,Graphite,Graphite
+Murchison,WA,-26.2278,118.6766,Developing mine,"Precious metals - Au, Ag",Precious metals
+Murrawombie,NSW,-31.2586,146.8719,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Murrin Murrin,WA,-28.7668,121.893,Operating mine,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Muswellbrook,NSW,-32.244988,150.941392,Care and maintenance,Coal,Coal
+Myhree,WA,-30.729,121.7753,Operating mine,"Precious metals - Au, Ag",Precious metals
+Myrtle Springs,SA,-30.4168,138.2258,Operating mine,Magnesium,Magnesium
+Myuna,NSW,-33.060111,151.568738,Operating mine,Coal,Coal
+Nammuldi,WA,-22.406866,117.395299,Operating mine,Iron ore,Iron ore
+Narrabri,NSW,-30.52,149.85,Operating mine,Coal,Coal
+Nebo-Babel,WA,-26.0954,127.7274,Developing mine,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Nelson Bay River,TAS,-41.17,144.74,Care and maintenance,Iron ore,Iron ore
+Nevoria,WA,-31.5067,119.5835,Operating mine,"Precious metals - Au, Ag",Precious metals
+New Acland,QLD,-27.269628,151.707831,Operating mine,Coal,Coal
+New Cobar,NSW,-31.5161,145.8551,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Newlands,QLD,-21.2544,147.901,Care and maintenance,Coal,Coal
+Newstan,NSW,-32.975814,151.57689,Care and maintenance,Coal,Coal
+Nicholas Downs,WA,-22.773894,120.894281,Care and maintenance,Manganese,Manganese
+Nifty,WA,-21.654853,121.570871,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Nimbus,WA,-30.7887,121.6479,Care and maintenance,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+NiWest,WA,-29.0405,121.8072,Developing mine,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Nobles Nob,NT,-19.711476,134.290138,Developing mine,"Precious metals - Au, Ag",Precious metals
+Nolans Bore,NT,-22.59385,133.238557,Developing mine,Rare earth elements,Rare earth elements
+Northern Operations,WA,-31.16898,121.6514,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Northparkes,NSW,-32.9135,148.0498,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Nova-Bollinger,WA,-31.819886,123.192413,Operating mine,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Oaky Creek,QLD,-23.041584,148.49321,Operating mine,Coal,Coal
+OK,WA,-32.2186,121.7849,Operating mine,"Precious metals - Au, Ag",Precious metals
+Olive Downs,QLD,-22.2091,148.369,Operating mine,Coal,Coal
+Olympic Dam,SA,-30.437444,136.889293,Operating mine,"Base metals - Cu, Au, U, Ag",Base metals
+Onslow,WA,-22.055688,116.195794,Operating mine,Iron ore,Iron ore
+Orion Downs,QLD,-24.425,148.361,Operating mine,Coal,Coal
+Osborne,QLD,-22.0939,140.5736,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Otto Bore,WA,-28.111005,121.015082,Operating mine,"Precious metals - Au, Ag",Precious metals
+Owendale,NSW,-32.575,147.384375,Developing mine,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Paddy's Flat,WA,-26.6181,118.5022,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Pajingo,QLD,-20.548,146.4634,Operating mine,"Precious metals - Au, Ag",Precious metals
+Paraburdoo,WA,-23.2292,117.579,Operating mine,Iron ore,Iron ore
+Paradigm,WA,-30.4749,120.9383,Operating mine,"Precious metals - Au, Ag",Precious metals
+Parker Range,WA,-31.6139,119.5955,Operating mine,Iron ore,Iron ore
+Paroo Station,WA,-26.517944,119.941926,Care and maintenance,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Paulsens,WA,-22.5794,116.2426,Operating mine,"Precious metals - Au, Ag",Precious metals
+Peak,NSW,-31.5653,145.8778,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Peak Downs,QLD,-22.219914,148.173066,Operating mine,Coal,Coal
+Peculiar Knob,SA,-29.586813,135.382648,Operating mine,Iron ore,Iron ore
+Peko,NT,-19.67536,134.28501,Care and maintenance,Iron ore,Iron ore
+Penny,WA,-28.852443,118.80643,Operating mine,"Precious metals - Au, Ag",Precious metals
+Penny's Find,WA,-30.53256,121.8745,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Philips Find,WA,-30.6129,120.966,Developing mine,"Precious metals - Au, Ag",Precious metals
+Pilgangoora,WA,-21.0723,118.8953,Operating mine,"Battery/Alloy metals - Li, Ta",Battery/Alloy metals
+Pine Dale,NSW,-33.297,150.065,Care and maintenance,Coal,Coal
+Pinnacles,NSW,-32.052,141.329,Operating mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Pioneer,WA,-31.8473,121.6803,Operating mine,"Precious metals - Au, Ag",Precious metals
+Plutonic,WA,-25.3171,119.4437,Operating mine,"Precious metals - Au, Ag",Precious metals
+Poitrel,QLD,-22.041216,148.234381,Operating mine,Coal,Coal
+Porphyry,WA,-29.7809,122.285,Operating mine,"Precious metals - Au, Ag",Precious metals
+Portia,SA,-31.433894,140.451072,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Premier,WA,-33.391728,116.286509,Operating mine,Coal,Coal
+Prominent Hill,SA,-29.72004,135.5749,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Queens Valley,WA,-22.128667,117.769485,Operating mine,Iron ore,Iron ore
+Radio Hill,WA,-20.982542,116.864841,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Ramone,WA,-26.559088,120.846986,Operating mine,"Precious metals - Au, Ag",Precious metals
+Rasp Mine,NSW,-31.965517,141.451273,Operating mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Ravensthorpe,WA,-33.64212,120.396308,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Ravenswood,QLD,-20.096942,146.879978,Operating mine,"Precious metals - Au, Ag",Precious metals
+Ravensworth,NSW,-32.44,150.997,Operating mine,Coal,Coal
+Ravensworth East,NSW,-32.3955,151.0717,Operating mine,Coal,Coal
+Red October,WA,-29.2166,122.4141,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Redbank,NT,-17.193231,137.743503,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Renison Bell,TAS,-41.7824,145.434,Operating mine,"Tin, Tungsten","Tin, Tungsten"
+Richmond,QLD,-20.45,142.787,Developing mine,"Battery/Alloy metals - V (Mo, Ti)",Battery/Alloy metals
+Ridges,WA,-16.599104,128.273183,Operating mine,Iron ore,Iron ore
+Ridgeway,NSW,-33.4353,148.9759,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Riley Creek,TAS,-41.74475,145.4114,Care and maintenance,Iron ore,Iron ore
+Riverina,WA,-29.7445,120.5645,Operating mine,"Precious metals - Au, Ag",Precious metals
+Rix's Creek,NSW,-32.52684,151.129982,Operating mine,Coal,Coal
+Rix's Creek North,NSW,-32.468839,151.134981,Operating mine,Coal,Coal
+Robe River-Mesa A,WA,-21.66316,115.830597,Operating mine,Iron ore,Iron ore
+Robe River-Mesa J,WA,-21.747484,116.242201,Operating mine,Iron ore,Iron ore
+Rocklands,QLD,-20.67809,140.363019,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Rolleston,QLD,-24.444059,148.410596,Operating mine,Coal,Coal
+Roper Bar,NT,-15.223,135.074,Operating mine,Iron ore,Iron ore
+Roper River,NT,-14.93715489,134.035746,Operating mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Rosebery,TAS,-41.7723,145.5431,Operating mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Rothsay,WA,-29.2821,116.8659,Operating mine,"Precious metals - Au, Ag",Precious metals
+Rover 1,NT,-20.002125,133.656741,Developing mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Roy Hill,WA,-22.562194,120.057771,Operating mine,Iron ore,Iron ore
+Russell Vale,NSW,-34.346849,150.869989,Operating mine,Coal,Coal
+Saint Elmo,QLD,-20.555,141.875,Developing mine,"Battery/Alloy metals - V (Mo, Ti)",Battery/Alloy metals
+Sanjiv Ridge,WA,-21.473998,119.664944,Operating mine,Iron ore,Iron ore
+Santa,WA,-31.0456,122.2028,Operating mine,"Precious metals - Au, Ag",Precious metals
+Saraji,QLD,-22.369379,148.291051,Operating mine,Coal,Coal
+Savage River,TAS,-41.487982,145.204429,Operating mine,Iron ore,Iron ore
+Savannah,WA,-17.347206,128.023493,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Sconi,QLD,-19.026873,144.954374,Developing mine,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Scotia-Green Lantern,WA,-32.4679,121.7923,Operating mine,"Precious metals - Au, Ag",Precious metals
+Second Fortune-Selkirk,WA,-29.3761,122.4358,Operating mine,"Precious metals - Au, Ag",Precious metals
+Shine,WA,-28.8484,116.9358,Operating mine,Iron ore,Iron ore
+Siberia,WA,-30.2111,120.9624,Operating mine,"Precious metals - Au, Ag",Precious metals
+Silvergrass,WA,-22.183297,117.18516,Operating mine,Iron ore,Iron ore
+Sino Iron,WA,-21.079589,116.147352,Operating mine,Iron ore,Iron ore
+Siviour,SA,-33.918009,136.428284,Developing mine,Graphite,Graphite
+Sonoma,QLD,-20.62,147.86,Operating mine,Coal,Coal
+Sorby Hills,WA,-15.4494,128.9827,Developing mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+South Emu-Triton,WA,-27.138,118.2669,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+South Kambalda,WA,-31.627845,121.661257,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+South Middleback Ranges,SA,-33.2778123,137.1164116,Operating mine,Iron ore,Iron ore
+South Walker Creek,QLD,-21.770942,148.442713,Operating mine,Coal,Coal
+Spargos Reward,WA,-31.2362,121.4687,Operating mine,"Precious metals - Au, Ag",Precious metals
+Spinifex Ridge,WA,-20.8875,120.1118,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Spotted Quoll,WA,-32.47818,119.677803,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Springvale,NSW,-33.4006,150.105627,Operating mine,Coal,Coal
+St Ives,WA,-31.2951,121.6761,Operating mine,"Precious metals - Au, Ag",Precious metals
+Starlight-Fortnum,WA,-25.33,118.36,Operating mine,"Precious metals - Au, Ag",Precious metals
+Stawell,VIC,-37.0589,142.8002,Operating mine,"Precious metals - Au, Ag",Precious metals
+Stratford Duralie,NSW,-32.11766,151.973597,Operating mine,Coal,Coal
+Sulphur Springs,WA,-21.147005,119.205477,Developing mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Sunrise,NSW,-32.756687,147.419586,Developing mine,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Sunrise Dam,WA,-29.0775,122.4245,Operating mine,"Precious metals - Au, Ag",Precious metals
+Symes,WA,-31.834268,119.065103,Operating mine,"Precious metals - Au, Ag",Precious metals
+Tahmoor,NSW,-34.2508,150.5795,Operating mine,Coal,Coal
+Tampia,WA,-32.1624,118.4517,Operating mine,"Precious metals - Au, Ag",Precious metals
+Tanami,NT,-20.5256,129.9336,Operating mine,"Precious metals - Au, Ag",Precious metals
+Tank South,WA,-31.063,122.5802,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Tarcoola,SA,-30.697135,134.529982,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Tarong,QLD,-26.813543,151.911523,Operating mine,Coal,Coal
+Tarrawonga,NSW,-30.638,150.163,Operating mine,Coal,Coal
+Telfer,WA,-21.7224,122.2109,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Texas,QLD,-28.83055,151.29045,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Thuddungra,NSW,-34.173315,148.049644,Operating mine,Magnesium,Magnesium
+Thunderbird,WA,-17.431715,122.967879,Operating mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Thunderbox,WA,-28.192,121.0054,Operating mine,"Precious metals - Au, Ag",Precious metals
+Tomingley,NSW,-32.5848,148.2067,Operating mine,"Precious metals - Au, Ag",Precious metals
+Tritton,NSW,-31.3956,146.7216,Operating mine,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Tropicana,WA,-29.26,124.55,Operating mine,"Precious metals - Au, Ag",Precious metals
+Two Boys,WA,-31.7404,121.725,Operating mine,"Precious metals - Au, Ag",Precious metals
+Ulan,NSW,-32.246863,149.749983,Operating mine,Coal,Coal
+Uley 2,SA,-34.799274,135.703459,Developing mine,Graphite,Graphite
+Ulysses,WA,-29.1838,121.3236,Operating mine,"Precious metals - Au, Ag",Precious metals
+United-Wambo,NSW,-32.558422,151.008851,Operating mine,Coal,Coal
+Venus,WA,-27.815,120.704,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Vickery,NSW,-30.76685,150.199986,Operating mine,Coal,Coal
+Victoria,WA,-31.345262,119.416703,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Vivien,WA,-27.9751,120.5695,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Vulcan,QLD,-22.287,148.188,Operating mine,Coal,Coal
+Wallace North,QLD,-20.836205,140.75395,Care and maintenance,"Base metals - Cu (Zn, Pb, Mo, Ag, Au)",Base metals
+Wambo,NSW,-32.5782,150.9981,Operating mine,Coal,Coal
+Warkworth,NSW,-32.60701,151.090164,Operating mine,Coal,Coal
+Warrawoona,WA,-21.33548,119.892303,Operating mine,"Precious metals - Au, Ag",Precious metals
+Warrego,NT,-19.4448,133.8237,Operating mine,Iron ore,Iron ore
+Werris Creek,NSW,-31.407,150.6395,Care and maintenance,Coal,Coal
+West Angelas,WA,-23.18855,118.78829,Operating mine,Iron ore,Iron ore
+Western Cell,WA,-26.64,120.25,Operating mine,"Precious metals - Au, Ag",Precious metals
+Western Range,WA,-23.225,117.561,Developing mine,Iron ore,Iron ore
+Western Turner Syncline,WA,-22.66221,117.586304,Operating mine,Iron ore,Iron ore
+Whim Creek,WA,-20.84373,117.830583,Developing mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+White Dam,SA,-32.0955,140.5793,Operating mine,"Precious metals - Au, Ag",Precious metals
+Widgiemooltha,WA,-31.494669,121.564082,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Willowdale,WA,-32.845099,116.061824,Operating mine,Bauxite,Bauxite
+Wilpinjong,NSW,-32.332,149.885,Operating mine,Coal,Coal
+Wilton-Fairhill,QLD,-23.323,148.551,Operating mine,Coal,Coal
+Wiluna West-C4,WA,-26.68036,119.9373,Operating mine,Iron ore,Iron ore
+Windimurra,WA,-28.2993,118.5352,Care and maintenance,"Battery/Alloy metals - V (Mo, Ti)",Battery/Alloy metals
+Wodgina,WA,-21.174613,118.676381,Operating mine,"Battery/Alloy metals - Li, Ta",Battery/Alloy metals
+Wolfram Camp,QLD,-17.084464,144.969389,Care and maintenance,"Tin, Tungsten","Tin, Tungsten"
+Wonarah,NT,-19.897087,136.330009,Developing mine,"Fertiliser elements - P,K",Fertiliser elements
+Wonawinta,NSW,-32.2181,145.7322,Care and maintenance,"Precious metals - Au, Ag",Precious metals
+Wongawilli,NSW,-34.474921,150.735664,Care and maintenance,Coal,Coal
+Wonmunna,WA,-23.12290261,119.04973019,Operating mine,Iron ore,Iron ore
+Wonnerup,WA,-33.653782,115.4506,Operating mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Woodie Woodie,WA,-21.638771,121.235468,Operating mine,Manganese,Manganese
+Woodlawn,NSW,-35.061317,149.571681,Developing mine,"Base metals - Zn, Pb (Cu, Ag)",Base metals
+Worsley,WA,-32.929208,116.455911,Operating mine,Bauxite,Bauxite
+Yaamba,QLD,-23.0786,150.301,Operating mine,Magnesium,Magnesium
+Yakabindie,WA,-27.4555,120.5775,Care and maintenance,"Battery/Alloy metals - Ni (Co, Cu, PGE)",Battery/Alloy metals
+Yallourn,VIC,-38.195064,146.360402,Operating mine,Coal,Coal
+Yalyalup,WA,-33.689709,115.472298,Operating mine,"Heavy mineral sands - Ti, Zr",Heavy mineral sands
+Yandi,WA,-22.734839,119.103329,Operating mine,Iron ore,Iron ore
+Yandicoogina,WA,-22.762345,119.211129,Operating mine,Iron ore,Iron ore
+Yangibana,WA,-23.891614,116.195835,Developing mine,Rare earth elements,Rare earth elements
+Yarrabee,QLD,-23.317678,149.026371,Operating mine,Coal,Coal
+Yendon,VIC,-37.6572,143.98,Care and maintenance,"High-purity elements - Al, Si",High-purity elements

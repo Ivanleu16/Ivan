@@ -1,0 +1,39 @@
+industry,period,hours_per_week,annual_income_per_person,income_vs_all_industries_pct,filled_jobs_thousands
+Accommodation and food services,1994-95,27.4,14975.0,45.9,680.5
+Accommodation and food services,2025-26,21.5,40001.0,38.8,1313.6
+Administrative and support services,1994-95,25.8,28191.0,86.3,306.2
+Administrative and support services,2025-26,23.2,95027.0,92.1,976.1
+"Agriculture, forestry and fishing",1994-95,35.3,20173.0,61.8,576.4
+"Agriculture, forestry and fishing",2025-26,35.0,101703.0,98.6,439.3
+Arts and recreation services,1994-95,25.2,19315.0,59.1,173.5
+Arts and recreation services,2025-26,23.1,57622.0,55.8,299.9
+Construction,1994-95,35.1,41982.0,128.6,501.5
+Construction,2025-26,35.1,108726.0,105.4,1354.8
+Education and training,1994-95,29.3,32237.0,98.7,714.0
+Education and training,2025-26,26.8,97013.0,94.0,1347.6
+"Electricity, gas, water and waste services",1994-95,34.7,52248.0,160.0,97.6
+"Electricity, gas, water and waste services",2025-26,34.6,153328.0,148.6,154.8
+Financial and insurance services,1994-95,32.9,37019.0,113.4,395.7
+Financial and insurance services,2025-26,32.3,143259.0,138.8,531.9
+Health care and social assistance,1994-95,26.6,32605.0,99.8,734.8
+Health care and social assistance,2025-26,26.0,90116.0,87.3,2581.8
+Information media and telecommunications,1994-95,31.1,43498.0,133.2,184.3
+Information media and telecommunications,2025-26,30.2,155468.0,150.7,209.2
+Manufacturing,1994-95,35.4,34083.0,104.4,1130.4
+Manufacturing,2025-26,33.0,103747.0,100.5,916.9
+Mining,1994-95,40.1,74654.0,228.6,94.0
+Mining,2025-26,42.2,213331.0,206.7,234.4
+Other services,1994-95,32.4,19454.0,59.6,424.7
+Other services,2025-26,29.9,74668.0,72.4,576.5
+"Professional, scientific and technical services",1994-95,34.6,41682.0,127.6,461.7
+"Professional, scientific and technical services",2025-26,31.9,128682.0,124.7,1335.3
+Public administration and safety,1994-95,31.2,42965.0,131.6,541.9
+Public administration and safety,2025-26,30.8,143484.0,139.0,886.3
+"Rental, hiring and real estate services",1994-95,35.6,27680.0,84.8,143.0
+"Rental, hiring and real estate services",2025-26,31.9,97482.0,94.5,304.7
+Retail trade,1994-95,26.9,19512.0,59.8,924.4
+Retail trade,2025-26,24.7,54275.0,52.6,1535.5
+"Transport, postal and warehousing",1994-95,36.1,32727.0,100.2,492.6
+"Transport, postal and warehousing",2025-26,32.5,101170.0,98.0,734.6
+Wholesale trade,1994-95,35.7,37814.0,115.8,428.2
+Wholesale trade,2025-26,34.2,114330.0,110.8,589.9

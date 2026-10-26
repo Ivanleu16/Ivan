@@ -1,0 +1,4 @@
+method,length_of_stay_days,transfusion_pct,cases_latest_year,study
+Robotic,1.4,0,820,Basto et al. BJU International 2016 (Victoria 2010 to 2013)
+Laparoscopic,3.6,6,173,Basto et al. BJU International 2016 (Victoria 2010 to 2013)
+Open,4.8,15,765,Basto et al. BJU International 2016 (Victoria 2010 to 2013)

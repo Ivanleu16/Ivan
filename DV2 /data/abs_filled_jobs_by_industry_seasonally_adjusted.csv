@@ -1,0 +1,2433 @@
+quarter,industry,industry_code,jobs_thousands
+1994-Q3,Accommodation and food services,H,658.6
+1994-Q4,Accommodation and food services,H,666.4
+1995-Q1,Accommodation and food services,H,675.0
+1995-Q2,Accommodation and food services,H,685.9
+1995-Q3,Accommodation and food services,H,680.5
+1995-Q4,Accommodation and food services,H,670.3
+1996-Q1,Accommodation and food services,H,661.4
+1996-Q2,Accommodation and food services,H,662.6
+1996-Q3,Accommodation and food services,H,675.2
+1996-Q4,Accommodation and food services,H,685.5
+1997-Q1,Accommodation and food services,H,700.7
+1997-Q2,Accommodation and food services,H,692.9
+1997-Q3,Accommodation and food services,H,703.4
+1997-Q4,Accommodation and food services,H,714.1
+1998-Q1,Accommodation and food services,H,707.6
+1998-Q2,Accommodation and food services,H,728.8
+1998-Q3,Accommodation and food services,H,730.7
+1998-Q4,Accommodation and food services,H,713.6
+1999-Q1,Accommodation and food services,H,731.2
+1999-Q2,Accommodation and food services,H,734.0
+1999-Q3,Accommodation and food services,H,719.4
+1999-Q4,Accommodation and food services,H,751.6
+2000-Q1,Accommodation and food services,H,755.1
+2000-Q2,Accommodation and food services,H,771.8
+2000-Q3,Accommodation and food services,H,794.8
+2000-Q4,Accommodation and food services,H,794.1
+2001-Q1,Accommodation and food services,H,796.8
+2001-Q2,Accommodation and food services,H,778.6
+2001-Q3,Accommodation and food services,H,777.7
+2001-Q4,Accommodation and food services,H,759.4
+2002-Q1,Accommodation and food services,H,772.3
+2002-Q2,Accommodation and food services,H,773.6
+2002-Q3,Accommodation and food services,H,760.7
+2002-Q4,Accommodation and food services,H,795.3
+2003-Q1,Accommodation and food services,H,783.3
+2003-Q2,Accommodation and food services,H,789.6
+2003-Q3,Accommodation and food services,H,795.4
+2003-Q4,Accommodation and food services,H,818.3
+2004-Q1,Accommodation and food services,H,805.0
+2004-Q2,Accommodation and food services,H,801.7
+2004-Q3,Accommodation and food services,H,805.3
+2004-Q4,Accommodation and food services,H,826.5
+2005-Q1,Accommodation and food services,H,853.4
+2005-Q2,Accommodation and food services,H,873.9
+2005-Q3,Accommodation and food services,H,849.4
+2005-Q4,Accommodation and food services,H,833.0
+2006-Q1,Accommodation and food services,H,800.4
+2006-Q2,Accommodation and food services,H,815.9
+2006-Q3,Accommodation and food services,H,858.8
+2006-Q4,Accommodation and food services,H,828.1
+2007-Q1,Accommodation and food services,H,865.1
+2007-Q2,Accommodation and food services,H,850.2
+2007-Q3,Accommodation and food services,H,854.2
+2007-Q4,Accommodation and food services,H,832.3
+2008-Q1,Accommodation and food services,H,844.8
+2008-Q2,Accommodation and food services,H,851.8
+2008-Q3,Accommodation and food services,H,862.1
+2008-Q4,Accommodation and food services,H,866.6
+2009-Q1,Accommodation and food services,H,882.8
+2009-Q2,Accommodation and food services,H,889.6
+2009-Q3,Accommodation and food services,H,911.8
+2009-Q4,Accommodation and food services,H,922.9
+2010-Q1,Accommodation and food services,H,910.9
+2010-Q2,Accommodation and food services,H,923.4
+2010-Q3,Accommodation and food services,H,888.4
+2010-Q4,Accommodation and food services,H,895.2
+2011-Q1,Accommodation and food services,H,903.5
+2011-Q2,Accommodation and food services,H,899.1
+2011-Q3,Accommodation and food services,H,897.1
+2011-Q4,Accommodation and food services,H,923.6
+2012-Q1,Accommodation and food services,H,912.5
+2012-Q2,Accommodation and food services,H,933.9
+2012-Q3,Accommodation and food services,H,963.5
+2012-Q4,Accommodation and food services,H,964.1
+2013-Q1,Accommodation and food services,H,966.7
+2013-Q2,Accommodation and food services,H,947.5
+2013-Q3,Accommodation and food services,H,927.4
+2013-Q4,Accommodation and food services,H,927.7
+2014-Q1,Accommodation and food services,H,941.3
+2014-Q2,Accommodation and food services,H,937.8
+2014-Q3,Accommodation and food services,H,954.2
+2014-Q4,Accommodation and food services,H,976.5
+2015-Q1,Accommodation and food services,H,983.9
+2015-Q2,Accommodation and food services,H,1006.3
+2015-Q3,Accommodation and food services,H,1029.3
+2015-Q4,Accommodation and food services,H,1006.9
+2016-Q1,Accommodation and food services,H,1001.6
+2016-Q2,Accommodation and food services,H,1027.5
+2016-Q3,Accommodation and food services,H,974.7
+2016-Q4,Accommodation and food services,H,991.7
+2017-Q1,Accommodation and food services,H,1037.9
+2017-Q2,Accommodation and food services,H,1059.2
+2017-Q3,Accommodation and food services,H,1080.6
+2017-Q4,Accommodation and food services,H,1095.8
+2018-Q1,Accommodation and food services,H,1073.7
+2018-Q2,Accommodation and food services,H,1098.1
+2018-Q3,Accommodation and food services,H,1090.7
+2018-Q4,Accommodation and food services,H,1066.3
+2019-Q1,Accommodation and food services,H,1074.1
+2019-Q2,Accommodation and food services,H,1076.8
+2019-Q3,Accommodation and food services,H,1122.0
+2019-Q4,Accommodation and food services,H,1171.9
+2020-Q1,Accommodation and food services,H,1101.2
+2020-Q2,Accommodation and food services,H,944.2
+2020-Q3,Accommodation and food services,H,1021.1
+2020-Q4,Accommodation and food services,H,1033.5
+2021-Q1,Accommodation and food services,H,1077.1
+2021-Q2,Accommodation and food services,H,1074.6
+2021-Q3,Accommodation and food services,H,908.7
+2021-Q4,Accommodation and food services,H,1058.5
+2022-Q1,Accommodation and food services,H,1064.6
+2022-Q2,Accommodation and food services,H,1088.7
+2022-Q3,Accommodation and food services,H,1130.7
+2022-Q4,Accommodation and food services,H,1177.2
+2023-Q1,Accommodation and food services,H,1254.3
+2023-Q2,Accommodation and food services,H,1233.2
+2023-Q3,Accommodation and food services,H,1302.4
+2023-Q4,Accommodation and food services,H,1212.5
+2024-Q1,Accommodation and food services,H,1205.7
+2024-Q2,Accommodation and food services,H,1223.1
+2024-Q3,Accommodation and food services,H,1243.4
+2024-Q4,Accommodation and food services,H,1263.1
+2025-Q1,Accommodation and food services,H,1257.7
+2025-Q2,Accommodation and food services,H,1282.8
+2025-Q3,Accommodation and food services,H,1295.6
+2025-Q4,Accommodation and food services,H,1304.4
+2026-Q1,Accommodation and food services,H,1299.6
+2026-Q2,Accommodation and food services,H,1313.6
+1994-Q3,Administrative and support services,N,287.6
+1994-Q4,Administrative and support services,N,296.6
+1995-Q1,Administrative and support services,N,323.3
+1995-Q2,Administrative and support services,N,317.6
+1995-Q3,Administrative and support services,N,306.2
+1995-Q4,Administrative and support services,N,302.0
+1996-Q1,Administrative and support services,N,303.4
+1996-Q2,Administrative and support services,N,333.9
+1996-Q3,Administrative and support services,N,335.0
+1996-Q4,Administrative and support services,N,338.7
+1997-Q1,Administrative and support services,N,302.7
+1997-Q2,Administrative and support services,N,307.4
+1997-Q3,Administrative and support services,N,317.4
+1997-Q4,Administrative and support services,N,326.4
+1998-Q1,Administrative and support services,N,331.8
+1998-Q2,Administrative and support services,N,345.2
+1998-Q3,Administrative and support services,N,362.6
+1998-Q4,Administrative and support services,N,377.5
+1999-Q1,Administrative and support services,N,401.2
+1999-Q2,Administrative and support services,N,408.9
+1999-Q3,Administrative and support services,N,435.5
+1999-Q4,Administrative and support services,N,448.1
+2000-Q1,Administrative and support services,N,453.8
+2000-Q2,Administrative and support services,N,473.5
+2000-Q3,Administrative and support services,N,492.2
+2000-Q4,Administrative and support services,N,504.0
+2001-Q1,Administrative and support services,N,502.7
+2001-Q2,Administrative and support services,N,528.1
+2001-Q3,Administrative and support services,N,536.9
+2001-Q4,Administrative and support services,N,550.5
+2002-Q1,Administrative and support services,N,563.0
+2002-Q2,Administrative and support services,N,560.7
+2002-Q3,Administrative and support services,N,557.4
+2002-Q4,Administrative and support services,N,569.8
+2003-Q1,Administrative and support services,N,579.8
+2003-Q2,Administrative and support services,N,585.7
+2003-Q3,Administrative and support services,N,604.4
+2003-Q4,Administrative and support services,N,603.7
+2004-Q1,Administrative and support services,N,634.0
+2004-Q2,Administrative and support services,N,638.0
+2004-Q3,Administrative and support services,N,640.4
+2004-Q4,Administrative and support services,N,645.3
+2005-Q1,Administrative and support services,N,640.0
+2005-Q2,Administrative and support services,N,655.8
+2005-Q3,Administrative and support services,N,649.8
+2005-Q4,Administrative and support services,N,657.7
+2006-Q1,Administrative and support services,N,666.5
+2006-Q2,Administrative and support services,N,688.8
+2006-Q3,Administrative and support services,N,686.0
+2006-Q4,Administrative and support services,N,719.6
+2007-Q1,Administrative and support services,N,738.7
+2007-Q2,Administrative and support services,N,731.3
+2007-Q3,Administrative and support services,N,737.0
+2007-Q4,Administrative and support services,N,757.1
+2008-Q1,Administrative and support services,N,772.1
+2008-Q2,Administrative and support services,N,759.6
+2008-Q3,Administrative and support services,N,735.2
+2008-Q4,Administrative and support services,N,699.7
+2009-Q1,Administrative and support services,N,661.9
+2009-Q2,Administrative and support services,N,658.7
+2009-Q3,Administrative and support services,N,682.3
+2009-Q4,Administrative and support services,N,695.8
+2010-Q1,Administrative and support services,N,715.3
+2010-Q2,Administrative and support services,N,726.9
+2010-Q3,Administrative and support services,N,731.7
+2010-Q4,Administrative and support services,N,736.2
+2011-Q1,Administrative and support services,N,762.6
+2011-Q2,Administrative and support services,N,772.2
+2011-Q3,Administrative and support services,N,777.0
+2011-Q4,Administrative and support services,N,795.6
+2012-Q1,Administrative and support services,N,782.8
+2012-Q2,Administrative and support services,N,815.2
+2012-Q3,Administrative and support services,N,818.6
+2012-Q4,Administrative and support services,N,792.8
+2013-Q1,Administrative and support services,N,792.3
+2013-Q2,Administrative and support services,N,813.3
+2013-Q3,Administrative and support services,N,821.4
+2013-Q4,Administrative and support services,N,849.3
+2014-Q1,Administrative and support services,N,821.4
+2014-Q2,Administrative and support services,N,793.5
+2014-Q3,Administrative and support services,N,800.0
+2014-Q4,Administrative and support services,N,802.3
+2015-Q1,Administrative and support services,N,833.8
+2015-Q2,Administrative and support services,N,842.7
+2015-Q3,Administrative and support services,N,858.5
+2015-Q4,Administrative and support services,N,860.2
+2016-Q1,Administrative and support services,N,849.4
+2016-Q2,Administrative and support services,N,831.3
+2016-Q3,Administrative and support services,N,817.3
+2016-Q4,Administrative and support services,N,870.3
+2017-Q1,Administrative and support services,N,830.1
+2017-Q2,Administrative and support services,N,871.0
+2017-Q3,Administrative and support services,N,893.0
+2017-Q4,Administrative and support services,N,901.0
+2018-Q1,Administrative and support services,N,940.2
+2018-Q2,Administrative and support services,N,941.9
+2018-Q3,Administrative and support services,N,900.6
+2018-Q4,Administrative and support services,N,904.0
+2019-Q1,Administrative and support services,N,913.3
+2019-Q2,Administrative and support services,N,954.7
+2019-Q3,Administrative and support services,N,971.8
+2019-Q4,Administrative and support services,N,952.2
+2020-Q1,Administrative and support services,N,944.0
+2020-Q2,Administrative and support services,N,830.2
+2020-Q3,Administrative and support services,N,897.2
+2020-Q4,Administrative and support services,N,916.4
+2021-Q1,Administrative and support services,N,913.5
+2021-Q2,Administrative and support services,N,915.4
+2021-Q3,Administrative and support services,N,947.7
+2021-Q4,Administrative and support services,N,976.7
+2022-Q1,Administrative and support services,N,968.9
+2022-Q2,Administrative and support services,N,1005.9
+2022-Q3,Administrative and support services,N,1041.0
+2022-Q4,Administrative and support services,N,1016.3
+2023-Q1,Administrative and support services,N,1022.7
+2023-Q2,Administrative and support services,N,991.3
+2023-Q3,Administrative and support services,N,973.6
+2023-Q4,Administrative and support services,N,976.2
+2024-Q1,Administrative and support services,N,968.7
+2024-Q2,Administrative and support services,N,963.0
+2024-Q3,Administrative and support services,N,948.4
+2024-Q4,Administrative and support services,N,943.0
+2025-Q1,Administrative and support services,N,942.0
+2025-Q2,Administrative and support services,N,945.5
+2025-Q3,Administrative and support services,N,953.1
+2025-Q4,Administrative and support services,N,954.7
+2026-Q1,Administrative and support services,N,972.6
+2026-Q2,Administrative and support services,N,976.1
+1994-Q3,"Agriculture, forestry and fishing",A,529.8
+1994-Q4,"Agriculture, forestry and fishing",A,530.6
+1995-Q1,"Agriculture, forestry and fishing",A,544.5
+1995-Q2,"Agriculture, forestry and fishing",A,556.1
+1995-Q3,"Agriculture, forestry and fishing",A,576.4
+1995-Q4,"Agriculture, forestry and fishing",A,578.8
+1996-Q1,"Agriculture, forestry and fishing",A,577.7
+1996-Q2,"Agriculture, forestry and fishing",A,576.0
+1996-Q3,"Agriculture, forestry and fishing",A,546.0
+1996-Q4,"Agriculture, forestry and fishing",A,495.5
+1997-Q1,"Agriculture, forestry and fishing",A,532.8
+1997-Q2,"Agriculture, forestry and fishing",A,513.7
+1997-Q3,"Agriculture, forestry and fishing",A,506.2
+1997-Q4,"Agriculture, forestry and fishing",A,497.6
+1998-Q1,"Agriculture, forestry and fishing",A,487.8
+1998-Q2,"Agriculture, forestry and fishing",A,494.9
+1998-Q3,"Agriculture, forestry and fishing",A,498.5
+1998-Q4,"Agriculture, forestry and fishing",A,513.4
+1999-Q1,"Agriculture, forestry and fishing",A,498.6
+1999-Q2,"Agriculture, forestry and fishing",A,509.7
+1999-Q3,"Agriculture, forestry and fishing",A,522.8
+1999-Q4,"Agriculture, forestry and fishing",A,536.0
+2000-Q1,"Agriculture, forestry and fishing",A,540.6
+2000-Q2,"Agriculture, forestry and fishing",A,531.9
+2000-Q3,"Agriculture, forestry and fishing",A,537.1
+2000-Q4,"Agriculture, forestry and fishing",A,539.5
+2001-Q1,"Agriculture, forestry and fishing",A,535.9
+2001-Q2,"Agriculture, forestry and fishing",A,541.3
+2001-Q3,"Agriculture, forestry and fishing",A,528.0
+2001-Q4,"Agriculture, forestry and fishing",A,525.5
+2002-Q1,"Agriculture, forestry and fishing",A,554.1
+2002-Q2,"Agriculture, forestry and fishing",A,567.6
+2002-Q3,"Agriculture, forestry and fishing",A,579.1
+2002-Q4,"Agriculture, forestry and fishing",A,543.9
+2003-Q1,"Agriculture, forestry and fishing",A,542.9
+2003-Q2,"Agriculture, forestry and fishing",A,539.3
+2003-Q3,"Agriculture, forestry and fishing",A,544.5
+2003-Q4,"Agriculture, forestry and fishing",A,550.9
+2004-Q1,"Agriculture, forestry and fishing",A,551.8
+2004-Q2,"Agriculture, forestry and fishing",A,562.5
+2004-Q3,"Agriculture, forestry and fishing",A,566.6
+2004-Q4,"Agriculture, forestry and fishing",A,556.5
+2005-Q1,"Agriculture, forestry and fishing",A,545.9
+2005-Q2,"Agriculture, forestry and fishing",A,536.8
+2005-Q3,"Agriculture, forestry and fishing",A,510.1
+2005-Q4,"Agriculture, forestry and fishing",A,530.4
+2006-Q1,"Agriculture, forestry and fishing",A,521.4
+2006-Q2,"Agriculture, forestry and fishing",A,523.0
+2006-Q3,"Agriculture, forestry and fishing",A,538.8
+2006-Q4,"Agriculture, forestry and fishing",A,491.4
+2007-Q1,"Agriculture, forestry and fishing",A,491.8
+2007-Q2,"Agriculture, forestry and fishing",A,494.0
+2007-Q3,"Agriculture, forestry and fishing",A,506.0
+2007-Q4,"Agriculture, forestry and fishing",A,509.2
+2008-Q1,"Agriculture, forestry and fishing",A,501.4
+2008-Q2,"Agriculture, forestry and fishing",A,491.6
+2008-Q3,"Agriculture, forestry and fishing",A,489.7
+2008-Q4,"Agriculture, forestry and fishing",A,488.4
+2009-Q1,"Agriculture, forestry and fishing",A,481.8
+2009-Q2,"Agriculture, forestry and fishing",A,484.2
+2009-Q3,"Agriculture, forestry and fishing",A,464.0
+2009-Q4,"Agriculture, forestry and fishing",A,467.1
+2010-Q1,"Agriculture, forestry and fishing",A,478.3
+2010-Q2,"Agriculture, forestry and fishing",A,468.5
+2010-Q3,"Agriculture, forestry and fishing",A,494.1
+2010-Q4,"Agriculture, forestry and fishing",A,485.2
+2011-Q1,"Agriculture, forestry and fishing",A,489.2
+2011-Q2,"Agriculture, forestry and fishing",A,487.4
+2011-Q3,"Agriculture, forestry and fishing",A,491.5
+2011-Q4,"Agriculture, forestry and fishing",A,492.8
+2012-Q1,"Agriculture, forestry and fishing",A,485.5
+2012-Q2,"Agriculture, forestry and fishing",A,483.8
+2012-Q3,"Agriculture, forestry and fishing",A,484.3
+2012-Q4,"Agriculture, forestry and fishing",A,481.5
+2013-Q1,"Agriculture, forestry and fishing",A,484.0
+2013-Q2,"Agriculture, forestry and fishing",A,496.3
+2013-Q3,"Agriculture, forestry and fishing",A,496.0
+2013-Q4,"Agriculture, forestry and fishing",A,497.1
+2014-Q1,"Agriculture, forestry and fishing",A,500.3
+2014-Q2,"Agriculture, forestry and fishing",A,494.5
+2014-Q3,"Agriculture, forestry and fishing",A,485.9
+2014-Q4,"Agriculture, forestry and fishing",A,485.1
+2015-Q1,"Agriculture, forestry and fishing",A,485.1
+2015-Q2,"Agriculture, forestry and fishing",A,480.0
+2015-Q3,"Agriculture, forestry and fishing",A,471.9
+2015-Q4,"Agriculture, forestry and fishing",A,487.8
+2016-Q1,"Agriculture, forestry and fishing",A,490.5
+2016-Q2,"Agriculture, forestry and fishing",A,488.9
+2016-Q3,"Agriculture, forestry and fishing",A,502.1
+2016-Q4,"Agriculture, forestry and fishing",A,492.4
+2017-Q1,"Agriculture, forestry and fishing",A,484.6
+2017-Q2,"Agriculture, forestry and fishing",A,478.7
+2017-Q3,"Agriculture, forestry and fishing",A,467.0
+2017-Q4,"Agriculture, forestry and fishing",A,464.3
+2018-Q1,"Agriculture, forestry and fishing",A,468.4
+2018-Q2,"Agriculture, forestry and fishing",A,468.8
+2018-Q3,"Agriculture, forestry and fishing",A,449.7
+2018-Q4,"Agriculture, forestry and fishing",A,454.2
+2019-Q1,"Agriculture, forestry and fishing",A,456.4
+2019-Q2,"Agriculture, forestry and fishing",A,455.7
+2019-Q3,"Agriculture, forestry and fishing",A,444.0
+2019-Q4,"Agriculture, forestry and fishing",A,429.1
+2020-Q1,"Agriculture, forestry and fishing",A,434.3
+2020-Q2,"Agriculture, forestry and fishing",A,432.0
+2020-Q3,"Agriculture, forestry and fishing",A,438.6
+2020-Q4,"Agriculture, forestry and fishing",A,445.8
+2021-Q1,"Agriculture, forestry and fishing",A,446.9
+2021-Q2,"Agriculture, forestry and fishing",A,451.5
+2021-Q3,"Agriculture, forestry and fishing",A,460.1
+2021-Q4,"Agriculture, forestry and fishing",A,465.6
+2022-Q1,"Agriculture, forestry and fishing",A,456.6
+2022-Q2,"Agriculture, forestry and fishing",A,461.8
+2022-Q3,"Agriculture, forestry and fishing",A,457.3
+2022-Q4,"Agriculture, forestry and fishing",A,455.3
+2023-Q1,"Agriculture, forestry and fishing",A,456.4
+2023-Q2,"Agriculture, forestry and fishing",A,451.1
+2023-Q3,"Agriculture, forestry and fishing",A,452.9
+2023-Q4,"Agriculture, forestry and fishing",A,443.2
+2024-Q1,"Agriculture, forestry and fishing",A,440.1
+2024-Q2,"Agriculture, forestry and fishing",A,440.5
+2024-Q3,"Agriculture, forestry and fishing",A,447.3
+2024-Q4,"Agriculture, forestry and fishing",A,445.2
+2025-Q1,"Agriculture, forestry and fishing",A,443.5
+2025-Q2,"Agriculture, forestry and fishing",A,441.2
+2025-Q3,"Agriculture, forestry and fishing",A,437.1
+2025-Q4,"Agriculture, forestry and fishing",A,437.5
+2026-Q1,"Agriculture, forestry and fishing",A,437.2
+2026-Q2,"Agriculture, forestry and fishing",A,439.3
+1994-Q3,Arts and recreation services,R,142.8
+1994-Q4,Arts and recreation services,R,160.1
+1995-Q1,Arts and recreation services,R,166.6
+1995-Q2,Arts and recreation services,R,164.1
+1995-Q3,Arts and recreation services,R,173.5
+1995-Q4,Arts and recreation services,R,171.0
+1996-Q1,Arts and recreation services,R,174.3
+1996-Q2,Arts and recreation services,R,170.0
+1996-Q3,Arts and recreation services,R,155.1
+1996-Q4,Arts and recreation services,R,159.0
+1997-Q1,Arts and recreation services,R,168.1
+1997-Q2,Arts and recreation services,R,167.5
+1997-Q3,Arts and recreation services,R,191.6
+1997-Q4,Arts and recreation services,R,192.2
+1998-Q1,Arts and recreation services,R,181.3
+1998-Q2,Arts and recreation services,R,189.8
+1998-Q3,Arts and recreation services,R,188.5
+1998-Q4,Arts and recreation services,R,187.5
+1999-Q1,Arts and recreation services,R,193.0
+1999-Q2,Arts and recreation services,R,189.6
+1999-Q3,Arts and recreation services,R,183.6
+1999-Q4,Arts and recreation services,R,187.0
+2000-Q1,Arts and recreation services,R,190.5
+2000-Q2,Arts and recreation services,R,201.1
+2000-Q3,Arts and recreation services,R,203.3
+2000-Q4,Arts and recreation services,R,188.8
+2001-Q1,Arts and recreation services,R,184.1
+2001-Q2,Arts and recreation services,R,185.5
+2001-Q3,Arts and recreation services,R,188.1
+2001-Q4,Arts and recreation services,R,192.2
+2002-Q1,Arts and recreation services,R,186.8
+2002-Q2,Arts and recreation services,R,184.4
+2002-Q3,Arts and recreation services,R,185.2
+2002-Q4,Arts and recreation services,R,192.1
+2003-Q1,Arts and recreation services,R,191.6
+2003-Q2,Arts and recreation services,R,184.4
+2003-Q3,Arts and recreation services,R,187.0
+2003-Q4,Arts and recreation services,R,199.7
+2004-Q1,Arts and recreation services,R,180.9
+2004-Q2,Arts and recreation services,R,194.8
+2004-Q3,Arts and recreation services,R,189.8
+2004-Q4,Arts and recreation services,R,187.3
+2005-Q1,Arts and recreation services,R,197.1
+2005-Q2,Arts and recreation services,R,192.1
+2005-Q3,Arts and recreation services,R,189.0
+2005-Q4,Arts and recreation services,R,188.0
+2006-Q1,Arts and recreation services,R,187.7
+2006-Q2,Arts and recreation services,R,197.0
+2006-Q3,Arts and recreation services,R,199.0
+2006-Q4,Arts and recreation services,R,199.5
+2007-Q1,Arts and recreation services,R,194.4
+2007-Q2,Arts and recreation services,R,194.9
+2007-Q3,Arts and recreation services,R,190.7
+2007-Q4,Arts and recreation services,R,201.6
+2008-Q1,Arts and recreation services,R,192.2
+2008-Q2,Arts and recreation services,R,192.8
+2008-Q3,Arts and recreation services,R,194.2
+2008-Q4,Arts and recreation services,R,190.9
+2009-Q1,Arts and recreation services,R,195.5
+2009-Q2,Arts and recreation services,R,196.3
+2009-Q3,Arts and recreation services,R,197.0
+2009-Q4,Arts and recreation services,R,205.1
+2010-Q1,Arts and recreation services,R,207.4
+2010-Q2,Arts and recreation services,R,201.2
+2010-Q3,Arts and recreation services,R,211.9
+2010-Q4,Arts and recreation services,R,207.0
+2011-Q1,Arts and recreation services,R,211.5
+2011-Q2,Arts and recreation services,R,211.1
+2011-Q3,Arts and recreation services,R,214.5
+2011-Q4,Arts and recreation services,R,209.9
+2012-Q1,Arts and recreation services,R,198.7
+2012-Q2,Arts and recreation services,R,214.1
+2012-Q3,Arts and recreation services,R,217.5
+2012-Q4,Arts and recreation services,R,205.9
+2013-Q1,Arts and recreation services,R,205.3
+2013-Q2,Arts and recreation services,R,209.4
+2013-Q3,Arts and recreation services,R,206.0
+2013-Q4,Arts and recreation services,R,213.9
+2014-Q1,Arts and recreation services,R,222.6
+2014-Q2,Arts and recreation services,R,226.2
+2014-Q3,Arts and recreation services,R,221.1
+2014-Q4,Arts and recreation services,R,226.6
+2015-Q1,Arts and recreation services,R,228.5
+2015-Q2,Arts and recreation services,R,219.0
+2015-Q3,Arts and recreation services,R,225.3
+2015-Q4,Arts and recreation services,R,215.9
+2016-Q1,Arts and recreation services,R,202.0
+2016-Q2,Arts and recreation services,R,211.3
+2016-Q3,Arts and recreation services,R,209.0
+2016-Q4,Arts and recreation services,R,211.8
+2017-Q1,Arts and recreation services,R,228.0
+2017-Q2,Arts and recreation services,R,213.8
+2017-Q3,Arts and recreation services,R,216.6
+2017-Q4,Arts and recreation services,R,220.6
+2018-Q1,Arts and recreation services,R,235.0
+2018-Q2,Arts and recreation services,R,224.7
+2018-Q3,Arts and recreation services,R,229.5
+2018-Q4,Arts and recreation services,R,239.8
+2019-Q1,Arts and recreation services,R,232.0
+2019-Q2,Arts and recreation services,R,241.9
+2019-Q3,Arts and recreation services,R,248.7
+2019-Q4,Arts and recreation services,R,255.9
+2020-Q1,Arts and recreation services,R,243.6
+2020-Q2,Arts and recreation services,R,203.9
+2020-Q3,Arts and recreation services,R,217.5
+2020-Q4,Arts and recreation services,R,220.6
+2021-Q1,Arts and recreation services,R,219.1
+2021-Q2,Arts and recreation services,R,217.1
+2021-Q3,Arts and recreation services,R,197.6
+2021-Q4,Arts and recreation services,R,211.9
+2022-Q1,Arts and recreation services,R,221.9
+2022-Q2,Arts and recreation services,R,251.5
+2022-Q3,Arts and recreation services,R,241.5
+2022-Q4,Arts and recreation services,R,238.0
+2023-Q1,Arts and recreation services,R,247.8
+2023-Q2,Arts and recreation services,R,274.0
+2023-Q3,Arts and recreation services,R,283.7
+2023-Q4,Arts and recreation services,R,291.0
+2024-Q1,Arts and recreation services,R,303.1
+2024-Q2,Arts and recreation services,R,289.0
+2024-Q3,Arts and recreation services,R,286.1
+2024-Q4,Arts and recreation services,R,285.1
+2025-Q1,Arts and recreation services,R,285.4
+2025-Q2,Arts and recreation services,R,286.8
+2025-Q3,Arts and recreation services,R,290.4
+2025-Q4,Arts and recreation services,R,293.9
+2026-Q1,Arts and recreation services,R,296.1
+2026-Q2,Arts and recreation services,R,299.9
+1994-Q3,Construction,E,525.8
+1994-Q4,Construction,E,527.8
+1995-Q1,Construction,E,512.9
+1995-Q2,Construction,E,507.7
+1995-Q3,Construction,E,501.5
+1995-Q4,Construction,E,509.6
+1996-Q1,Construction,E,531.8
+1996-Q2,Construction,E,529.3
+1996-Q3,Construction,E,505.9
+1996-Q4,Construction,E,542.0
+1997-Q1,Construction,E,530.0
+1997-Q2,Construction,E,548.5
+1997-Q3,Construction,E,534.1
+1997-Q4,Construction,E,530.1
+1998-Q1,Construction,E,542.7
+1998-Q2,Construction,E,547.2
+1998-Q3,Construction,E,574.2
+1998-Q4,Construction,E,586.1
+1999-Q1,Construction,E,572.8
+1999-Q2,Construction,E,564.7
+1999-Q3,Construction,E,589.2
+1999-Q4,Construction,E,599.6
+2000-Q1,Construction,E,604.1
+2000-Q2,Construction,E,632.3
+2000-Q3,Construction,E,645.3
+2000-Q4,Construction,E,620.0
+2001-Q1,Construction,E,625.1
+2001-Q2,Construction,E,602.3
+2001-Q3,Construction,E,576.1
+2001-Q4,Construction,E,582.9
+2002-Q1,Construction,E,612.8
+2002-Q2,Construction,E,642.1
+2002-Q3,Construction,E,649.8
+2002-Q4,Construction,E,719.2
+2003-Q1,Construction,E,689.2
+2003-Q2,Construction,E,719.9
+2003-Q3,Construction,E,736.2
+2003-Q4,Construction,E,753.0
+2004-Q1,Construction,E,754.0
+2004-Q2,Construction,E,754.6
+2004-Q3,Construction,E,767.8
+2004-Q4,Construction,E,766.1
+2005-Q1,Construction,E,779.8
+2005-Q2,Construction,E,816.2
+2005-Q3,Construction,E,813.7
+2005-Q4,Construction,E,831.4
+2006-Q1,Construction,E,816.9
+2006-Q2,Construction,E,820.4
+2006-Q3,Construction,E,864.9
+2006-Q4,Construction,E,898.0
+2007-Q1,Construction,E,937.9
+2007-Q2,Construction,E,947.3
+2007-Q3,Construction,E,950.3
+2007-Q4,Construction,E,977.7
+2008-Q1,Construction,E,981.0
+2008-Q2,Construction,E,1021.2
+2008-Q3,Construction,E,1030.4
+2008-Q4,Construction,E,1004.6
+2009-Q1,Construction,E,1011.3
+2009-Q2,Construction,E,998.5
+2009-Q3,Construction,E,993.1
+2009-Q4,Construction,E,996.5
+2010-Q1,Construction,E,985.0
+2010-Q2,Construction,E,995.8
+2010-Q3,Construction,E,1002.0
+2010-Q4,Construction,E,1043.9
+2011-Q1,Construction,E,1054.6
+2011-Q2,Construction,E,1047.1
+2011-Q3,Construction,E,1095.2
+2011-Q4,Construction,E,1057.1
+2012-Q1,Construction,E,1055.8
+2012-Q2,Construction,E,1014.2
+2012-Q3,Construction,E,997.8
+2012-Q4,Construction,E,990.6
+2013-Q1,Construction,E,1028.5
+2013-Q2,Construction,E,1042.3
+2013-Q3,Construction,E,1009.4
+2013-Q4,Construction,E,999.1
+2014-Q1,Construction,E,1006.1
+2014-Q2,Construction,E,1049.2
+2014-Q3,Construction,E,1089.6
+2014-Q4,Construction,E,1093.2
+2015-Q1,Construction,E,1062.6
+2015-Q2,Construction,E,1062.6
+2015-Q3,Construction,E,1094.5
+2015-Q4,Construction,E,1119.4
+2016-Q1,Construction,E,1141.4
+2016-Q2,Construction,E,1077.5
+2016-Q3,Construction,E,1081.5
+2016-Q4,Construction,E,1062.9
+2017-Q1,Construction,E,1062.9
+2017-Q2,Construction,E,1091.2
+2017-Q3,Construction,E,1087.2
+2017-Q4,Construction,E,1088.4
+2018-Q1,Construction,E,1113.3
+2018-Q2,Construction,E,1145.6
+2018-Q3,Construction,E,1146.5
+2018-Q4,Construction,E,1162.0
+2019-Q1,Construction,E,1175.4
+2019-Q2,Construction,E,1135.0
+2019-Q3,Construction,E,1144.2
+2019-Q4,Construction,E,1149.0
+2020-Q1,Construction,E,1193.7
+2020-Q2,Construction,E,1066.5
+2020-Q3,Construction,E,1104.1
+2020-Q4,Construction,E,1134.6
+2021-Q1,Construction,E,1152.2
+2021-Q2,Construction,E,1199.9
+2021-Q3,Construction,E,1198.6
+2021-Q4,Construction,E,1188.6
+2022-Q1,Construction,E,1220.9
+2022-Q2,Construction,E,1229.3
+2022-Q3,Construction,E,1230.9
+2022-Q4,Construction,E,1219.2
+2023-Q1,Construction,E,1192.3
+2023-Q2,Construction,E,1218.9
+2023-Q3,Construction,E,1205.1
+2023-Q4,Construction,E,1250.2
+2024-Q1,Construction,E,1270.3
+2024-Q2,Construction,E,1281.8
+2024-Q3,Construction,E,1270.8
+2024-Q4,Construction,E,1271.2
+2025-Q1,Construction,E,1288.6
+2025-Q2,Construction,E,1292.1
+2025-Q3,Construction,E,1313.2
+2025-Q4,Construction,E,1326.4
+2026-Q1,Construction,E,1340.5
+2026-Q2,Construction,E,1354.8
+1994-Q3,Education and training,P,630.4
+1994-Q4,Education and training,P,652.3
+1995-Q1,Education and training,P,682.1
+1995-Q2,Education and training,P,698.2
+1995-Q3,Education and training,P,714.0
+1995-Q4,Education and training,P,693.0
+1996-Q1,Education and training,P,696.2
+1996-Q2,Education and training,P,711.5
+1996-Q3,Education and training,P,724.5
+1996-Q4,Education and training,P,731.7
+1997-Q1,Education and training,P,707.0
+1997-Q2,Education and training,P,716.8
+1997-Q3,Education and training,P,716.6
+1997-Q4,Education and training,P,741.1
+1998-Q1,Education and training,P,740.0
+1998-Q2,Education and training,P,730.8
+1998-Q3,Education and training,P,729.5
+1998-Q4,Education and training,P,716.4
+1999-Q1,Education and training,P,721.7
+1999-Q2,Education and training,P,740.7
+1999-Q3,Education and training,P,740.0
+1999-Q4,Education and training,P,741.2
+2000-Q1,Education and training,P,733.8
+2000-Q2,Education and training,P,740.9
+2000-Q3,Education and training,P,754.7
+2000-Q4,Education and training,P,743.7
+2001-Q1,Education and training,P,711.1
+2001-Q2,Education and training,P,747.5
+2001-Q3,Education and training,P,740.2
+2001-Q4,Education and training,P,741.8
+2002-Q1,Education and training,P,758.3
+2002-Q2,Education and training,P,736.5
+2002-Q3,Education and training,P,733.4
+2002-Q4,Education and training,P,744.5
+2003-Q1,Education and training,P,751.5
+2003-Q2,Education and training,P,738.6
+2003-Q3,Education and training,P,734.6
+2003-Q4,Education and training,P,739.7
+2004-Q1,Education and training,P,750.8
+2004-Q2,Education and training,P,749.2
+2004-Q3,Education and training,P,737.8
+2004-Q4,Education and training,P,766.2
+2005-Q1,Education and training,P,770.2
+2005-Q2,Education and training,P,778.4
+2005-Q3,Education and training,P,787.2
+2005-Q4,Education and training,P,784.6
+2006-Q1,Education and training,P,796.7
+2006-Q2,Education and training,P,792.9
+2006-Q3,Education and training,P,802.1
+2006-Q4,Education and training,P,793.2
+2007-Q1,Education and training,P,771.2
+2007-Q2,Education and training,P,764.4
+2007-Q3,Education and training,P,763.4
+2007-Q4,Education and training,P,771.1
+2008-Q1,Education and training,P,792.9
+2008-Q2,Education and training,P,798.2
+2008-Q3,Education and training,P,797.9
+2008-Q4,Education and training,P,829.2
+2009-Q1,Education and training,P,847.8
+2009-Q2,Education and training,P,842.7
+2009-Q3,Education and training,P,862.3
+2009-Q4,Education and training,P,869.0
+2010-Q1,Education and training,P,858.0
+2010-Q2,Education and training,P,882.0
+2010-Q3,Education and training,P,895.4
+2010-Q4,Education and training,P,897.9
+2011-Q1,Education and training,P,898.4
+2011-Q2,Education and training,P,907.7
+2011-Q3,Education and training,P,903.4
+2011-Q4,Education and training,P,880.2
+2012-Q1,Education and training,P,892.6
+2012-Q2,Education and training,P,895.0
+2012-Q3,Education and training,P,881.6
+2012-Q4,Education and training,P,924.0
+2013-Q1,Education and training,P,912.7
+2013-Q2,Education and training,P,928.5
+2013-Q3,Education and training,P,941.6
+2013-Q4,Education and training,P,942.4
+2014-Q1,Education and training,P,951.3
+2014-Q2,Education and training,P,947.5
+2014-Q3,Education and training,P,942.1
+2014-Q4,Education and training,P,961.4
+2015-Q1,Education and training,P,980.6
+2015-Q2,Education and training,P,982.4
+2015-Q3,Education and training,P,974.8
+2015-Q4,Education and training,P,971.2
+2016-Q1,Education and training,P,969.7
+2016-Q2,Education and training,P,996.5
+2016-Q3,Education and training,P,1002.8
+2016-Q4,Education and training,P,1001.4
+2017-Q1,Education and training,P,1003.0
+2017-Q2,Education and training,P,1018.9
+2017-Q3,Education and training,P,1045.0
+2017-Q4,Education and training,P,1050.0
+2018-Q1,Education and training,P,1054.1
+2018-Q2,Education and training,P,1049.3
+2018-Q3,Education and training,P,1057.7
+2018-Q4,Education and training,P,1074.2
+2019-Q1,Education and training,P,1054.7
+2019-Q2,Education and training,P,1068.6
+2019-Q3,Education and training,P,1088.3
+2019-Q4,Education and training,P,1086.3
+2020-Q1,Education and training,P,1085.8
+2020-Q2,Education and training,P,1023.3
+2020-Q3,Education and training,P,1031.7
+2020-Q4,Education and training,P,1081.8
+2021-Q1,Education and training,P,1062.9
+2021-Q2,Education and training,P,1077.9
+2021-Q3,Education and training,P,1061.6
+2021-Q4,Education and training,P,1096.9
+2022-Q1,Education and training,P,1114.4
+2022-Q2,Education and training,P,1127.1
+2022-Q3,Education and training,P,1137.5
+2022-Q4,Education and training,P,1144.5
+2023-Q1,Education and training,P,1171.4
+2023-Q2,Education and training,P,1193.3
+2023-Q3,Education and training,P,1228.0
+2023-Q4,Education and training,P,1221.7
+2024-Q1,Education and training,P,1259.3
+2024-Q2,Education and training,P,1271.8
+2024-Q3,Education and training,P,1290.9
+2024-Q4,Education and training,P,1302.5
+2025-Q1,Education and training,P,1293.3
+2025-Q2,Education and training,P,1299.4
+2025-Q3,Education and training,P,1315.2
+2025-Q4,Education and training,P,1322.4
+2026-Q1,Education and training,P,1346.2
+2026-Q2,Education and training,P,1347.6
+1994-Q3,"Electricity, gas, water and waste services",D,105.4
+1994-Q4,"Electricity, gas, water and waste services",D,102.3
+1995-Q1,"Electricity, gas, water and waste services",D,99.7
+1995-Q2,"Electricity, gas, water and waste services",D,96.5
+1995-Q3,"Electricity, gas, water and waste services",D,97.6
+1995-Q4,"Electricity, gas, water and waste services",D,97.1
+1996-Q1,"Electricity, gas, water and waste services",D,98.8
+1996-Q2,"Electricity, gas, water and waste services",D,87.6
+1996-Q3,"Electricity, gas, water and waste services",D,82.1
+1996-Q4,"Electricity, gas, water and waste services",D,80.9
+1997-Q1,"Electricity, gas, water and waste services",D,84.7
+1997-Q2,"Electricity, gas, water and waste services",D,88.0
+1997-Q3,"Electricity, gas, water and waste services",D,87.3
+1997-Q4,"Electricity, gas, water and waste services",D,88.4
+1998-Q1,"Electricity, gas, water and waste services",D,85.9
+1998-Q2,"Electricity, gas, water and waste services",D,85.3
+1998-Q3,"Electricity, gas, water and waste services",D,88.2
+1998-Q4,"Electricity, gas, water and waste services",D,84.8
+1999-Q1,"Electricity, gas, water and waste services",D,83.8
+1999-Q2,"Electricity, gas, water and waste services",D,86.4
+1999-Q3,"Electricity, gas, water and waste services",D,86.9
+1999-Q4,"Electricity, gas, water and waste services",D,87.2
+2000-Q1,"Electricity, gas, water and waste services",D,88.1
+2000-Q2,"Electricity, gas, water and waste services",D,89.3
+2000-Q3,"Electricity, gas, water and waste services",D,88.7
+2000-Q4,"Electricity, gas, water and waste services",D,88.7
+2001-Q1,"Electricity, gas, water and waste services",D,88.6
+2001-Q2,"Electricity, gas, water and waste services",D,84.8
+2001-Q3,"Electricity, gas, water and waste services",D,88.8
+2001-Q4,"Electricity, gas, water and waste services",D,87.8
+2002-Q1,"Electricity, gas, water and waste services",D,84.6
+2002-Q2,"Electricity, gas, water and waste services",D,85.3
+2002-Q3,"Electricity, gas, water and waste services",D,85.7
+2002-Q4,"Electricity, gas, water and waste services",D,89.8
+2003-Q1,"Electricity, gas, water and waste services",D,91.6
+2003-Q2,"Electricity, gas, water and waste services",D,90.9
+2003-Q3,"Electricity, gas, water and waste services",D,91.4
+2003-Q4,"Electricity, gas, water and waste services",D,85.3
+2004-Q1,"Electricity, gas, water and waste services",D,87.3
+2004-Q2,"Electricity, gas, water and waste services",D,88.0
+2004-Q3,"Electricity, gas, water and waste services",D,90.9
+2004-Q4,"Electricity, gas, water and waste services",D,94.9
+2005-Q1,"Electricity, gas, water and waste services",D,97.3
+2005-Q2,"Electricity, gas, water and waste services",D,97.5
+2005-Q3,"Electricity, gas, water and waste services",D,98.5
+2005-Q4,"Electricity, gas, water and waste services",D,99.0
+2006-Q1,"Electricity, gas, water and waste services",D,99.2
+2006-Q2,"Electricity, gas, water and waste services",D,101.0
+2006-Q3,"Electricity, gas, water and waste services",D,94.6
+2006-Q4,"Electricity, gas, water and waste services",D,94.4
+2007-Q1,"Electricity, gas, water and waste services",D,98.4
+2007-Q2,"Electricity, gas, water and waste services",D,94.5
+2007-Q3,"Electricity, gas, water and waste services",D,93.9
+2007-Q4,"Electricity, gas, water and waste services",D,96.6
+2008-Q1,"Electricity, gas, water and waste services",D,99.3
+2008-Q2,"Electricity, gas, water and waste services",D,101.5
+2008-Q3,"Electricity, gas, water and waste services",D,101.5
+2008-Q4,"Electricity, gas, water and waste services",D,102.7
+2009-Q1,"Electricity, gas, water and waste services",D,100.2
+2009-Q2,"Electricity, gas, water and waste services",D,104.0
+2009-Q3,"Electricity, gas, water and waste services",D,108.3
+2009-Q4,"Electricity, gas, water and waste services",D,104.8
+2010-Q1,"Electricity, gas, water and waste services",D,104.6
+2010-Q2,"Electricity, gas, water and waste services",D,108.2
+2010-Q3,"Electricity, gas, water and waste services",D,107.2
+2010-Q4,"Electricity, gas, water and waste services",D,109.2
+2011-Q1,"Electricity, gas, water and waste services",D,110.1
+2011-Q2,"Electricity, gas, water and waste services",D,109.1
+2011-Q3,"Electricity, gas, water and waste services",D,111.7
+2011-Q4,"Electricity, gas, water and waste services",D,112.3
+2012-Q1,"Electricity, gas, water and waste services",D,111.3
+2012-Q2,"Electricity, gas, water and waste services",D,113.3
+2012-Q3,"Electricity, gas, water and waste services",D,118.4
+2012-Q4,"Electricity, gas, water and waste services",D,120.2
+2013-Q1,"Electricity, gas, water and waste services",D,120.5
+2013-Q2,"Electricity, gas, water and waste services",D,116.7
+2013-Q3,"Electricity, gas, water and waste services",D,119.5
+2013-Q4,"Electricity, gas, water and waste services",D,115.0
+2014-Q1,"Electricity, gas, water and waste services",D,114.4
+2014-Q2,"Electricity, gas, water and waste services",D,113.6
+2014-Q3,"Electricity, gas, water and waste services",D,112.1
+2014-Q4,"Electricity, gas, water and waste services",D,116.6
+2015-Q1,"Electricity, gas, water and waste services",D,118.9
+2015-Q2,"Electricity, gas, water and waste services",D,114.7
+2015-Q3,"Electricity, gas, water and waste services",D,112.2
+2015-Q4,"Electricity, gas, water and waste services",D,107.4
+2016-Q1,"Electricity, gas, water and waste services",D,109.8
+2016-Q2,"Electricity, gas, water and waste services",D,107.1
+2016-Q3,"Electricity, gas, water and waste services",D,103.7
+2016-Q4,"Electricity, gas, water and waste services",D,108.1
+2017-Q1,"Electricity, gas, water and waste services",D,103.8
+2017-Q2,"Electricity, gas, water and waste services",D,108.3
+2017-Q3,"Electricity, gas, water and waste services",D,106.9
+2017-Q4,"Electricity, gas, water and waste services",D,109.2
+2018-Q1,"Electricity, gas, water and waste services",D,113.5
+2018-Q2,"Electricity, gas, water and waste services",D,114.2
+2018-Q3,"Electricity, gas, water and waste services",D,116.4
+2018-Q4,"Electricity, gas, water and waste services",D,117.5
+2019-Q1,"Electricity, gas, water and waste services",D,115.6
+2019-Q2,"Electricity, gas, water and waste services",D,118.9
+2019-Q3,"Electricity, gas, water and waste services",D,126.0
+2019-Q4,"Electricity, gas, water and waste services",D,123.7
+2020-Q1,"Electricity, gas, water and waste services",D,121.7
+2020-Q2,"Electricity, gas, water and waste services",D,117.3
+2020-Q3,"Electricity, gas, water and waste services",D,119.9
+2020-Q4,"Electricity, gas, water and waste services",D,122.6
+2021-Q1,"Electricity, gas, water and waste services",D,121.4
+2021-Q2,"Electricity, gas, water and waste services",D,121.8
+2021-Q3,"Electricity, gas, water and waste services",D,119.0
+2021-Q4,"Electricity, gas, water and waste services",D,119.2
+2022-Q1,"Electricity, gas, water and waste services",D,127.2
+2022-Q2,"Electricity, gas, water and waste services",D,130.0
+2022-Q3,"Electricity, gas, water and waste services",D,128.5
+2022-Q4,"Electricity, gas, water and waste services",D,130.6
+2023-Q1,"Electricity, gas, water and waste services",D,132.0
+2023-Q2,"Electricity, gas, water and waste services",D,135.7
+2023-Q3,"Electricity, gas, water and waste services",D,138.4
+2023-Q4,"Electricity, gas, water and waste services",D,138.9
+2024-Q1,"Electricity, gas, water and waste services",D,134.9
+2024-Q2,"Electricity, gas, water and waste services",D,137.0
+2024-Q3,"Electricity, gas, water and waste services",D,140.2
+2024-Q4,"Electricity, gas, water and waste services",D,142.7
+2025-Q1,"Electricity, gas, water and waste services",D,144.0
+2025-Q2,"Electricity, gas, water and waste services",D,144.8
+2025-Q3,"Electricity, gas, water and waste services",D,146.9
+2025-Q4,"Electricity, gas, water and waste services",D,149.0
+2026-Q1,"Electricity, gas, water and waste services",D,152.8
+2026-Q2,"Electricity, gas, water and waste services",D,154.8
+1994-Q3,Financial and insurance services,K,388.1
+1994-Q4,Financial and insurance services,K,380.2
+1995-Q1,Financial and insurance services,K,382.3
+1995-Q2,Financial and insurance services,K,385.8
+1995-Q3,Financial and insurance services,K,395.7
+1995-Q4,Financial and insurance services,K,392.4
+1996-Q1,Financial and insurance services,K,379.2
+1996-Q2,Financial and insurance services,K,366.5
+1996-Q3,Financial and insurance services,K,341.8
+1996-Q4,Financial and insurance services,K,351.9
+1997-Q1,Financial and insurance services,K,346.9
+1997-Q2,Financial and insurance services,K,333.1
+1997-Q3,Financial and insurance services,K,325.7
+1997-Q4,Financial and insurance services,K,328.3
+1998-Q1,Financial and insurance services,K,336.7
+1998-Q2,Financial and insurance services,K,355.0
+1998-Q3,Financial and insurance services,K,362.7
+1998-Q4,Financial and insurance services,K,361.2
+1999-Q1,Financial and insurance services,K,362.2
+1999-Q2,Financial and insurance services,K,376.1
+1999-Q3,Financial and insurance services,K,348.2
+1999-Q4,Financial and insurance services,K,345.5
+2000-Q1,Financial and insurance services,K,350.2
+2000-Q2,Financial and insurance services,K,351.3
+2000-Q3,Financial and insurance services,K,349.0
+2000-Q4,Financial and insurance services,K,353.6
+2001-Q1,Financial and insurance services,K,345.9
+2001-Q2,Financial and insurance services,K,347.7
+2001-Q3,Financial and insurance services,K,358.6
+2001-Q4,Financial and insurance services,K,364.7
+2002-Q1,Financial and insurance services,K,361.7
+2002-Q2,Financial and insurance services,K,356.5
+2002-Q3,Financial and insurance services,K,353.3
+2002-Q4,Financial and insurance services,K,345.7
+2003-Q1,Financial and insurance services,K,361.4
+2003-Q2,Financial and insurance services,K,352.0
+2003-Q3,Financial and insurance services,K,350.0
+2003-Q4,Financial and insurance services,K,360.1
+2004-Q1,Financial and insurance services,K,346.7
+2004-Q2,Financial and insurance services,K,339.6
+2004-Q3,Financial and insurance services,K,345.2
+2004-Q4,Financial and insurance services,K,352.2
+2005-Q1,Financial and insurance services,K,371.0
+2005-Q2,Financial and insurance services,K,374.5
+2005-Q3,Financial and insurance services,K,372.8
+2005-Q4,Financial and insurance services,K,365.2
+2006-Q1,Financial and insurance services,K,368.8
+2006-Q2,Financial and insurance services,K,388.3
+2006-Q3,Financial and insurance services,K,398.0
+2006-Q4,Financial and insurance services,K,439.5
+2007-Q1,Financial and insurance services,K,404.8
+2007-Q2,Financial and insurance services,K,434.9
+2007-Q3,Financial and insurance services,K,412.0
+2007-Q4,Financial and insurance services,K,422.1
+2008-Q1,Financial and insurance services,K,402.5
+2008-Q2,Financial and insurance services,K,400.2
+2008-Q3,Financial and insurance services,K,387.7
+2008-Q4,Financial and insurance services,K,382.5
+2009-Q1,Financial and insurance services,K,392.1
+2009-Q2,Financial and insurance services,K,378.3
+2009-Q3,Financial and insurance services,K,382.2
+2009-Q4,Financial and insurance services,K,376.5
+2010-Q1,Financial and insurance services,K,388.1
+2010-Q2,Financial and insurance services,K,381.8
+2010-Q3,Financial and insurance services,K,386.4
+2010-Q4,Financial and insurance services,K,395.1
+2011-Q1,Financial and insurance services,K,390.1
+2011-Q2,Financial and insurance services,K,402.6
+2011-Q3,Financial and insurance services,K,402.8
+2011-Q4,Financial and insurance services,K,397.7
+2012-Q1,Financial and insurance services,K,392.5
+2012-Q2,Financial and insurance services,K,379.0
+2012-Q3,Financial and insurance services,K,383.4
+2012-Q4,Financial and insurance services,K,386.9
+2013-Q1,Financial and insurance services,K,378.4
+2013-Q2,Financial and insurance services,K,382.0
+2013-Q3,Financial and insurance services,K,375.9
+2013-Q4,Financial and insurance services,K,373.9
+2014-Q1,Financial and insurance services,K,389.0
+2014-Q2,Financial and insurance services,K,392.1
+2014-Q3,Financial and insurance services,K,400.1
+2014-Q4,Financial and insurance services,K,406.6
+2015-Q1,Financial and insurance services,K,397.9
+2015-Q2,Financial and insurance services,K,412.2
+2015-Q3,Financial and insurance services,K,405.3
+2015-Q4,Financial and insurance services,K,409.9
+2016-Q1,Financial and insurance services,K,415.5
+2016-Q2,Financial and insurance services,K,415.5
+2016-Q3,Financial and insurance services,K,411.6
+2016-Q4,Financial and insurance services,K,408.3
+2017-Q1,Financial and insurance services,K,410.2
+2017-Q2,Financial and insurance services,K,423.2
+2017-Q3,Financial and insurance services,K,432.4
+2017-Q4,Financial and insurance services,K,433.0
+2018-Q1,Financial and insurance services,K,423.8
+2018-Q2,Financial and insurance services,K,426.0
+2018-Q3,Financial and insurance services,K,447.4
+2018-Q4,Financial and insurance services,K,446.8
+2019-Q1,Financial and insurance services,K,451.5
+2019-Q2,Financial and insurance services,K,439.4
+2019-Q3,Financial and insurance services,K,445.1
+2019-Q4,Financial and insurance services,K,446.1
+2020-Q1,Financial and insurance services,K,461.0
+2020-Q2,Financial and insurance services,K,468.8
+2020-Q3,Financial and insurance services,K,462.5
+2020-Q4,Financial and insurance services,K,471.5
+2021-Q1,Financial and insurance services,K,486.1
+2021-Q2,Financial and insurance services,K,497.0
+2021-Q3,Financial and insurance services,K,487.8
+2021-Q4,Financial and insurance services,K,492.3
+2022-Q1,Financial and insurance services,K,491.1
+2022-Q2,Financial and insurance services,K,501.1
+2022-Q3,Financial and insurance services,K,511.3
+2022-Q4,Financial and insurance services,K,518.5
+2023-Q1,Financial and insurance services,K,511.0
+2023-Q2,Financial and insurance services,K,511.3
+2023-Q3,Financial and insurance services,K,505.3
+2023-Q4,Financial and insurance services,K,510.9
+2024-Q1,Financial and insurance services,K,513.2
+2024-Q2,Financial and insurance services,K,507.4
+2024-Q3,Financial and insurance services,K,509.5
+2024-Q4,Financial and insurance services,K,511.6
+2025-Q1,Financial and insurance services,K,508.4
+2025-Q2,Financial and insurance services,K,515.5
+2025-Q3,Financial and insurance services,K,520.8
+2025-Q4,Financial and insurance services,K,518.3
+2026-Q1,Financial and insurance services,K,524.6
+2026-Q2,Financial and insurance services,K,531.9
+1994-Q3,Health care and social assistance,Q,742.0
+1994-Q4,Health care and social assistance,Q,743.0
+1995-Q1,Health care and social assistance,Q,720.4
+1995-Q2,Health care and social assistance,Q,742.2
+1995-Q3,Health care and social assistance,Q,734.8
+1995-Q4,Health care and social assistance,Q,743.9
+1996-Q1,Health care and social assistance,Q,747.2
+1996-Q2,Health care and social assistance,Q,731.5
+1996-Q3,Health care and social assistance,Q,738.9
+1996-Q4,Health care and social assistance,Q,746.9
+1997-Q1,Health care and social assistance,Q,778.1
+1997-Q2,Health care and social assistance,Q,787.7
+1997-Q3,Health care and social assistance,Q,796.2
+1997-Q4,Health care and social assistance,Q,805.4
+1998-Q1,Health care and social assistance,Q,804.6
+1998-Q2,Health care and social assistance,Q,818.5
+1998-Q3,Health care and social assistance,Q,810.9
+1998-Q4,Health care and social assistance,Q,805.2
+1999-Q1,Health care and social assistance,Q,811.1
+1999-Q2,Health care and social assistance,Q,808.1
+1999-Q3,Health care and social assistance,Q,823.6
+1999-Q4,Health care and social assistance,Q,805.3
+2000-Q1,Health care and social assistance,Q,801.5
+2000-Q2,Health care and social assistance,Q,812.5
+2000-Q3,Health care and social assistance,Q,830.0
+2000-Q4,Health care and social assistance,Q,853.3
+2001-Q1,Health care and social assistance,Q,866.9
+2001-Q2,Health care and social assistance,Q,885.3
+2001-Q3,Health care and social assistance,Q,866.7
+2001-Q4,Health care and social assistance,Q,883.8
+2002-Q1,Health care and social assistance,Q,867.2
+2002-Q2,Health care and social assistance,Q,870.8
+2002-Q3,Health care and social assistance,Q,887.2
+2002-Q4,Health care and social assistance,Q,900.3
+2003-Q1,Health care and social assistance,Q,910.9
+2003-Q2,Health care and social assistance,Q,916.3
+2003-Q3,Health care and social assistance,Q,914.1
+2003-Q4,Health care and social assistance,Q,918.3
+2004-Q1,Health care and social assistance,Q,931.1
+2004-Q2,Health care and social assistance,Q,954.3
+2004-Q3,Health care and social assistance,Q,944.2
+2004-Q4,Health care and social assistance,Q,956.2
+2005-Q1,Health care and social assistance,Q,957.3
+2005-Q2,Health care and social assistance,Q,960.9
+2005-Q3,Health care and social assistance,Q,988.0
+2005-Q4,Health care and social assistance,Q,985.2
+2006-Q1,Health care and social assistance,Q,1023.0
+2006-Q2,Health care and social assistance,Q,1021.2
+2006-Q3,Health care and social assistance,Q,1036.3
+2006-Q4,Health care and social assistance,Q,1051.0
+2007-Q1,Health care and social assistance,Q,1052.5
+2007-Q2,Health care and social assistance,Q,1065.9
+2007-Q3,Health care and social assistance,Q,1101.0
+2007-Q4,Health care and social assistance,Q,1112.8
+2008-Q1,Health care and social assistance,Q,1143.0
+2008-Q2,Health care and social assistance,Q,1139.1
+2008-Q3,Health care and social assistance,Q,1148.6
+2008-Q4,Health care and social assistance,Q,1163.3
+2009-Q1,Health care and social assistance,Q,1178.0
+2009-Q2,Health care and social assistance,Q,1199.9
+2009-Q3,Health care and social assistance,Q,1208.1
+2009-Q4,Health care and social assistance,Q,1228.6
+2010-Q1,Health care and social assistance,Q,1230.1
+2010-Q2,Health care and social assistance,Q,1252.9
+2010-Q3,Health care and social assistance,Q,1264.0
+2010-Q4,Health care and social assistance,Q,1311.8
+2011-Q1,Health care and social assistance,Q,1311.5
+2011-Q2,Health care and social assistance,Q,1332.5
+2011-Q3,Health care and social assistance,Q,1341.9
+2011-Q4,Health care and social assistance,Q,1308.3
+2012-Q1,Health care and social assistance,Q,1332.3
+2012-Q2,Health care and social assistance,Q,1362.4
+2012-Q3,Health care and social assistance,Q,1366.6
+2012-Q4,Health care and social assistance,Q,1395.1
+2013-Q1,Health care and social assistance,Q,1393.5
+2013-Q2,Health care and social assistance,Q,1385.4
+2013-Q3,Health care and social assistance,Q,1406.2
+2013-Q4,Health care and social assistance,Q,1385.9
+2014-Q1,Health care and social assistance,Q,1414.6
+2014-Q2,Health care and social assistance,Q,1429.4
+2014-Q3,Health care and social assistance,Q,1466.7
+2014-Q4,Health care and social assistance,Q,1479.8
+2015-Q1,Health care and social assistance,Q,1511.7
+2015-Q2,Health care and social assistance,Q,1515.2
+2015-Q3,Health care and social assistance,Q,1505.9
+2015-Q4,Health care and social assistance,Q,1578.5
+2016-Q1,Health care and social assistance,Q,1541.8
+2016-Q2,Health care and social assistance,Q,1585.0
+2016-Q3,Health care and social assistance,Q,1617.2
+2016-Q4,Health care and social assistance,Q,1667.3
+2017-Q1,Health care and social assistance,Q,1656.7
+2017-Q2,Health care and social assistance,Q,1648.3
+2017-Q3,Health care and social assistance,Q,1670.3
+2017-Q4,Health care and social assistance,Q,1634.7
+2018-Q1,Health care and social assistance,Q,1678.4
+2018-Q2,Health care and social assistance,Q,1717.5
+2018-Q3,Health care and social assistance,Q,1732.9
+2018-Q4,Health care and social assistance,Q,1775.5
+2019-Q1,Health care and social assistance,Q,1774.2
+2019-Q2,Health care and social assistance,Q,1836.7
+2019-Q3,Health care and social assistance,Q,1850.0
+2019-Q4,Health care and social assistance,Q,1853.9
+2020-Q1,Health care and social assistance,Q,1873.1
+2020-Q2,Health care and social assistance,Q,1836.1
+2020-Q3,Health care and social assistance,Q,1884.4
+2020-Q4,Health care and social assistance,Q,1953.9
+2021-Q1,Health care and social assistance,Q,1962.2
+2021-Q2,Health care and social assistance,Q,1964.3
+2021-Q3,Health care and social assistance,Q,1995.4
+2021-Q4,Health care and social assistance,Q,2032.9
+2022-Q1,Health care and social assistance,Q,2059.2
+2022-Q2,Health care and social assistance,Q,2128.7
+2022-Q3,Health care and social assistance,Q,2159.8
+2022-Q4,Health care and social assistance,Q,2198.3
+2023-Q1,Health care and social assistance,Q,2290.2
+2023-Q2,Health care and social assistance,Q,2329.8
+2023-Q3,Health care and social assistance,Q,2341.7
+2023-Q4,Health care and social assistance,Q,2370.3
+2024-Q1,Health care and social assistance,Q,2416.4
+2024-Q2,Health care and social assistance,Q,2428.3
+2024-Q3,Health care and social assistance,Q,2516.6
+2024-Q4,Health care and social assistance,Q,2530.8
+2025-Q1,Health care and social assistance,Q,2528.6
+2025-Q2,Health care and social assistance,Q,2525.4
+2025-Q3,Health care and social assistance,Q,2543.5
+2025-Q4,Health care and social assistance,Q,2550.1
+2026-Q1,Health care and social assistance,Q,2556.0
+2026-Q2,Health care and social assistance,Q,2581.8
+1994-Q3,Information media and telecommunications,J,164.8
+1994-Q4,Information media and telecommunications,J,170.0
+1995-Q1,Information media and telecommunications,J,169.3
+1995-Q2,Information media and telecommunications,J,175.7
+1995-Q3,Information media and telecommunications,J,184.3
+1995-Q4,Information media and telecommunications,J,200.7
+1996-Q1,Information media and telecommunications,J,204.6
+1996-Q2,Information media and telecommunications,J,202.7
+1996-Q3,Information media and telecommunications,J,195.0
+1996-Q4,Information media and telecommunications,J,192.6
+1997-Q1,Information media and telecommunications,J,197.6
+1997-Q2,Information media and telecommunications,J,192.3
+1997-Q3,Information media and telecommunications,J,189.7
+1997-Q4,Information media and telecommunications,J,182.0
+1998-Q1,Information media and telecommunications,J,178.8
+1998-Q2,Information media and telecommunications,J,181.5
+1998-Q3,Information media and telecommunications,J,188.5
+1998-Q4,Information media and telecommunications,J,183.7
+1999-Q1,Information media and telecommunications,J,179.6
+1999-Q2,Information media and telecommunications,J,173.8
+1999-Q3,Information media and telecommunications,J,173.0
+1999-Q4,Information media and telecommunications,J,176.0
+2000-Q1,Information media and telecommunications,J,179.5
+2000-Q2,Information media and telecommunications,J,182.7
+2000-Q3,Information media and telecommunications,J,183.4
+2000-Q4,Information media and telecommunications,J,178.9
+2001-Q1,Information media and telecommunications,J,179.5
+2001-Q2,Information media and telecommunications,J,178.9
+2001-Q3,Information media and telecommunications,J,166.9
+2001-Q4,Information media and telecommunications,J,174.6
+2002-Q1,Information media and telecommunications,J,157.8
+2002-Q2,Information media and telecommunications,J,165.0
+2002-Q3,Information media and telecommunications,J,167.3
+2002-Q4,Information media and telecommunications,J,162.6
+2003-Q1,Information media and telecommunications,J,161.7
+2003-Q2,Information media and telecommunications,J,157.2
+2003-Q3,Information media and telecommunications,J,153.5
+2003-Q4,Information media and telecommunications,J,153.1
+2004-Q1,Information media and telecommunications,J,156.6
+2004-Q2,Information media and telecommunications,J,162.3
+2004-Q3,Information media and telecommunications,J,166.4
+2004-Q4,Information media and telecommunications,J,170.7
+2005-Q1,Information media and telecommunications,J,168.2
+2005-Q2,Information media and telecommunications,J,176.0
+2005-Q3,Information media and telecommunications,J,182.5
+2005-Q4,Information media and telecommunications,J,180.6
+2006-Q1,Information media and telecommunications,J,174.6
+2006-Q2,Information media and telecommunications,J,170.9
+2006-Q3,Information media and telecommunications,J,171.5
+2006-Q4,Information media and telecommunications,J,178.6
+2007-Q1,Information media and telecommunications,J,185.5
+2007-Q2,Information media and telecommunications,J,185.3
+2007-Q3,Information media and telecommunications,J,180.8
+2007-Q4,Information media and telecommunications,J,180.2
+2008-Q1,Information media and telecommunications,J,178.7
+2008-Q2,Information media and telecommunications,J,171.1
+2008-Q3,Information media and telecommunications,J,172.1
+2008-Q4,Information media and telecommunications,J,181.2
+2009-Q1,Information media and telecommunications,J,187.2
+2009-Q2,Information media and telecommunications,J,191.6
+2009-Q3,Information media and telecommunications,J,189.8
+2009-Q4,Information media and telecommunications,J,187.8
+2010-Q1,Information media and telecommunications,J,182.3
+2010-Q2,Information media and telecommunications,J,186.7
+2010-Q3,Information media and telecommunications,J,192.8
+2010-Q4,Information media and telecommunications,J,185.7
+2011-Q1,Information media and telecommunications,J,185.9
+2011-Q2,Information media and telecommunications,J,184.9
+2011-Q3,Information media and telecommunications,J,188.6
+2011-Q4,Information media and telecommunications,J,188.2
+2012-Q1,Information media and telecommunications,J,184.4
+2012-Q2,Information media and telecommunications,J,187.5
+2012-Q3,Information media and telecommunications,J,184.8
+2012-Q4,Information media and telecommunications,J,178.6
+2013-Q1,Information media and telecommunications,J,181.8
+2013-Q2,Information media and telecommunications,J,180.2
+2013-Q3,Information media and telecommunications,J,182.0
+2013-Q4,Information media and telecommunications,J,183.9
+2014-Q1,Information media and telecommunications,J,185.6
+2014-Q2,Information media and telecommunications,J,175.9
+2014-Q3,Information media and telecommunications,J,164.9
+2014-Q4,Information media and telecommunications,J,170.8
+2015-Q1,Information media and telecommunications,J,171.1
+2015-Q2,Information media and telecommunications,J,181.7
+2015-Q3,Information media and telecommunications,J,184.2
+2015-Q4,Information media and telecommunications,J,191.8
+2016-Q1,Information media and telecommunications,J,187.1
+2016-Q2,Information media and telecommunications,J,188.9
+2016-Q3,Information media and telecommunications,J,182.9
+2016-Q4,Information media and telecommunications,J,180.3
+2017-Q1,Information media and telecommunications,J,180.1
+2017-Q2,Information media and telecommunications,J,181.1
+2017-Q3,Information media and telecommunications,J,183.5
+2017-Q4,Information media and telecommunications,J,183.2
+2018-Q1,Information media and telecommunications,J,193.2
+2018-Q2,Information media and telecommunications,J,188.6
+2018-Q3,Information media and telecommunications,J,191.0
+2018-Q4,Information media and telecommunications,J,188.7
+2019-Q1,Information media and telecommunications,J,185.5
+2019-Q2,Information media and telecommunications,J,189.1
+2019-Q3,Information media and telecommunications,J,189.7
+2019-Q4,Information media and telecommunications,J,190.9
+2020-Q1,Information media and telecommunications,J,190.7
+2020-Q2,Information media and telecommunications,J,178.9
+2020-Q3,Information media and telecommunications,J,188.9
+2020-Q4,Information media and telecommunications,J,192.7
+2021-Q1,Information media and telecommunications,J,195.7
+2021-Q2,Information media and telecommunications,J,194.1
+2021-Q3,Information media and telecommunications,J,185.1
+2021-Q4,Information media and telecommunications,J,191.9
+2022-Q1,Information media and telecommunications,J,193.8
+2022-Q2,Information media and telecommunications,J,200.2
+2022-Q3,Information media and telecommunications,J,206.3
+2022-Q4,Information media and telecommunications,J,210.4
+2023-Q1,Information media and telecommunications,J,206.2
+2023-Q2,Information media and telecommunications,J,204.4
+2023-Q3,Information media and telecommunications,J,223.9
+2023-Q4,Information media and telecommunications,J,206.4
+2024-Q1,Information media and telecommunications,J,207.2
+2024-Q2,Information media and telecommunications,J,205.1
+2024-Q3,Information media and telecommunications,J,206.0
+2024-Q4,Information media and telecommunications,J,200.9
+2025-Q1,Information media and telecommunications,J,207.1
+2025-Q2,Information media and telecommunications,J,206.8
+2025-Q3,Information media and telecommunications,J,204.7
+2025-Q4,Information media and telecommunications,J,205.8
+2026-Q1,Information media and telecommunications,J,205.8
+2026-Q2,Information media and telecommunications,J,209.2
+1994-Q3,Manufacturing,C,1154.5
+1994-Q4,Manufacturing,C,1171.1
+1995-Q1,Manufacturing,C,1143.7
+1995-Q2,Manufacturing,C,1143.2
+1995-Q3,Manufacturing,C,1130.4
+1995-Q4,Manufacturing,C,1130.7
+1996-Q1,Manufacturing,C,1120.9
+1996-Q2,Manufacturing,C,1117.9
+1996-Q3,Manufacturing,C,1108.6
+1996-Q4,Manufacturing,C,1106.4
+1997-Q1,Manufacturing,C,1118.1
+1997-Q2,Manufacturing,C,1125.0
+1997-Q3,Manufacturing,C,1136.2
+1997-Q4,Manufacturing,C,1136.7
+1998-Q1,Manufacturing,C,1121.6
+1998-Q2,Manufacturing,C,1108.0
+1998-Q3,Manufacturing,C,1101.0
+1998-Q4,Manufacturing,C,1075.3
+1999-Q1,Manufacturing,C,1078.6
+1999-Q2,Manufacturing,C,1059.5
+1999-Q3,Manufacturing,C,1049.9
+1999-Q4,Manufacturing,C,1052.4
+2000-Q1,Manufacturing,C,1060.0
+2000-Q2,Manufacturing,C,1054.6
+2000-Q3,Manufacturing,C,1049.5
+2000-Q4,Manufacturing,C,1024.7
+2001-Q1,Manufacturing,C,1009.0
+2001-Q2,Manufacturing,C,1019.7
+2001-Q3,Manufacturing,C,993.6
+2001-Q4,Manufacturing,C,989.4
+2002-Q1,Manufacturing,C,994.4
+2002-Q2,Manufacturing,C,1000.7
+2002-Q3,Manufacturing,C,1006.0
+2002-Q4,Manufacturing,C,1016.0
+2003-Q1,Manufacturing,C,1011.6
+2003-Q2,Manufacturing,C,996.2
+2003-Q3,Manufacturing,C,980.6
+2003-Q4,Manufacturing,C,987.0
+2004-Q1,Manufacturing,C,967.2
+2004-Q2,Manufacturing,C,970.0
+2004-Q3,Manufacturing,C,976.4
+2004-Q4,Manufacturing,C,986.2
+2005-Q1,Manufacturing,C,997.1
+2005-Q2,Manufacturing,C,1007.7
+2005-Q3,Manufacturing,C,1000.6
+2005-Q4,Manufacturing,C,993.7
+2006-Q1,Manufacturing,C,987.3
+2006-Q2,Manufacturing,C,990.4
+2006-Q3,Manufacturing,C,997.6
+2006-Q4,Manufacturing,C,990.6
+2007-Q1,Manufacturing,C,983.2
+2007-Q2,Manufacturing,C,984.8
+2007-Q3,Manufacturing,C,986.2
+2007-Q4,Manufacturing,C,986.6
+2008-Q1,Manufacturing,C,995.6
+2008-Q2,Manufacturing,C,995.3
+2008-Q3,Manufacturing,C,982.2
+2008-Q4,Manufacturing,C,994.3
+2009-Q1,Manufacturing,C,965.9
+2009-Q2,Manufacturing,C,954.8
+2009-Q3,Manufacturing,C,953.5
+2009-Q4,Manufacturing,C,961.0
+2010-Q1,Manufacturing,C,961.1
+2010-Q2,Manufacturing,C,950.7
+2010-Q3,Manufacturing,C,946.2
+2010-Q4,Manufacturing,C,935.3
+2011-Q1,Manufacturing,C,921.4
+2011-Q2,Manufacturing,C,911.6
+2011-Q3,Manufacturing,C,921.8
+2011-Q4,Manufacturing,C,903.3
+2012-Q1,Manufacturing,C,914.2
+2012-Q2,Manufacturing,C,909.0
+2012-Q3,Manufacturing,C,898.6
+2012-Q4,Manufacturing,C,888.5
+2013-Q1,Manufacturing,C,885.4
+2013-Q2,Manufacturing,C,888.9
+2013-Q3,Manufacturing,C,884.4
+2013-Q4,Manufacturing,C,878.1
+2014-Q1,Manufacturing,C,879.1
+2014-Q2,Manufacturing,C,868.4
+2014-Q3,Manufacturing,C,855.3
+2014-Q4,Manufacturing,C,857.8
+2015-Q1,Manufacturing,C,860.3
+2015-Q2,Manufacturing,C,857.9
+2015-Q3,Manufacturing,C,841.2
+2015-Q4,Manufacturing,C,858.2
+2016-Q1,Manufacturing,C,855.2
+2016-Q2,Manufacturing,C,852.7
+2016-Q3,Manufacturing,C,856.2
+2016-Q4,Manufacturing,C,842.0
+2017-Q1,Manufacturing,C,829.9
+2017-Q2,Manufacturing,C,843.1
+2017-Q3,Manufacturing,C,854.6
+2017-Q4,Manufacturing,C,851.7
+2018-Q1,Manufacturing,C,852.8
+2018-Q2,Manufacturing,C,860.3
+2018-Q3,Manufacturing,C,853.2
+2018-Q4,Manufacturing,C,848.7
+2019-Q1,Manufacturing,C,862.6
+2019-Q2,Manufacturing,C,859.6
+2019-Q3,Manufacturing,C,870.3
+2019-Q4,Manufacturing,C,866.5
+2020-Q1,Manufacturing,C,866.1
+2020-Q2,Manufacturing,C,817.3
+2020-Q3,Manufacturing,C,838.7
+2020-Q4,Manufacturing,C,860.6
+2021-Q1,Manufacturing,C,866.0
+2021-Q2,Manufacturing,C,866.9
+2021-Q3,Manufacturing,C,854.9
+2021-Q4,Manufacturing,C,911.5
+2022-Q1,Manufacturing,C,927.9
+2022-Q2,Manufacturing,C,907.5
+2022-Q3,Manufacturing,C,894.6
+2022-Q4,Manufacturing,C,914.5
+2023-Q1,Manufacturing,C,902.4
+2023-Q2,Manufacturing,C,922.4
+2023-Q3,Manufacturing,C,921.0
+2023-Q4,Manufacturing,C,917.2
+2024-Q1,Manufacturing,C,927.7
+2024-Q2,Manufacturing,C,915.8
+2024-Q3,Manufacturing,C,935.0
+2024-Q4,Manufacturing,C,932.5
+2025-Q1,Manufacturing,C,929.1
+2025-Q2,Manufacturing,C,910.4
+2025-Q3,Manufacturing,C,906.6
+2025-Q4,Manufacturing,C,900.4
+2026-Q1,Manufacturing,C,910.5
+2026-Q2,Manufacturing,C,916.9
+1994-Q3,Mining,B,79.9
+1994-Q4,Mining,B,80.9
+1995-Q1,Mining,B,86.3
+1995-Q2,Mining,B,89.1
+1995-Q3,Mining,B,94.0
+1995-Q4,Mining,B,97.6
+1996-Q1,Mining,B,96.6
+1996-Q2,Mining,B,95.4
+1996-Q3,Mining,B,96.0
+1996-Q4,Mining,B,97.0
+1997-Q1,Mining,B,98.7
+1997-Q2,Mining,B,99.5
+1997-Q3,Mining,B,97.4
+1997-Q4,Mining,B,98.5
+1998-Q1,Mining,B,95.1
+1998-Q2,Mining,B,94.5
+1998-Q3,Mining,B,91.6
+1998-Q4,Mining,B,84.4
+1999-Q1,Mining,B,87.9
+1999-Q2,Mining,B,85.2
+1999-Q3,Mining,B,84.5
+1999-Q4,Mining,B,78.2
+2000-Q1,Mining,B,77.9
+2000-Q2,Mining,B,78.3
+2000-Q3,Mining,B,76.8
+2000-Q4,Mining,B,78.0
+2001-Q1,Mining,B,78.7
+2001-Q2,Mining,B,79.2
+2001-Q3,Mining,B,78.8
+2001-Q4,Mining,B,80.5
+2002-Q1,Mining,B,79.8
+2002-Q2,Mining,B,78.9
+2002-Q3,Mining,B,79.9
+2002-Q4,Mining,B,80.8
+2003-Q1,Mining,B,80.4
+2003-Q2,Mining,B,79.5
+2003-Q3,Mining,B,82.8
+2003-Q4,Mining,B,82.0
+2004-Q1,Mining,B,78.7
+2004-Q2,Mining,B,78.2
+2004-Q3,Mining,B,78.3
+2004-Q4,Mining,B,79.3
+2005-Q1,Mining,B,84.6
+2005-Q2,Mining,B,89.8
+2005-Q3,Mining,B,91.7
+2005-Q4,Mining,B,99.0
+2006-Q1,Mining,B,105.8
+2006-Q2,Mining,B,106.0
+2006-Q3,Mining,B,109.3
+2006-Q4,Mining,B,109.0
+2007-Q1,Mining,B,106.9
+2007-Q2,Mining,B,112.9
+2007-Q3,Mining,B,116.2
+2007-Q4,Mining,B,116.2
+2008-Q1,Mining,B,118.3
+2008-Q2,Mining,B,122.7
+2008-Q3,Mining,B,133.0
+2008-Q4,Mining,B,140.3
+2009-Q1,Mining,B,140.5
+2009-Q2,Mining,B,136.9
+2009-Q3,Mining,B,132.4
+2009-Q4,Mining,B,133.9
+2010-Q1,Mining,B,141.0
+2010-Q2,Mining,B,142.7
+2010-Q3,Mining,B,142.9
+2010-Q4,Mining,B,146.7
+2011-Q1,Mining,B,147.5
+2011-Q2,Mining,B,154.3
+2011-Q3,Mining,B,163.4
+2011-Q4,Mining,B,170.8
+2012-Q1,Mining,B,185.3
+2012-Q2,Mining,B,187.1
+2012-Q3,Mining,B,194.8
+2012-Q4,Mining,B,195.1
+2013-Q1,Mining,B,184.4
+2013-Q2,Mining,B,189.6
+2013-Q3,Mining,B,191.5
+2013-Q4,Mining,B,187.2
+2014-Q1,Mining,B,190.2
+2014-Q2,Mining,B,186.8
+2014-Q3,Mining,B,180.4
+2014-Q4,Mining,B,181.6
+2015-Q1,Mining,B,178.4
+2015-Q2,Mining,B,177.2
+2015-Q3,Mining,B,172.5
+2015-Q4,Mining,B,171.7
+2016-Q1,Mining,B,165.9
+2016-Q2,Mining,B,164.8
+2016-Q3,Mining,B,158.5
+2016-Q4,Mining,B,155.4
+2017-Q1,Mining,B,156.6
+2017-Q2,Mining,B,158.7
+2017-Q3,Mining,B,164.9
+2017-Q4,Mining,B,167.4
+2018-Q1,Mining,B,175.7
+2018-Q2,Mining,B,171.0
+2018-Q3,Mining,B,172.4
+2018-Q4,Mining,B,175.0
+2019-Q1,Mining,B,172.7
+2019-Q2,Mining,B,180.8
+2019-Q3,Mining,B,185.8
+2019-Q4,Mining,B,184.0
+2020-Q1,Mining,B,185.6
+2020-Q2,Mining,B,181.0
+2020-Q3,Mining,B,182.2
+2020-Q4,Mining,B,184.2
+2021-Q1,Mining,B,187.8
+2021-Q2,Mining,B,185.9
+2021-Q3,Mining,B,181.8
+2021-Q4,Mining,B,205.2
+2022-Q1,Mining,B,202.1
+2022-Q2,Mining,B,203.9
+2022-Q3,Mining,B,198.0
+2022-Q4,Mining,B,204.1
+2023-Q1,Mining,B,208.4
+2023-Q2,Mining,B,212.4
+2023-Q3,Mining,B,217.1
+2023-Q4,Mining,B,218.5
+2024-Q1,Mining,B,220.8
+2024-Q2,Mining,B,228.6
+2024-Q3,Mining,B,232.8
+2024-Q4,Mining,B,230.6
+2025-Q1,Mining,B,228.1
+2025-Q2,Mining,B,224.9
+2025-Q3,Mining,B,227.8
+2025-Q4,Mining,B,229.8
+2026-Q1,Mining,B,231.9
+2026-Q2,Mining,B,234.4
+1994-Q3,Other services,S,421.1
+1994-Q4,Other services,S,418.1
+1995-Q1,Other services,S,413.9
+1995-Q2,Other services,S,412.5
+1995-Q3,Other services,S,424.7
+1995-Q4,Other services,S,445.0
+1996-Q1,Other services,S,439.6
+1996-Q2,Other services,S,437.4
+1996-Q3,Other services,S,433.5
+1996-Q4,Other services,S,428.0
+1997-Q1,Other services,S,425.0
+1997-Q2,Other services,S,430.1
+1997-Q3,Other services,S,432.1
+1997-Q4,Other services,S,449.3
+1998-Q1,Other services,S,455.2
+1998-Q2,Other services,S,446.7
+1998-Q3,Other services,S,430.0
+1998-Q4,Other services,S,429.9
+1999-Q1,Other services,S,439.4
+1999-Q2,Other services,S,442.2
+1999-Q3,Other services,S,451.8
+1999-Q4,Other services,S,448.0
+2000-Q1,Other services,S,443.4
+2000-Q2,Other services,S,431.5
+2000-Q3,Other services,S,418.8
+2000-Q4,Other services,S,410.4
+2001-Q1,Other services,S,420.5
+2001-Q2,Other services,S,445.5
+2001-Q3,Other services,S,451.5
+2001-Q4,Other services,S,451.0
+2002-Q1,Other services,S,435.2
+2002-Q2,Other services,S,452.0
+2002-Q3,Other services,S,458.6
+2002-Q4,Other services,S,462.7
+2003-Q1,Other services,S,457.2
+2003-Q2,Other services,S,450.3
+2003-Q3,Other services,S,449.8
+2003-Q4,Other services,S,445.6
+2004-Q1,Other services,S,449.6
+2004-Q2,Other services,S,437.2
+2004-Q3,Other services,S,444.0
+2004-Q4,Other services,S,439.9
+2005-Q1,Other services,S,429.0
+2005-Q2,Other services,S,424.4
+2005-Q3,Other services,S,430.4
+2005-Q4,Other services,S,428.3
+2006-Q1,Other services,S,440.5
+2006-Q2,Other services,S,451.5
+2006-Q3,Other services,S,436.6
+2006-Q4,Other services,S,434.2
+2007-Q1,Other services,S,427.3
+2007-Q2,Other services,S,445.6
+2007-Q3,Other services,S,460.6
+2007-Q4,Other services,S,479.5
+2008-Q1,Other services,S,476.3
+2008-Q2,Other services,S,472.9
+2008-Q3,Other services,S,476.0
+2008-Q4,Other services,S,474.0
+2009-Q1,Other services,S,473.6
+2009-Q2,Other services,S,473.7
+2009-Q3,Other services,S,464.4
+2009-Q4,Other services,S,470.7
+2010-Q1,Other services,S,490.2
+2010-Q2,Other services,S,481.1
+2010-Q3,Other services,S,488.4
+2010-Q4,Other services,S,485.4
+2011-Q1,Other services,S,458.2
+2011-Q2,Other services,S,457.2
+2011-Q3,Other services,S,458.3
+2011-Q4,Other services,S,456.6
+2012-Q1,Other services,S,483.6
+2012-Q2,Other services,S,455.5
+2012-Q3,Other services,S,460.0
+2012-Q4,Other services,S,479.0
+2013-Q1,Other services,S,465.6
+2013-Q2,Other services,S,476.2
+2013-Q3,Other services,S,494.6
+2013-Q4,Other services,S,489.5
+2014-Q1,Other services,S,522.8
+2014-Q2,Other services,S,523.2
+2014-Q3,Other services,S,501.0
+2014-Q4,Other services,S,497.3
+2015-Q1,Other services,S,515.3
+2015-Q2,Other services,S,514.0
+2015-Q3,Other services,S,506.1
+2015-Q4,Other services,S,517.3
+2016-Q1,Other services,S,492.6
+2016-Q2,Other services,S,518.0
+2016-Q3,Other services,S,525.2
+2016-Q4,Other services,S,506.4
+2017-Q1,Other services,S,523.0
+2017-Q2,Other services,S,541.9
+2017-Q3,Other services,S,551.2
+2017-Q4,Other services,S,577.1
+2018-Q1,Other services,S,521.8
+2018-Q2,Other services,S,517.0
+2018-Q3,Other services,S,529.0
+2018-Q4,Other services,S,536.5
+2019-Q1,Other services,S,564.1
+2019-Q2,Other services,S,559.8
+2019-Q3,Other services,S,551.0
+2019-Q4,Other services,S,535.5
+2020-Q1,Other services,S,514.2
+2020-Q2,Other services,S,461.1
+2020-Q3,Other services,S,466.4
+2020-Q4,Other services,S,497.7
+2021-Q1,Other services,S,514.3
+2021-Q2,Other services,S,546.9
+2021-Q3,Other services,S,540.2
+2021-Q4,Other services,S,571.7
+2022-Q1,Other services,S,539.2
+2022-Q2,Other services,S,577.2
+2022-Q3,Other services,S,548.8
+2022-Q4,Other services,S,537.1
+2023-Q1,Other services,S,552.9
+2023-Q2,Other services,S,564.7
+2023-Q3,Other services,S,553.6
+2023-Q4,Other services,S,554.5
+2024-Q1,Other services,S,548.2
+2024-Q2,Other services,S,544.3
+2024-Q3,Other services,S,552.9
+2024-Q4,Other services,S,563.8
+2025-Q1,Other services,S,557.3
+2025-Q2,Other services,S,558.1
+2025-Q3,Other services,S,565.1
+2025-Q4,Other services,S,568.1
+2026-Q1,Other services,S,574.7
+2026-Q2,Other services,S,576.5
+1994-Q3,"Professional, scientific and technical services",M,411.8
+1994-Q4,"Professional, scientific and technical services",M,430.8
+1995-Q1,"Professional, scientific and technical services",M,464.5
+1995-Q2,"Professional, scientific and technical services",M,453.1
+1995-Q3,"Professional, scientific and technical services",M,461.7
+1995-Q4,"Professional, scientific and technical services",M,457.8
+1996-Q1,"Professional, scientific and technical services",M,460.9
+1996-Q2,"Professional, scientific and technical services",M,502.6
+1996-Q3,"Professional, scientific and technical services",M,527.1
+1996-Q4,"Professional, scientific and technical services",M,536.5
+1997-Q1,"Professional, scientific and technical services",M,472.6
+1997-Q2,"Professional, scientific and technical services",M,474.2
+1997-Q3,"Professional, scientific and technical services",M,481.9
+1997-Q4,"Professional, scientific and technical services",M,493.4
+1998-Q1,"Professional, scientific and technical services",M,498.9
+1998-Q2,"Professional, scientific and technical services",M,512.5
+1998-Q3,"Professional, scientific and technical services",M,525.6
+1998-Q4,"Professional, scientific and technical services",M,542.3
+1999-Q1,"Professional, scientific and technical services",M,568.8
+1999-Q2,"Professional, scientific and technical services",M,578.9
+1999-Q3,"Professional, scientific and technical services",M,579.3
+1999-Q4,"Professional, scientific and technical services",M,590.8
+2000-Q1,"Professional, scientific and technical services",M,590.9
+2000-Q2,"Professional, scientific and technical services",M,612.2
+2000-Q3,"Professional, scientific and technical services",M,655.8
+2000-Q4,"Professional, scientific and technical services",M,665.4
+2001-Q1,"Professional, scientific and technical services",M,654.2
+2001-Q2,"Professional, scientific and technical services",M,685.4
+2001-Q3,"Professional, scientific and technical services",M,688.3
+2001-Q4,"Professional, scientific and technical services",M,699.4
+2002-Q1,"Professional, scientific and technical services",M,708.7
+2002-Q2,"Professional, scientific and technical services",M,711.4
+2002-Q3,"Professional, scientific and technical services",M,713.0
+2002-Q4,"Professional, scientific and technical services",M,723.8
+2003-Q1,"Professional, scientific and technical services",M,732.9
+2003-Q2,"Professional, scientific and technical services",M,733.5
+2003-Q3,"Professional, scientific and technical services",M,752.9
+2003-Q4,"Professional, scientific and technical services",M,750.1
+2004-Q1,"Professional, scientific and technical services",M,767.6
+2004-Q2,"Professional, scientific and technical services",M,777.3
+2004-Q3,"Professional, scientific and technical services",M,776.4
+2004-Q4,"Professional, scientific and technical services",M,796.4
+2005-Q1,"Professional, scientific and technical services",M,786.0
+2005-Q2,"Professional, scientific and technical services",M,792.0
+2005-Q3,"Professional, scientific and technical services",M,803.0
+2005-Q4,"Professional, scientific and technical services",M,813.5
+2006-Q1,"Professional, scientific and technical services",M,843.2
+2006-Q2,"Professional, scientific and technical services",M,850.4
+2006-Q3,"Professional, scientific and technical services",M,822.0
+2006-Q4,"Professional, scientific and technical services",M,843.1
+2007-Q1,"Professional, scientific and technical services",M,858.8
+2007-Q2,"Professional, scientific and technical services",M,879.9
+2007-Q3,"Professional, scientific and technical services",M,897.0
+2007-Q4,"Professional, scientific and technical services",M,895.2
+2008-Q1,"Professional, scientific and technical services",M,887.1
+2008-Q2,"Professional, scientific and technical services",M,909.5
+2008-Q3,"Professional, scientific and technical services",M,924.6
+2008-Q4,"Professional, scientific and technical services",M,942.7
+2009-Q1,"Professional, scientific and technical services",M,939.2
+2009-Q2,"Professional, scientific and technical services",M,925.8
+2009-Q3,"Professional, scientific and technical services",M,918.0
+2009-Q4,"Professional, scientific and technical services",M,902.4
+2010-Q1,"Professional, scientific and technical services",M,923.4
+2010-Q2,"Professional, scientific and technical services",M,928.3
+2010-Q3,"Professional, scientific and technical services",M,939.3
+2010-Q4,"Professional, scientific and technical services",M,937.1
+2011-Q1,"Professional, scientific and technical services",M,916.5
+2011-Q2,"Professional, scientific and technical services",M,913.3
+2011-Q3,"Professional, scientific and technical services",M,898.6
+2011-Q4,"Professional, scientific and technical services",M,924.4
+2012-Q1,"Professional, scientific and technical services",M,971.2
+2012-Q2,"Professional, scientific and technical services",M,970.8
+2012-Q3,"Professional, scientific and technical services",M,984.8
+2012-Q4,"Professional, scientific and technical services",M,990.1
+2013-Q1,"Professional, scientific and technical services",M,963.2
+2013-Q2,"Professional, scientific and technical services",M,966.5
+2013-Q3,"Professional, scientific and technical services",M,1000.4
+2013-Q4,"Professional, scientific and technical services",M,962.2
+2014-Q1,"Professional, scientific and technical services",M,935.9
+2014-Q2,"Professional, scientific and technical services",M,960.0
+2014-Q3,"Professional, scientific and technical services",M,924.7
+2014-Q4,"Professional, scientific and technical services",M,929.2
+2015-Q1,"Professional, scientific and technical services",M,968.6
+2015-Q2,"Professional, scientific and technical services",M,984.6
+2015-Q3,"Professional, scientific and technical services",M,1003.8
+2015-Q4,"Professional, scientific and technical services",M,1011.4
+2016-Q1,"Professional, scientific and technical services",M,1018.5
+2016-Q2,"Professional, scientific and technical services",M,1021.4
+2016-Q3,"Professional, scientific and technical services",M,1026.9
+2016-Q4,"Professional, scientific and technical services",M,1036.3
+2017-Q1,"Professional, scientific and technical services",M,1057.4
+2017-Q2,"Professional, scientific and technical services",M,1072.9
+2017-Q3,"Professional, scientific and technical services",M,1091.3
+2017-Q4,"Professional, scientific and technical services",M,1094.4
+2018-Q1,"Professional, scientific and technical services",M,1099.8
+2018-Q2,"Professional, scientific and technical services",M,1136.6
+2018-Q3,"Professional, scientific and technical services",M,1184.0
+2018-Q4,"Professional, scientific and technical services",M,1168.2
+2019-Q1,"Professional, scientific and technical services",M,1190.2
+2019-Q2,"Professional, scientific and technical services",M,1179.0
+2019-Q3,"Professional, scientific and technical services",M,1207.2
+2019-Q4,"Professional, scientific and technical services",M,1210.8
+2020-Q1,"Professional, scientific and technical services",M,1168.6
+2020-Q2,"Professional, scientific and technical services",M,1107.8
+2020-Q3,"Professional, scientific and technical services",M,1158.2
+2020-Q4,"Professional, scientific and technical services",M,1178.9
+2021-Q1,"Professional, scientific and technical services",M,1214.2
+2021-Q2,"Professional, scientific and technical services",M,1200.1
+2021-Q3,"Professional, scientific and technical services",M,1180.3
+2021-Q4,"Professional, scientific and technical services",M,1166.0
+2022-Q1,"Professional, scientific and technical services",M,1196.0
+2022-Q2,"Professional, scientific and technical services",M,1206.1
+2022-Q3,"Professional, scientific and technical services",M,1196.6
+2022-Q4,"Professional, scientific and technical services",M,1241.4
+2023-Q1,"Professional, scientific and technical services",M,1218.7
+2023-Q2,"Professional, scientific and technical services",M,1271.0
+2023-Q3,"Professional, scientific and technical services",M,1272.8
+2023-Q4,"Professional, scientific and technical services",M,1307.0
+2024-Q1,"Professional, scientific and technical services",M,1288.8
+2024-Q2,"Professional, scientific and technical services",M,1281.0
+2024-Q3,"Professional, scientific and technical services",M,1301.8
+2024-Q4,"Professional, scientific and technical services",M,1285.6
+2025-Q1,"Professional, scientific and technical services",M,1300.0
+2025-Q2,"Professional, scientific and technical services",M,1305.3
+2025-Q3,"Professional, scientific and technical services",M,1301.8
+2025-Q4,"Professional, scientific and technical services",M,1311.2
+2026-Q1,"Professional, scientific and technical services",M,1326.1
+2026-Q2,"Professional, scientific and technical services",M,1335.3
+1994-Q3,Public administration and safety,O,560.8
+1994-Q4,Public administration and safety,O,541.4
+1995-Q1,Public administration and safety,O,544.9
+1995-Q2,Public administration and safety,O,552.4
+1995-Q3,Public administration and safety,O,541.9
+1995-Q4,Public administration and safety,O,550.4
+1996-Q1,Public administration and safety,O,552.7
+1996-Q2,Public administration and safety,O,551.4
+1996-Q3,Public administration and safety,O,569.8
+1996-Q4,Public administration and safety,O,581.9
+1997-Q1,Public administration and safety,O,551.6
+1997-Q2,Public administration and safety,O,560.5
+1997-Q3,Public administration and safety,O,565.1
+1997-Q4,Public administration and safety,O,568.4
+1998-Q1,Public administration and safety,O,575.1
+1998-Q2,Public administration and safety,O,565.0
+1998-Q3,Public administration and safety,O,553.9
+1998-Q4,Public administration and safety,O,543.3
+1999-Q1,Public administration and safety,O,538.3
+1999-Q2,Public administration and safety,O,541.4
+1999-Q3,Public administration and safety,O,544.6
+1999-Q4,Public administration and safety,O,548.0
+2000-Q1,Public administration and safety,O,552.1
+2000-Q2,Public administration and safety,O,556.6
+2000-Q3,Public administration and safety,O,543.5
+2000-Q4,Public administration and safety,O,538.3
+2001-Q1,Public administration and safety,O,557.7
+2001-Q2,Public administration and safety,O,545.7
+2001-Q3,Public administration and safety,O,600.9
+2001-Q4,Public administration and safety,O,624.7
+2002-Q1,Public administration and safety,O,603.3
+2002-Q2,Public administration and safety,O,609.6
+2002-Q3,Public administration and safety,O,618.7
+2002-Q4,Public administration and safety,O,624.0
+2003-Q1,Public administration and safety,O,632.3
+2003-Q2,Public administration and safety,O,639.4
+2003-Q3,Public administration and safety,O,647.6
+2003-Q4,Public administration and safety,O,648.0
+2004-Q1,Public administration and safety,O,650.4
+2004-Q2,Public administration and safety,O,653.4
+2004-Q3,Public administration and safety,O,646.1
+2004-Q4,Public administration and safety,O,650.9
+2005-Q1,Public administration and safety,O,654.3
+2005-Q2,Public administration and safety,O,654.8
+2005-Q3,Public administration and safety,O,662.3
+2005-Q4,Public administration and safety,O,659.7
+2006-Q1,Public administration and safety,O,674.1
+2006-Q2,Public administration and safety,O,671.9
+2006-Q3,Public administration and safety,O,679.0
+2006-Q4,Public administration and safety,O,674.2
+2007-Q1,Public administration and safety,O,651.9
+2007-Q2,Public administration and safety,O,643.0
+2007-Q3,Public administration and safety,O,629.2
+2007-Q4,Public administration and safety,O,634.6
+2008-Q1,Public administration and safety,O,649.5
+2008-Q2,Public administration and safety,O,654.4
+2008-Q3,Public administration and safety,O,663.1
+2008-Q4,Public administration and safety,O,672.1
+2009-Q1,Public administration and safety,O,691.0
+2009-Q2,Public administration and safety,O,686.2
+2009-Q3,Public administration and safety,O,696.0
+2009-Q4,Public administration and safety,O,694.6
+2010-Q1,Public administration and safety,O,666.5
+2010-Q2,Public administration and safety,O,679.1
+2010-Q3,Public administration and safety,O,678.5
+2010-Q4,Public administration and safety,O,682.5
+2011-Q1,Public administration and safety,O,691.1
+2011-Q2,Public administration and safety,O,693.2
+2011-Q3,Public administration and safety,O,693.9
+2011-Q4,Public administration and safety,O,685.8
+2012-Q1,Public administration and safety,O,687.1
+2012-Q2,Public administration and safety,O,700.6
+2012-Q3,Public administration and safety,O,709.8
+2012-Q4,Public administration and safety,O,707.8
+2013-Q1,Public administration and safety,O,703.7
+2013-Q2,Public administration and safety,O,712.4
+2013-Q3,Public administration and safety,O,700.3
+2013-Q4,Public administration and safety,O,698.5
+2014-Q1,Public administration and safety,O,704.3
+2014-Q2,Public administration and safety,O,695.7
+2014-Q3,Public administration and safety,O,690.5
+2014-Q4,Public administration and safety,O,700.1
+2015-Q1,Public administration and safety,O,696.5
+2015-Q2,Public administration and safety,O,696.4
+2015-Q3,Public administration and safety,O,707.7
+2015-Q4,Public administration and safety,O,722.6
+2016-Q1,Public administration and safety,O,728.3
+2016-Q2,Public administration and safety,O,728.2
+2016-Q3,Public administration and safety,O,738.3
+2016-Q4,Public administration and safety,O,736.3
+2017-Q1,Public administration and safety,O,741.9
+2017-Q2,Public administration and safety,O,740.9
+2017-Q3,Public administration and safety,O,745.5
+2017-Q4,Public administration and safety,O,744.9
+2018-Q1,Public administration and safety,O,746.5
+2018-Q2,Public administration and safety,O,745.3
+2018-Q3,Public administration and safety,O,757.1
+2018-Q4,Public administration and safety,O,761.8
+2019-Q1,Public administration and safety,O,763.7
+2019-Q2,Public administration and safety,O,767.8
+2019-Q3,Public administration and safety,O,752.3
+2019-Q4,Public administration and safety,O,739.5
+2020-Q1,Public administration and safety,O,747.9
+2020-Q2,Public administration and safety,O,735.7
+2020-Q3,Public administration and safety,O,754.4
+2020-Q4,Public administration and safety,O,766.0
+2021-Q1,Public administration and safety,O,762.3
+2021-Q2,Public administration and safety,O,781.9
+2021-Q3,Public administration and safety,O,786.5
+2021-Q4,Public administration and safety,O,808.9
+2022-Q1,Public administration and safety,O,803.9
+2022-Q2,Public administration and safety,O,804.3
+2022-Q3,Public administration and safety,O,798.6
+2022-Q4,Public administration and safety,O,800.4
+2023-Q1,Public administration and safety,O,816.2
+2023-Q2,Public administration and safety,O,819.0
+2023-Q3,Public administration and safety,O,816.1
+2023-Q4,Public administration and safety,O,822.5
+2024-Q1,Public administration and safety,O,843.2
+2024-Q2,Public administration and safety,O,859.4
+2024-Q3,Public administration and safety,O,874.4
+2024-Q4,Public administration and safety,O,869.9
+2025-Q1,Public administration and safety,O,870.2
+2025-Q2,Public administration and safety,O,874.4
+2025-Q3,Public administration and safety,O,886.3
+2025-Q4,Public administration and safety,O,890.5
+2026-Q1,Public administration and safety,O,893.4
+2026-Q2,Public administration and safety,O,886.3
+1994-Q3,"Rental, hiring and real estate services",L,141.2
+1994-Q4,"Rental, hiring and real estate services",L,144.9
+1995-Q1,"Rental, hiring and real estate services",L,146.8
+1995-Q2,"Rental, hiring and real estate services",L,147.7
+1995-Q3,"Rental, hiring and real estate services",L,143.0
+1995-Q4,"Rental, hiring and real estate services",L,136.3
+1996-Q1,"Rental, hiring and real estate services",L,136.0
+1996-Q2,"Rental, hiring and real estate services",L,141.7
+1996-Q3,"Rental, hiring and real estate services",L,153.4
+1996-Q4,"Rental, hiring and real estate services",L,165.1
+1997-Q1,"Rental, hiring and real estate services",L,151.8
+1997-Q2,"Rental, hiring and real estate services",L,142.6
+1997-Q3,"Rental, hiring and real estate services",L,146.7
+1997-Q4,"Rental, hiring and real estate services",L,151.1
+1998-Q1,"Rental, hiring and real estate services",L,161.7
+1998-Q2,"Rental, hiring and real estate services",L,161.6
+1998-Q3,"Rental, hiring and real estate services",L,153.0
+1998-Q4,"Rental, hiring and real estate services",L,149.4
+1999-Q1,"Rental, hiring and real estate services",L,155.9
+1999-Q2,"Rental, hiring and real estate services",L,164.8
+1999-Q3,"Rental, hiring and real estate services",L,171.3
+1999-Q4,"Rental, hiring and real estate services",L,168.6
+2000-Q1,"Rental, hiring and real estate services",L,167.5
+2000-Q2,"Rental, hiring and real estate services",L,173.2
+2000-Q3,"Rental, hiring and real estate services",L,174.1
+2000-Q4,"Rental, hiring and real estate services",L,180.5
+2001-Q1,"Rental, hiring and real estate services",L,180.7
+2001-Q2,"Rental, hiring and real estate services",L,181.8
+2001-Q3,"Rental, hiring and real estate services",L,177.7
+2001-Q4,"Rental, hiring and real estate services",L,183.3
+2002-Q1,"Rental, hiring and real estate services",L,183.2
+2002-Q2,"Rental, hiring and real estate services",L,182.4
+2002-Q3,"Rental, hiring and real estate services",L,192.6
+2002-Q4,"Rental, hiring and real estate services",L,195.0
+2003-Q1,"Rental, hiring and real estate services",L,192.1
+2003-Q2,"Rental, hiring and real estate services",L,199.6
+2003-Q3,"Rental, hiring and real estate services",L,215.3
+2003-Q4,"Rental, hiring and real estate services",L,208.9
+2004-Q1,"Rental, hiring and real estate services",L,220.2
+2004-Q2,"Rental, hiring and real estate services",L,218.9
+2004-Q3,"Rental, hiring and real estate services",L,210.8
+2004-Q4,"Rental, hiring and real estate services",L,212.4
+2005-Q1,"Rental, hiring and real estate services",L,227.6
+2005-Q2,"Rental, hiring and real estate services",L,231.6
+2005-Q3,"Rental, hiring and real estate services",L,227.4
+2005-Q4,"Rental, hiring and real estate services",L,236.8
+2006-Q1,"Rental, hiring and real estate services",L,242.5
+2006-Q2,"Rental, hiring and real estate services",L,231.5
+2006-Q3,"Rental, hiring and real estate services",L,246.9
+2006-Q4,"Rental, hiring and real estate services",L,246.4
+2007-Q1,"Rental, hiring and real estate services",L,249.3
+2007-Q2,"Rental, hiring and real estate services",L,259.9
+2007-Q3,"Rental, hiring and real estate services",L,256.5
+2007-Q4,"Rental, hiring and real estate services",L,248.7
+2008-Q1,"Rental, hiring and real estate services",L,250.3
+2008-Q2,"Rental, hiring and real estate services",L,252.5
+2008-Q3,"Rental, hiring and real estate services",L,258.0
+2008-Q4,"Rental, hiring and real estate services",L,259.1
+2009-Q1,"Rental, hiring and real estate services",L,247.7
+2009-Q2,"Rental, hiring and real estate services",L,239.1
+2009-Q3,"Rental, hiring and real estate services",L,245.8
+2009-Q4,"Rental, hiring and real estate services",L,248.6
+2010-Q1,"Rental, hiring and real estate services",L,231.0
+2010-Q2,"Rental, hiring and real estate services",L,242.3
+2010-Q3,"Rental, hiring and real estate services",L,246.4
+2010-Q4,"Rental, hiring and real estate services",L,255.0
+2011-Q1,"Rental, hiring and real estate services",L,245.6
+2011-Q2,"Rental, hiring and real estate services",L,243.4
+2011-Q3,"Rental, hiring and real estate services",L,244.0
+2011-Q4,"Rental, hiring and real estate services",L,242.1
+2012-Q1,"Rental, hiring and real estate services",L,269.0
+2012-Q2,"Rental, hiring and real estate services",L,259.4
+2012-Q3,"Rental, hiring and real estate services",L,258.0
+2012-Q4,"Rental, hiring and real estate services",L,249.2
+2013-Q1,"Rental, hiring and real estate services",L,251.5
+2013-Q2,"Rental, hiring and real estate services",L,250.1
+2013-Q3,"Rental, hiring and real estate services",L,248.3
+2013-Q4,"Rental, hiring and real estate services",L,245.2
+2014-Q1,"Rental, hiring and real estate services",L,256.5
+2014-Q2,"Rental, hiring and real estate services",L,268.4
+2014-Q3,"Rental, hiring and real estate services",L,264.4
+2014-Q4,"Rental, hiring and real estate services",L,266.6
+2015-Q1,"Rental, hiring and real estate services",L,251.2
+2015-Q2,"Rental, hiring and real estate services",L,269.4
+2015-Q3,"Rental, hiring and real estate services",L,264.2
+2015-Q4,"Rental, hiring and real estate services",L,272.7
+2016-Q1,"Rental, hiring and real estate services",L,280.5
+2016-Q2,"Rental, hiring and real estate services",L,275.6
+2016-Q3,"Rental, hiring and real estate services",L,270.9
+2016-Q4,"Rental, hiring and real estate services",L,275.4
+2017-Q1,"Rental, hiring and real estate services",L,270.2
+2017-Q2,"Rental, hiring and real estate services",L,271.6
+2017-Q3,"Rental, hiring and real estate services",L,279.4
+2017-Q4,"Rental, hiring and real estate services",L,287.2
+2018-Q1,"Rental, hiring and real estate services",L,287.7
+2018-Q2,"Rental, hiring and real estate services",L,285.6
+2018-Q3,"Rental, hiring and real estate services",L,282.7
+2018-Q4,"Rental, hiring and real estate services",L,274.1
+2019-Q1,"Rental, hiring and real estate services",L,277.7
+2019-Q2,"Rental, hiring and real estate services",L,278.2
+2019-Q3,"Rental, hiring and real estate services",L,284.6
+2019-Q4,"Rental, hiring and real estate services",L,287.3
+2020-Q1,"Rental, hiring and real estate services",L,279.9
+2020-Q2,"Rental, hiring and real estate services",L,271.3
+2020-Q3,"Rental, hiring and real estate services",L,266.8
+2020-Q4,"Rental, hiring and real estate services",L,268.5
+2021-Q1,"Rental, hiring and real estate services",L,272.2
+2021-Q2,"Rental, hiring and real estate services",L,278.8
+2021-Q3,"Rental, hiring and real estate services",L,270.0
+2021-Q4,"Rental, hiring and real estate services",L,288.0
+2022-Q1,"Rental, hiring and real estate services",L,299.1
+2022-Q2,"Rental, hiring and real estate services",L,308.3
+2022-Q3,"Rental, hiring and real estate services",L,303.7
+2022-Q4,"Rental, hiring and real estate services",L,286.5
+2023-Q1,"Rental, hiring and real estate services",L,282.2
+2023-Q2,"Rental, hiring and real estate services",L,285.9
+2023-Q3,"Rental, hiring and real estate services",L,293.7
+2023-Q4,"Rental, hiring and real estate services",L,287.2
+2024-Q1,"Rental, hiring and real estate services",L,293.6
+2024-Q2,"Rental, hiring and real estate services",L,294.7
+2024-Q3,"Rental, hiring and real estate services",L,299.0
+2024-Q4,"Rental, hiring and real estate services",L,302.5
+2025-Q1,"Rental, hiring and real estate services",L,296.1
+2025-Q2,"Rental, hiring and real estate services",L,294.0
+2025-Q3,"Rental, hiring and real estate services",L,295.1
+2025-Q4,"Rental, hiring and real estate services",L,301.8
+2026-Q1,"Rental, hiring and real estate services",L,306.2
+2026-Q2,"Rental, hiring and real estate services",L,304.7
+1994-Q3,Retail trade,G,904.4
+1994-Q4,Retail trade,G,902.6
+1995-Q1,Retail trade,G,894.3
+1995-Q2,Retail trade,G,917.7
+1995-Q3,Retail trade,G,924.4
+1995-Q4,Retail trade,G,943.7
+1996-Q1,Retail trade,G,941.1
+1996-Q2,Retail trade,G,948.8
+1996-Q3,Retail trade,G,979.0
+1996-Q4,Retail trade,G,997.1
+1997-Q1,Retail trade,G,1008.5
+1997-Q2,Retail trade,G,1009.2
+1997-Q3,Retail trade,G,1015.8
+1997-Q4,Retail trade,G,1015.7
+1998-Q1,Retail trade,G,1026.4
+1998-Q2,Retail trade,G,1034.5
+1998-Q3,Retail trade,G,1034.1
+1998-Q4,Retail trade,G,1038.7
+1999-Q1,Retail trade,G,1060.6
+1999-Q2,Retail trade,G,1051.4
+1999-Q3,Retail trade,G,1052.3
+1999-Q4,Retail trade,G,1061.0
+2000-Q1,Retail trade,G,1064.7
+2000-Q2,Retail trade,G,1051.8
+2000-Q3,Retail trade,G,1054.4
+2000-Q4,Retail trade,G,1077.0
+2001-Q1,Retail trade,G,1089.4
+2001-Q2,Retail trade,G,1104.0
+2001-Q3,Retail trade,G,1094.7
+2001-Q4,Retail trade,G,1087.7
+2002-Q1,Retail trade,G,1091.6
+2002-Q2,Retail trade,G,1105.8
+2002-Q3,Retail trade,G,1115.9
+2002-Q4,Retail trade,G,1115.2
+2003-Q1,Retail trade,G,1108.3
+2003-Q2,Retail trade,G,1112.9
+2003-Q3,Retail trade,G,1109.6
+2003-Q4,Retail trade,G,1113.9
+2004-Q1,Retail trade,G,1127.9
+2004-Q2,Retail trade,G,1146.9
+2004-Q3,Retail trade,G,1162.9
+2004-Q4,Retail trade,G,1160.3
+2005-Q1,Retail trade,G,1186.1
+2005-Q2,Retail trade,G,1181.8
+2005-Q3,Retail trade,G,1183.9
+2005-Q4,Retail trade,G,1182.7
+2006-Q1,Retail trade,G,1178.3
+2006-Q2,Retail trade,G,1200.9
+2006-Q3,Retail trade,G,1166.9
+2006-Q4,Retail trade,G,1177.2
+2007-Q1,Retail trade,G,1194.0
+2007-Q2,Retail trade,G,1217.9
+2007-Q3,Retail trade,G,1231.1
+2007-Q4,Retail trade,G,1225.1
+2008-Q1,Retail trade,G,1245.3
+2008-Q2,Retail trade,G,1250.9
+2008-Q3,Retail trade,G,1277.6
+2008-Q4,Retail trade,G,1264.3
+2009-Q1,Retail trade,G,1269.9
+2009-Q2,Retail trade,G,1277.0
+2009-Q3,Retail trade,G,1258.0
+2009-Q4,Retail trade,G,1318.5
+2010-Q1,Retail trade,G,1299.7
+2010-Q2,Retail trade,G,1308.7
+2010-Q3,Retail trade,G,1322.4
+2010-Q4,Retail trade,G,1326.1
+2011-Q1,Retail trade,G,1311.5
+2011-Q2,Retail trade,G,1325.3
+2011-Q3,Retail trade,G,1310.1
+2011-Q4,Retail trade,G,1323.9
+2012-Q1,Retail trade,G,1305.6
+2012-Q2,Retail trade,G,1298.0
+2012-Q3,Retail trade,G,1312.7
+2012-Q4,Retail trade,G,1323.1
+2013-Q1,Retail trade,G,1325.0
+2013-Q2,Retail trade,G,1332.8
+2013-Q3,Retail trade,G,1347.7
+2013-Q4,Retail trade,G,1300.3
+2014-Q1,Retail trade,G,1304.4
+2014-Q2,Retail trade,G,1294.2
+2014-Q3,Retail trade,G,1291.2
+2014-Q4,Retail trade,G,1327.2
+2015-Q1,Retail trade,G,1348.9
+2015-Q2,Retail trade,G,1326.7
+2015-Q3,Retail trade,G,1323.1
+2015-Q4,Retail trade,G,1331.5
+2016-Q1,Retail trade,G,1345.1
+2016-Q2,Retail trade,G,1355.1
+2016-Q3,Retail trade,G,1353.7
+2016-Q4,Retail trade,G,1363.3
+2017-Q1,Retail trade,G,1324.6
+2017-Q2,Retail trade,G,1327.7
+2017-Q3,Retail trade,G,1348.6
+2017-Q4,Retail trade,G,1338.6
+2018-Q1,Retail trade,G,1354.6
+2018-Q2,Retail trade,G,1361.6
+2018-Q3,Retail trade,G,1374.1
+2018-Q4,Retail trade,G,1386.1
+2019-Q1,Retail trade,G,1381.6
+2019-Q2,Retail trade,G,1368.0
+2019-Q3,Retail trade,G,1331.9
+2019-Q4,Retail trade,G,1339.2
+2020-Q1,Retail trade,G,1348.9
+2020-Q2,Retail trade,G,1351.3
+2020-Q3,Retail trade,G,1373.6
+2020-Q4,Retail trade,G,1380.6
+2021-Q1,Retail trade,G,1360.2
+2021-Q2,Retail trade,G,1419.4
+2021-Q3,Retail trade,G,1378.9
+2021-Q4,Retail trade,G,1459.5
+2022-Q1,Retail trade,G,1458.5
+2022-Q2,Retail trade,G,1460.9
+2022-Q3,Retail trade,G,1480.6
+2022-Q4,Retail trade,G,1499.3
+2023-Q1,Retail trade,G,1519.9
+2023-Q2,Retail trade,G,1512.6
+2023-Q3,Retail trade,G,1486.1
+2023-Q4,Retail trade,G,1490.1
+2024-Q1,Retail trade,G,1495.0
+2024-Q2,Retail trade,G,1530.2
+2024-Q3,Retail trade,G,1535.6
+2024-Q4,Retail trade,G,1529.2
+2025-Q1,Retail trade,G,1516.3
+2025-Q2,Retail trade,G,1510.9
+2025-Q3,Retail trade,G,1521.1
+2025-Q4,Retail trade,G,1515.7
+2026-Q1,Retail trade,G,1524.5
+2026-Q2,Retail trade,G,1535.5
+1994-Q3,"Transport, postal and warehousing",I,451.3
+1994-Q4,"Transport, postal and warehousing",I,456.3
+1995-Q1,"Transport, postal and warehousing",I,464.3
+1995-Q2,"Transport, postal and warehousing",I,479.5
+1995-Q3,"Transport, postal and warehousing",I,492.6
+1995-Q4,"Transport, postal and warehousing",I,495.3
+1996-Q1,"Transport, postal and warehousing",I,497.7
+1996-Q2,"Transport, postal and warehousing",I,497.5
+1996-Q3,"Transport, postal and warehousing",I,466.0
+1996-Q4,"Transport, postal and warehousing",I,423.0
+1997-Q1,"Transport, postal and warehousing",I,458.0
+1997-Q2,"Transport, postal and warehousing",I,445.5
+1997-Q3,"Transport, postal and warehousing",I,441.5
+1997-Q4,"Transport, postal and warehousing",I,429.9
+1998-Q1,"Transport, postal and warehousing",I,420.2
+1998-Q2,"Transport, postal and warehousing",I,424.7
+1998-Q3,"Transport, postal and warehousing",I,431.3
+1998-Q4,"Transport, postal and warehousing",I,447.9
+1999-Q1,"Transport, postal and warehousing",I,436.1
+1999-Q2,"Transport, postal and warehousing",I,442.0
+1999-Q3,"Transport, postal and warehousing",I,450.1
+1999-Q4,"Transport, postal and warehousing",I,458.6
+2000-Q1,"Transport, postal and warehousing",I,468.1
+2000-Q2,"Transport, postal and warehousing",I,458.8
+2000-Q3,"Transport, postal and warehousing",I,461.2
+2000-Q4,"Transport, postal and warehousing",I,463.1
+2001-Q1,"Transport, postal and warehousing",I,467.1
+2001-Q2,"Transport, postal and warehousing",I,477.4
+2001-Q3,"Transport, postal and warehousing",I,466.6
+2001-Q4,"Transport, postal and warehousing",I,461.7
+2002-Q1,"Transport, postal and warehousing",I,452.7
+2002-Q2,"Transport, postal and warehousing",I,455.4
+2002-Q3,"Transport, postal and warehousing",I,464.1
+2002-Q4,"Transport, postal and warehousing",I,461.0
+2003-Q1,"Transport, postal and warehousing",I,460.9
+2003-Q2,"Transport, postal and warehousing",I,462.0
+2003-Q3,"Transport, postal and warehousing",I,462.0
+2003-Q4,"Transport, postal and warehousing",I,473.0
+2004-Q1,"Transport, postal and warehousing",I,481.1
+2004-Q2,"Transport, postal and warehousing",I,487.7
+2004-Q3,"Transport, postal and warehousing",I,496.5
+2004-Q4,"Transport, postal and warehousing",I,503.2
+2005-Q1,"Transport, postal and warehousing",I,523.7
+2005-Q2,"Transport, postal and warehousing",I,525.2
+2005-Q3,"Transport, postal and warehousing",I,526.1
+2005-Q4,"Transport, postal and warehousing",I,532.0
+2006-Q1,"Transport, postal and warehousing",I,543.3
+2006-Q2,"Transport, postal and warehousing",I,539.1
+2006-Q3,"Transport, postal and warehousing",I,544.5
+2006-Q4,"Transport, postal and warehousing",I,539.7
+2007-Q1,"Transport, postal and warehousing",I,541.5
+2007-Q2,"Transport, postal and warehousing",I,547.2
+2007-Q3,"Transport, postal and warehousing",I,555.3
+2007-Q4,"Transport, postal and warehousing",I,559.0
+2008-Q1,"Transport, postal and warehousing",I,554.4
+2008-Q2,"Transport, postal and warehousing",I,559.8
+2008-Q3,"Transport, postal and warehousing",I,560.0
+2008-Q4,"Transport, postal and warehousing",I,554.1
+2009-Q1,"Transport, postal and warehousing",I,549.1
+2009-Q2,"Transport, postal and warehousing",I,555.2
+2009-Q3,"Transport, postal and warehousing",I,556.5
+2009-Q4,"Transport, postal and warehousing",I,570.6
+2010-Q1,"Transport, postal and warehousing",I,588.7
+2010-Q2,"Transport, postal and warehousing",I,567.9
+2010-Q3,"Transport, postal and warehousing",I,573.6
+2010-Q4,"Transport, postal and warehousing",I,578.6
+2011-Q1,"Transport, postal and warehousing",I,576.6
+2011-Q2,"Transport, postal and warehousing",I,564.5
+2011-Q3,"Transport, postal and warehousing",I,563.7
+2011-Q4,"Transport, postal and warehousing",I,558.2
+2012-Q1,"Transport, postal and warehousing",I,557.3
+2012-Q2,"Transport, postal and warehousing",I,569.1
+2012-Q3,"Transport, postal and warehousing",I,564.7
+2012-Q4,"Transport, postal and warehousing",I,576.8
+2013-Q1,"Transport, postal and warehousing",I,602.2
+2013-Q2,"Transport, postal and warehousing",I,584.3
+2013-Q3,"Transport, postal and warehousing",I,608.0
+2013-Q4,"Transport, postal and warehousing",I,599.7
+2014-Q1,"Transport, postal and warehousing",I,590.9
+2014-Q2,"Transport, postal and warehousing",I,576.4
+2014-Q3,"Transport, postal and warehousing",I,574.8
+2014-Q4,"Transport, postal and warehousing",I,564.7
+2015-Q1,"Transport, postal and warehousing",I,568.2
+2015-Q2,"Transport, postal and warehousing",I,584.2
+2015-Q3,"Transport, postal and warehousing",I,573.5
+2015-Q4,"Transport, postal and warehousing",I,591.2
+2016-Q1,"Transport, postal and warehousing",I,602.2
+2016-Q2,"Transport, postal and warehousing",I,601.3
+2016-Q3,"Transport, postal and warehousing",I,570.0
+2016-Q4,"Transport, postal and warehousing",I,606.5
+2017-Q1,"Transport, postal and warehousing",I,615.5
+2017-Q2,"Transport, postal and warehousing",I,623.7
+2017-Q3,"Transport, postal and warehousing",I,632.1
+2017-Q4,"Transport, postal and warehousing",I,635.8
+2018-Q1,"Transport, postal and warehousing",I,628.2
+2018-Q2,"Transport, postal and warehousing",I,634.9
+2018-Q3,"Transport, postal and warehousing",I,654.4
+2018-Q4,"Transport, postal and warehousing",I,669.4
+2019-Q1,"Transport, postal and warehousing",I,646.2
+2019-Q2,"Transport, postal and warehousing",I,651.4
+2019-Q3,"Transport, postal and warehousing",I,663.1
+2019-Q4,"Transport, postal and warehousing",I,664.8
+2020-Q1,"Transport, postal and warehousing",I,675.1
+2020-Q2,"Transport, postal and warehousing",I,631.8
+2020-Q3,"Transport, postal and warehousing",I,604.3
+2020-Q4,"Transport, postal and warehousing",I,615.6
+2021-Q1,"Transport, postal and warehousing",I,639.8
+2021-Q2,"Transport, postal and warehousing",I,649.2
+2021-Q3,"Transport, postal and warehousing",I,614.7
+2021-Q4,"Transport, postal and warehousing",I,641.6
+2022-Q1,"Transport, postal and warehousing",I,655.0
+2022-Q2,"Transport, postal and warehousing",I,687.6
+2022-Q3,"Transport, postal and warehousing",I,689.9
+2022-Q4,"Transport, postal and warehousing",I,695.7
+2023-Q1,"Transport, postal and warehousing",I,700.2
+2023-Q2,"Transport, postal and warehousing",I,689.6
+2023-Q3,"Transport, postal and warehousing",I,710.9
+2023-Q4,"Transport, postal and warehousing",I,712.1
+2024-Q1,"Transport, postal and warehousing",I,696.3
+2024-Q2,"Transport, postal and warehousing",I,687.4
+2024-Q3,"Transport, postal and warehousing",I,691.6
+2024-Q4,"Transport, postal and warehousing",I,704.3
+2025-Q1,"Transport, postal and warehousing",I,705.0
+2025-Q2,"Transport, postal and warehousing",I,711.7
+2025-Q3,"Transport, postal and warehousing",I,714.2
+2025-Q4,"Transport, postal and warehousing",I,717.6
+2026-Q1,"Transport, postal and warehousing",I,726.6
+2026-Q2,"Transport, postal and warehousing",I,734.6
+1994-Q3,Wholesale trade,F,407.4
+1994-Q4,Wholesale trade,F,402.8
+1995-Q1,Wholesale trade,F,410.0
+1995-Q2,Wholesale trade,F,423.5
+1995-Q3,Wholesale trade,F,428.2
+1995-Q4,Wholesale trade,F,437.5
+1996-Q1,Wholesale trade,F,428.0
+1996-Q2,Wholesale trade,F,421.3
+1996-Q3,Wholesale trade,F,419.4
+1996-Q4,Wholesale trade,F,420.4
+1997-Q1,Wholesale trade,F,441.7
+1997-Q2,Wholesale trade,F,438.6
+1997-Q3,Wholesale trade,F,447.7
+1997-Q4,Wholesale trade,F,454.2
+1998-Q1,Wholesale trade,F,450.8
+1998-Q2,Wholesale trade,F,461.9
+1998-Q3,Wholesale trade,F,476.1
+1998-Q4,Wholesale trade,F,473.8
+1999-Q1,Wholesale trade,F,487.4
+1999-Q2,Wholesale trade,F,493.4
+1999-Q3,Wholesale trade,F,492.5
+1999-Q4,Wholesale trade,F,511.8
+2000-Q1,Wholesale trade,F,498.1
+2000-Q2,Wholesale trade,F,493.3
+2000-Q3,Wholesale trade,F,479.9
+2000-Q4,Wholesale trade,F,474.5
+2001-Q1,Wholesale trade,F,478.1
+2001-Q2,Wholesale trade,F,474.5
+2001-Q3,Wholesale trade,F,474.0
+2001-Q4,Wholesale trade,F,473.5
+2002-Q1,Wholesale trade,F,471.1
+2002-Q2,Wholesale trade,F,471.2
+2002-Q3,Wholesale trade,F,470.4
+2002-Q4,Wholesale trade,F,472.3
+2003-Q1,Wholesale trade,F,473.5
+2003-Q2,Wholesale trade,F,467.3
+2003-Q3,Wholesale trade,F,462.1
+2003-Q4,Wholesale trade,F,458.3
+2004-Q1,Wholesale trade,F,456.2
+2004-Q2,Wholesale trade,F,460.1
+2004-Q3,Wholesale trade,F,466.6
+2004-Q4,Wholesale trade,F,472.0
+2005-Q1,Wholesale trade,F,472.1
+2005-Q2,Wholesale trade,F,473.5
+2005-Q3,Wholesale trade,F,472.3
+2005-Q4,Wholesale trade,F,474.2
+2006-Q1,Wholesale trade,F,477.8
+2006-Q2,Wholesale trade,F,484.3
+2006-Q3,Wholesale trade,F,495.1
+2006-Q4,Wholesale trade,F,494.5
+2007-Q1,Wholesale trade,F,507.8
+2007-Q2,Wholesale trade,F,528.0
+2007-Q3,Wholesale trade,F,528.0
+2007-Q4,Wholesale trade,F,553.8
+2008-Q1,Wholesale trade,F,539.9
+2008-Q2,Wholesale trade,F,538.1
+2008-Q3,Wholesale trade,F,535.2
+2008-Q4,Wholesale trade,F,545.7
+2009-Q1,Wholesale trade,F,541.6
+2009-Q2,Wholesale trade,F,532.3
+2009-Q3,Wholesale trade,F,529.3
+2009-Q4,Wholesale trade,F,525.7
+2010-Q1,Wholesale trade,F,538.9
+2010-Q2,Wholesale trade,F,537.7
+2010-Q3,Wholesale trade,F,542.7
+2010-Q4,Wholesale trade,F,539.9
+2011-Q1,Wholesale trade,F,554.8
+2011-Q2,Wholesale trade,F,553.8
+2011-Q3,Wholesale trade,F,561.7
+2011-Q4,Wholesale trade,F,568.3
+2012-Q1,Wholesale trade,F,554.7
+2012-Q2,Wholesale trade,F,558.9
+2012-Q3,Wholesale trade,F,566.3
+2012-Q4,Wholesale trade,F,557.4
+2013-Q1,Wholesale trade,F,551.7
+2013-Q2,Wholesale trade,F,552.1
+2013-Q3,Wholesale trade,F,541.1
+2013-Q4,Wholesale trade,F,540.9
+2014-Q1,Wholesale trade,F,550.6
+2014-Q2,Wholesale trade,F,550.6
+2014-Q3,Wholesale trade,F,550.2
+2014-Q4,Wholesale trade,F,557.0
+2015-Q1,Wholesale trade,F,539.0
+2015-Q2,Wholesale trade,F,540.5
+2015-Q3,Wholesale trade,F,532.8
+2015-Q4,Wholesale trade,F,543.4
+2016-Q1,Wholesale trade,F,538.1
+2016-Q2,Wholesale trade,F,532.2
+2016-Q3,Wholesale trade,F,564.6
+2016-Q4,Wholesale trade,F,539.5
+2017-Q1,Wholesale trade,F,543.6
+2017-Q2,Wholesale trade,F,548.2
+2017-Q3,Wholesale trade,F,538.1
+2017-Q4,Wholesale trade,F,524.9
+2018-Q1,Wholesale trade,F,531.1
+2018-Q2,Wholesale trade,F,542.4
+2018-Q3,Wholesale trade,F,543.2
+2018-Q4,Wholesale trade,F,560.5
+2019-Q1,Wholesale trade,F,558.8
+2019-Q2,Wholesale trade,F,558.0
+2019-Q3,Wholesale trade,F,570.3
+2019-Q4,Wholesale trade,F,567.2
+2020-Q1,Wholesale trade,F,572.3
+2020-Q2,Wholesale trade,F,541.5
+2020-Q3,Wholesale trade,F,562.1
+2020-Q4,Wholesale trade,F,566.9
+2021-Q1,Wholesale trade,F,577.5
+2021-Q2,Wholesale trade,F,568.6
+2021-Q3,Wholesale trade,F,537.7
+2021-Q4,Wholesale trade,F,554.4
+2022-Q1,Wholesale trade,F,570.0
+2022-Q2,Wholesale trade,F,598.1
+2022-Q3,Wholesale trade,F,634.4
+2022-Q4,Wholesale trade,F,633.8
+2023-Q1,Wholesale trade,F,610.8
+2023-Q2,Wholesale trade,F,596.9
+2023-Q3,Wholesale trade,F,594.1
+2023-Q4,Wholesale trade,F,603.4
+2024-Q1,Wholesale trade,F,600.1
+2024-Q2,Wholesale trade,F,601.5
+2024-Q3,Wholesale trade,F,599.4
+2024-Q4,Wholesale trade,F,594.7
+2025-Q1,Wholesale trade,F,589.6
+2025-Q2,Wholesale trade,F,582.7
+2025-Q3,Wholesale trade,F,580.6
+2025-Q4,Wholesale trade,F,580.3
+2026-Q1,Wholesale trade,F,587.2
+2026-Q2,Wholesale trade,F,589.9

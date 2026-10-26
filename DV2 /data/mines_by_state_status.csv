@@ -1,0 +1,25 @@
+state,status,mines
+IOT,Care and maintenance,0
+IOT,Developing mine,0
+IOT,Operating mine,1
+NSW,Care and maintenance,18
+NSW,Developing mine,6
+NSW,Operating mine,58
+NT,Care and maintenance,5
+NT,Developing mine,8
+NT,Operating mine,8
+QLD,Care and maintenance,21
+QLD,Developing mine,7
+QLD,Operating mine,80
+SA,Care and maintenance,8
+SA,Developing mine,4
+SA,Operating mine,17
+TAS,Care and maintenance,5
+TAS,Developing mine,1
+TAS,Operating mine,12
+VIC,Care and maintenance,3
+VIC,Developing mine,4
+VIC,Operating mine,8
+WA,Care and maintenance,69
+WA,Developing mine,27
+WA,Operating mine,147

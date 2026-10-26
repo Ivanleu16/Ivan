@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Robotics in Australia</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #fcfcfb;
+      --ink: #1a1a18;
+      --muted: #5f5e58;
+      --line: #e1e0d9;
+      --soft: #f4f3ee;
+      --manufacturing: #2a78d6;
+      --mining: #eb6834;
+      --health: #1baf7a;
+      --agriculture: #eda100;
+      --accent: #1a1a18;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; scroll-padding-top: 70px; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-size: 17px;
+      line-height: 1.65;
+    }
+    h1, h2, h3 { font-family: "Fraunces", Georgia, serif; line-height: 1.15; margin: 0; }
+
+    .topnav {
+      position: sticky; top: 0; z-index: 50;
+      display: flex; gap: 6px; justify-content: center; flex-wrap: wrap;
+      padding: 10px 16px;
+      background: rgba(252, 252, 251, 0.92);
+      backdrop-filter: blur(6px);
+      border-bottom: 1px solid var(--line);
+      font-size: 14px;
+    }
+    .topnav a {
+      color: var(--muted); text-decoration: none;
+      padding: 4px 12px; border-radius: 999px;
+    }
+    .topnav a:hover { background: var(--soft); color: var(--ink); }
+
+    .hero {
+      padding: 96px 24px 64px;
+      text-align: center;
+      background:
+        radial-gradient(circle at 15% 20%, rgba(235,104,52,.10), transparent 40%),
+        radial-gradient(circle at 85% 30%, rgba(42,120,214,.10), transparent 40%),
+        radial-gradient(circle at 50% 90%, rgba(27,175,122,.10), transparent 45%);
+    }
+    .eyebrow {
+      font-size: 13px; letter-spacing: .14em; text-transform: uppercase;
+      color: var(--muted); margin-bottom: 18px;
+    }
+    .hero h1 { font-size: clamp(40px, 7vw, 76px); font-weight: 700; max-width: 900px; margin: 0 auto 22px; }
+    .hero .lede { max-width: 700px; margin: 0 auto; font-size: 19px; color: var(--muted); }
+    .dots { display: flex; justify-content: center; gap: 10px; margin-top: 34px; }
+    .dots span { width: 14px; height: 14px; border-radius: 50%; }
+    .dots .d1 { background: var(--manufacturing); }
+    .dots .d2 { background: var(--mining); }
+    .dots .d3 { background: var(--health); }
+    .dots .d4 { background: var(--agriculture); }
+
+    main { max-width: 1280px; margin: 0 auto; padding: 0 24px 80px; }
+    section { padding: 72px 0 24px; border-top: 1px solid var(--line); }
+    section:first-of-type { border-top: none; }
+    .section-head { max-width: 760px; margin-bottom: 28px; }
+    .kicker {
+      display: inline-block; font-size: 13px; font-weight: 600;
+      letter-spacing: .12em; text-transform: uppercase;
+      color: var(--accent); padding-bottom: 6px;
+      border-bottom: 3px solid var(--accent); margin-bottom: 14px;
+    }
+    .section-head h2 { font-size: clamp(30px, 4vw, 44px); margin-bottom: 14px; }
+    .section-head p { margin: 0 0 12px; color: var(--muted); }
+
+    .mining { --accent: var(--mining); }
+    .manufacturing { --accent: var(--manufacturing); }
+    .agriculture { --accent: var(--agriculture); }
+    .health { --accent: var(--health); }
+    .work { --accent: #5f5e58; }
+
+    .row { display: grid; gap: 24px; margin: 24px 0; grid-template-columns: 1fr; }
+    .card {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-top: 4px solid var(--accent);
+      border-radius: 10px;
+      padding: 20px 22px 16px;
+      box-shadow: 0 1px 2px rgba(0,0,0,.04), 0 8px 24px rgba(0,0,0,.04);
+      overflow-x: auto;
+      min-width: 0;
+    }
+    .card h3 { font-size: 20px; margin-bottom: 4px; }
+    .card .sub { font-size: 14px; color: var(--muted); margin: 0 0 14px; }
+    .card .chart { display: block; }
+    .card .chart .vega-embed { display: block; margin: 0 auto; }
+    .caption {
+      font-size: 13.5px; color: var(--muted);
+      border-top: 1px solid var(--line);
+      margin-top: 14px; padding-top: 10px;
+    }
+
+    .vega-embed details,
+    .vega-embed .vega-actions,
+    .vega-actions-wrapper { display: none !important; }
+
+    .note {
+      border: 2px dashed #c3c2b7;
+      border-radius: 10px;
+      padding: 18px 22px;
+      background: var(--soft);
+      color: var(--muted);
+      margin: 24px 0;
+    }
+    .note strong { color: var(--ink); display: block; margin-bottom: 4px; font-size: 14px; letter-spacing: .06em; text-transform: uppercase; }
+    .takeaway {
+      border-left: 5px solid var(--accent);
+      background: #fff;
+      padding: 18px 24px;
+      margin: 28px 0;
+      font-family: "Fraunces", Georgia, serif;
+      font-size: 22px; line-height: 1.4;
+      border-radius: 0 10px 10px 0;
+      box-shadow: 0 1px 2px rgba(0,0,0,.04);
+    }
+    .takeaway small { display: block; font-family: "Inter", sans-serif; font-size: 13px; color: var(--muted); margin-top: 8px; }
+
+    table { border-collapse: collapse; margin: 12px 0; }
+    th, td { padding: 6px 18px 6px 0; text-align: left; border-bottom: 1px solid var(--line); }
+    th { font-weight: 600; }
+    summary { cursor: pointer; margin-top: 8px; font-size: 14px; color: var(--muted); }
+    footer { background: var(--ink); color: #d6d5cd; padding: 56px 24px; }
+    footer .inner { max-width: 1280px; margin: 0 auto; }
+    footer h2 { color: #fff; font-size: 28px; margin-bottom: 14px; }
+    footer .note { background: transparent; border-color: #5f5e58; color: #b3b2ab; }
+    footer .note strong { color: #fff; }
+
+    .reveal { opacity: 0; transform: translateY(16px); transition: opacity .6s ease, transform .6s ease; }
+    .reveal.in { opacity: 1; transform: none; }
+
+    @media (max-width: 560px) {
+      body { font-size: 16px; }
+      .card { padding: 16px 14px 12px; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="topnav">
+    <a href="#intro">Overview</a>
+    <a href="#mining">Mining</a>
+    <a href="#manufacturing">Manufacturing</a>
+    <a href="#agriculture">Agriculture</a>
+    <a href="#health">Health care</a>
+    <a href="#work">The workplace</a>
+    <a href="#conclusion">Conclusion</a>
+  </nav>
+
+  <header class="hero">
+    <div class="eyebrow">Robotics in Australia</div>
+    <h1>Four industries, four different paths</h1>
+    <p class="lede">
+      Since 1994, Australia's workforce has not changed evenly and the reason Technology,
+      it shows in every industry but in different ways.
+    </p>
+    <div class="dots"><span class="d1"></span><span class="d2"></span><span class="d3"></span><span class="d4"></span></div>
+  </header>
+
+  <main>
+
+    <section id="intro">
+      <div class="section-head reveal">
+        <span class="kicker">Overview</span>
+        <h2>The workforce has not changed evenly</h2>
+        <p>
+          Health care has more than tripled its jobs while mining has nearly tripled its own.
+          Manufacturing and agriculture now employ about a fifth fewer people than they did and
+          in the pages ahead, we will look at how technology is working for each industry, from factory
+          floors and mine sites to paddocks and hospital wards.
+        </p>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Employment by industry since 1994</h3>
+          <div id="hook-chart" class="chart" style="width:100%"></div>
+          <details><summary>View as table</summary><div id="hook-table"></div></details>
+          <div class="caption">Source: ABS. Add your source and notes here.</div>
+        </div>
+      </div>
+
+      <div class="note reveal">
+        <strong>Context:</strong>
+        While total employment almost doubled, we see that industries that held their ground lost shares. 
+        Manufacturing went from Australia's largest employer to falling down the ranks with health care taking its place.
+
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Who lost share and who gained it</h3>
+          <p class="sub">Health care nearly doubled its share of all jobs while manufacturing 
+            fell from about 13% to under 6%, with most other industries barely moving.</p>
+          <div id="share-chart" class="chart"></div>
+          <div class="caption">Source: ABS. Add notes here.</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== MINING ===================== -->
+    <section id="mining" class="mining">
+      <div class="section-head reveal">
+        <span class="kicker">1 · Mining</span>
+        <h2>Automation moves to where the ore is</h2>
+        <p>Mining was one of the first industries to put automation to work at scale, 
+          its sites are remote, its machines are enormous and the work is repetitive. 
+          Driverless haul trucks and autonomous drills now operate across the Pilbara and other mining regions increasing 
+          output by about 180% since the mid 1990s however, multifactor productivity has fallen by about 32% meaning 
+          more is being dug up but at the cost of greater inputs.</p>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Where the mines are</h3>
+          <p class="sub">Location of mines in Australia</p>
+          <div id="mine-map" class="chart"></div>
+          <div class="caption">Source: [add].</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Mines using autonomous trucks</h3>
+          <p class="sub">Mines which have implemented autonomous haul trucks</p>
+          <div id="mine-with-autodriving" class="chart"></div>
+          <div class="caption">Source: [add].</div>
+        </div>
+      </div>
+
+      <div class="note reveal">
+        <strong>Mining story:</strong>
+        The first map shows where mining happens, with the densest clusters being the states with the most mines. 
+        The second map narrows the sites running autonomous trucks with the dots bunch together far more tightly than the mines do. 
+        Automation is concentrated in a small number of large and remote operations, 
+        where it is easy to automate a fleet of identical machines hauling over fixed routes for each truck.
+       Smaller and more varied mines have fewer reasons to follow, which leads to an uneven spread of technology inside the industry.
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Reported safety gains</h3>
+          <p class="sub">Operator claims versus independent regulator data.</p>
+          <div id="safety-chart" class="chart"></div>
+          <div class="caption">Operator figures are company reported.</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Fatalities across the states</h3>
+          <div id="tile-map" class="chart"></div>
+          <div class="caption">Source: Safe Work Australia.</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Efficiency claims for trucks and drills</h3>
+          <p class="sub">Company-reported improvements by technology.</p>
+          <div id="efficiency-chart-mining" class="chart"></div>
+          <div class="caption">Mining companies report gains from driverless trucks and drills, which result in 
+            a 15% drop in haul unit cost at Rio Tinto to 35% more working time per shift on BHP’s 
+            drills. These figures come from the operators themselves, with each one measuring something different. 
+            They also sit awkwardly beside the national data where mining output has grown strongly but multifactor 
+            productivity has fallen.</div>
+        </div>
+      </div>
+
+      <div class="takeaway reveal">
+        </strong>Mining takeaway:</strong>
+        <small>Mining digs up far more than it did in 1994, but it now takes more resources to do it, 
+          so the technology has not made the industry more productive overall. 
+          Mining output is up 180% since 1994-95 however, multifactor productivity is down about 32%.</small>
+      </div>
+    </section>
+
+    <!-- ===================== MANUFACTURING ===================== -->
+    <section id="manufacturing" class="manufacturing">
+      <div class="section-head reveal">
+        <span class="kicker">2 · Manufacturing</span>
+        <h2>Fewer workers, more output per hour</h2>
+        <p> Manufacturing is the industry most people picture when they think of robots replacing workers, 
+          but the data tells a quieter story. Since 1994-95 the industry has lost about 14% of its hours worked, 
+          yet each hour is producing about 34% more, so the gain has come from productivity rather than from a sudden
+          wave of job losses. Multifactor productivity has risen only about 8%, 
+          a little behind the wider market sector at 12%, which suggests the increased productivity is owed to better use of 
+          labour as to new machines. The charts below look at how that productivity has grown and how far manufacturers 
+          have adopted newer technologies.</p>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Productivity since 1994-95</h3>
+          <p class="sub">Indexed to 100 in 1994-95.</p>
+          <div id="manufacturing-chart" class="chart"></div>
+          <div class="caption">Source: ABS Estimates of Industry Multifactor Productivity.</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Technology use versus all businesses</h3>
+          <p class="sub">Percentage point gap, manufacturing minus all businesses.</p>
+          <div id="manufacturing-tech" class="chart"></div>
+          <div class="caption">Source: ABS Business Characteristics Survey.</div>
+        </div>
+      </div>
+
+      <div class="note reveal">
+        <strong>Manufacturing story</strong>
+        Manufacturing now produces about 16% more than it did in 1994-95 while commiting 14% fewer hours 
+        which is where the 34% gain in output per hour appears. For workers, that means the industry needs 
+        fewer people for each unit of output and its share of all jobs has fallen from about 13% to under 6%. 
+        The technology behind this is not mainly robots, manufacturers invest more than other businesses 
+        in older digital tools such as electronic data exchange (15.3% against 9.5%) and in 3D printing 
+        (5.8% against 2.1%) but lack in artificial intelligence (9.3% against 12.1%) and data analytics 
+        (2.6% against 5.2%). Manufacturing is also one of the more innovation-active industries, with 55.4% 
+        of businesses innovating against 45.6% across all businesses.
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Where the manufacturing jobs went</h3>
+          <p class="sub">Dashed rings show 1994, filled circles show 2026. Colour shows share of state jobs.</p>
+          <div id="manufacturing-map" class="chart"></div>
+          <div class="caption">Source: ABS Labour Force, Detailed.</div>
+        </div>
+      </div>
+
+      <div class="takeaway reveal">
+        </strong>Manufacturing's share of jobs:</strong>
+        <small>The share of jobs in the manufacturing industry fell in almost every state with its decline in jobs being far from even. 
+          Victoria and New South Wales lost the most jobs, while Western Australia gained, 
+          and Queensland held steady at about 169,000. The industry has not disappeared. 
+          It has become smaller and more productive, more increasingly concentrated where other industries, 
+          such as mining create demand for it.</small>
+      </div>
+    </section>
+
+    <!-- ===================== AGRICULTURE ===================== -->
+    <section id="agriculture" class="agriculture">
+      <div class="section-head reveal">
+        <span class="kicker">3 · Agriculture</span>
+        <h2>Much more from much less labour</h2>
+        <p>Output in argiculture has more than doubled since 1994-95 while hours worked have fallen, 
+          so the line climbs up and to the left, with a dip in the late 2000s for the drought years.</p>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Output and hours on the farm</h3>
+          <p class="sub">Three-year average, indexed to 1994-95.</p>
+          <div id="agriculture-chart" class="chart"></div>
+          <div class="caption">Source: ABS. Weather causes large swings, so a rolling average is used.</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Which technologies farmers use</h3>
+          <p class="sub">Most farmers already use some agtech and those using autonomous technology 
+            report gains, but affordability remains the main concern to farmers.</p>
+          <div id="agriculture-technology" class="chart"></div>
+          <div class="caption">Source: [add survey source].</div>
+        </div>
+      </div>
+
+      <div class="takeaway reveal">
+        <strong>Agriculture takeaway:</strong>
+        <small>Farms now produce greater outputwith less labour, with productivity having almost tripled since 1994-95.
+        Multifactor productivity in agriculture indicate that forestry and fishing is up about 180%, 
+        while hours worked are down about 11%. Productivity is also driven by weather, prices, 
+        better seed and farm management, so this chart shows that productivity has risen 
+        but cannot show how much of it comes from technology.</small>
+      </div>
+    </section>
+
+    <!-- ===================== HEALTH ===================== -->
+    <section id="health" class="health">
+      <div class="section-head reveal">
+        <span class="kicker">4 · Health care</span>
+        <h2>Robots in the operating theatre</h2>
+        <p>Health care is where Australia’s workforce has grown the most 
+        with its share of all jobs rising from about 8.5% to 16% since 1994. 
+        Technology here looks very different from a mine or a factory, 
+        as the robots work alongside surgeons in the operating theatre rather than replacing a shift of workers.
+        Robotic procedures on the da Vinci system in Australia and 
+        New Zealand grew from 11,496 in 2018 to 19,989 in 2022, an increase of about 74%. 
+        The charts below ask what patients and hospitals get in return, and who can actually get access to it.</p>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Robotic surgery is growing</h3>
+          <p class="sub">da Vinci procedures in Australia and New Zealand.</p>
+          <div id="health-chart" class="chart"></div>
+          <div class="caption">Source: [add]. Data covers Australia and New Zealand combined.</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Outcomes and cost per case</h3>
+          <p class="sub">Robotic versus laparoscopic versus open prostatectomy.</p>
+          <div id="health-outcome-chart" class="chart"></div>
+          <div class="caption">Source: Victorian study, 2010 to 2013.</div>
+        </div>
+      </div>
+
+      <div class="note reveal">
+        <strong>Access and cost</strong>
+        For a man having a prostate removed, robotic surgery in the Victorian 
+        study meant going home after about a day and a half instead of four or five with 
+        none of the robotic patients requiring a blood transfusion. That comes at a cost though, 
+        with each robotic case adding thousands of dollars to the bill and a single da Vinci robot costing
+        around A$3.9 million to buy. It is no surprise then that only 26 of the 162 robots in Australia and 
+        New Zealand are in public hospitals and just 14 of 153 in Australia are in rural or remote areas. 
+        Whether you get the better recovery depends a lot on where you live and whether you can pay for private care.
+      </div>
+    </section>
+
+    <!-- ===================== WORKPLACE ===================== -->
+    <section id="work" class="work">
+      <div class="section-head reveal">
+        <span class="kicker">5 · The workplace</span>
+        <h2>What changed for the people doing the work</h2>
+        <p>Technology is only one thing that has changed about work since 1994, 
+          the hours put in and what they earn has shifted very differently from one industry to the next. 
+          Mining still has the longest working weeks and the highest income per person, 
+          though its lead over the average has narrowed, health care, which has grown the most 
+          sits below the average income with some of the shortest working weeks. 
+          Agriculture now sits on average with the national income aswell as manufacturing. 
+          The chart below follows each industry from 1994-95 to 2025-26, so you can see which way each one has moved.</p>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Change in hours and income</h3>
+          <p class="sub">Four focus industries against the rest.</p>
+          <div id="change-in-income" class="chart"></div>
+          <div class="caption">Source: ABS Labour Account. Earnings survey excludes agriculture.</div>
+        </div>
+      </div>
+
+      <div class="takeaway reveal">
+        Workplace takeaway:
+        <small>Farm workers have gained the most relative to the average with health care workers slipping farther behind.
+          Income per person in agriculture rose from 62% to 99% with weekly hours unchanged at about 35. 
+          Health care fell from 100% to 87% of the average at about 26 hours a week, while 
+          mining workers still earn about twice the average 207%, down from 229% and work the longest weeks, 
+          rising from 40 to 42 hours. Manufacturing hours fell from 35.4 to 33.0 a week, 
+          with income steady at about the average.</small>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===================== CONCLUSION ===================== -->
+  <footer id="conclusion">
+    <div class="inner">
+      <h2>Conclusion</h2>
+      <div class="note">
+        <strong>Summary:</strong>
+        The innovation of technology has had four very different effects on Australian work. 
+        Mining automation sits alongside a huge increase in output, yet the industry now uses more 
+        resources to get each tonne out. Manufacturing is steady and efficient, with about 14% fewer hours 
+        producing about 16% more outputs. Agriculture productivity has almost tripled with slightly 
+        fewer hours with farm incomes having caught up to the national average, and in health care, robots work beside surgeons 
+        with patients recovering faster, but at the cost of higher bills and limited access.
+        What links these is that technology rarely acts alone weather, prices, skills, 
+        policy and who can afford the machines, all shape what it delivers, and the data here shows association 
+        rather than proof that technology caused the change. Robotics in Australia is not a single story the benefits 
+        reach some workers, regions and patients well before others. 
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <script src="hook-chart.js"></script>
+  <script src="dumbbell-chart.js"></script>
+  <script src="map-chart.js"></script>
+  <script src="mine-with-autodriving.js"></script>
+  <script src="safety-chart.js"></script>
+  <script src="tile-map.js"></script>
+  <script src="efficiency-chart-mining.js"></script>
+  <script src="manufacturing-chart.js"></script>
+  <script src="manufacturing-tech.js"></script>
+  <script src="agriculture-chart.js"></script>
+  <script src="agriculture-technology.js"></script>
+  <script src="health-chart.js"></script>
+  <script src="health-outcome-chart.js"></script>
+  <script src="change-in-income.js"></script>
+  <script src="manufacturing-map.js"></script>
+
+  <script>
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); } });
+    }, { threshold: 0.08 });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+</body>
+</html>

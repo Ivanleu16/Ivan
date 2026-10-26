@@ -1,0 +1,10 @@
+state_name,state_abbr,area_sq_km,mines_total,mines_operating,mines_developing,mines_care_maintenance,mines_per_100k_sq_km
+Western Australia,WA,2526632.8,243,147,27,69,9.6
+Queensland,QLD,1730173.2,108,80,7,21,6.2
+New South Wales,NSW,800797.7,82,58,6,18,10.2
+South Australia,SA,984229.3,29,17,4,8,2.9
+Northern Territory,NT,1348134.6,21,8,8,5,1.6
+Tasmania,TAS,68017.6,18,12,1,5,26.5
+Victoria,VIC,227496.3,15,8,4,3,6.6
+Other Territories,IOT,255.7,1,1,0,0,
+Australian Capital Territory,ACT,2358.1,0,0,0,0,0.0

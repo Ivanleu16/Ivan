@@ -1,0 +1,17 @@
+state_name,state_abbr,latitude,longitude,period,manufacturing_jobs_thousands,total_jobs_thousands,manufacturing_share_pct
+New South Wales,NSW,-32.2,147.0,1994,360.0,2634.0,13.7
+New South Wales,NSW,-32.2,147.0,2026,248.3,4499.2,5.5
+Victoria,VIC,-36.9,144.3,1994,329.4,1958.6,16.8
+Victoria,VIC,-36.9,144.3,2026,258.2,3814.1,6.8
+Queensland,QLD,-22.5,144.5,1994,169.1,1421.1,11.9
+Queensland,QLD,-22.5,144.5,2026,169.2,3008.1,5.6
+South Australia,SA,-30.0,135.5,1994,98.3,634.2,15.5
+South Australia,SA,-30.0,135.5,2026,67.3,987.9,6.8
+Western Australia,WA,-26.0,121.5,1994,78.0,790.0,9.9
+Western Australia,WA,-26.0,121.5,2026,92.9,1660.8,5.6
+Tasmania,TAS,-42.0,146.6,1994,22.9,195.3,11.7
+Tasmania,TAS,-42.0,146.6,2026,18.7,284.4,6.6
+Northern Territory,NT,-19.5,133.5,1994,3.9,76.1,5.1
+Northern Territory,NT,-19.5,133.5,2026,3.0,145.1,2.1
+Australian Capital Territory,ACT,-35.5,149.1,1994,4.3,156.1,2.8
+Australian Capital Territory,ACT,-35.5,149.1,2026,3.6,273.0,1.3

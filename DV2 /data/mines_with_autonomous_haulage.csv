@@ -1,0 +1,8 @@
+name,state,latitude,longitude,operator,technology,year_reported,evidence,confidence,source
+Jimblebar,WA,-23.379259,120.139061,BHP,Autonomous haul trucks,2017,Operation fully transitioned to autonomous trucks; reported start 2017,High,https://www.australianmining.com.au/bhp-ramps-up-pilbara-autonomous-transition/ ; https://www.mining-technology.com/features/autonomous-haulage-systems/
+Mount Newman,WA,-23.355737,119.677787,BHP,Autonomous haul trucks,2020,Newman East first fleet of 20 trucks arrived 2020; mapped to Mount Newman as an approximation,Medium,https://www.australianmining.com.au/bhp-ramps-up-pilbara-autonomous-transition/
+Daunia,QLD,-22.043993,148.288546,BHP Mitsubishi Alliance,Autonomous haul trucks,2020,34 autonomous trucks announced in 2020; confirm current status,Medium,https://www.australianmining.com.au/bhp-ramps-up-pilbara-autonomous-transition/
+Cloudbreak,WA,-22.302778,119.396385,Fortescue,Autonomous haul trucks,2020,"Chichester Hub truck fleet converted (Caterpillar and Thiess), Oct 2020",Medium,https://www.mining-technology.com/features/autonomous-haulage-systems/
+Christmas Creek,WA,-22.376169,119.758987,Fortescue,Autonomous haul trucks,2020,"Chichester Hub truck fleet converted (Caterpillar and Thiess), Oct 2020",Medium,https://www.mining-technology.com/features/autonomous-haulage-systems/
+Brockman 4,WA,-22.598301,117.220398,Rio Tinto,Autonomous haul trucks,,29 Komatsu AHS retrofit kits for 830E trucks; year not stated,Medium,https://www.mining-technology.com/features/autonomous-haulage-systems/
+Maules Creek,NSW,-30.545121,150.154234,Whitehaven Coal,Autonomous haul trucks,2018,Hitachi AHS fleet agreement July 2018; deployment status not confirmed,Low,https://www.mining-technology.com/features/autonomous-haulage-systems/

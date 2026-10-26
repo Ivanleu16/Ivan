@@ -1,0 +1,10 @@
+technology,company,measure,value,unit,year,evidence,source
+Haul trucks,Rio Tinto,Lower load and haul unit cost,15,percent,2017,Company estimate for its Pilbara fleet,https://www.computerworld.com/article/1653222/rio-tinto-reaches-autonomous-truck-milestone.html
+Haul trucks,Fortescue,Increase in productivity,30,percent,2020,Statement by the chief operating officer,https://fortescue.com/news-and-media/news/2022/07/01/fortescue-completes-world-leading-autonomous-haulage-project-2020-10-28
+Drills,BHP,Improvement in drill optimisation,20,percent,2018,Company report from its Pit Viper 271 trial,https://www.mining-technology.com/features/mining-robots-rio-tinto-doubles-autonomous-drilling/
+Drills,BHP,More working time per 12-hour shift,35,percent,2018,Derived from 11.5 hours autonomous versus about 8.5 hours with human operators,https://www.mining-technology.com/features/mining-robots-rio-tinto-doubles-autonomous-drilling/
+Haul trucks,Rio Tinto,Extra operating hours per truck,700,hours,2017,Company estimate versus conventional trucks,https://www.e-mj.com/breaking-news/rio-tintos-autonomous-haulage-achieves-1b-tons/
+Drills,Rio Tinto,Drills controlled by one remote operator,4,count,2018,Company statement,https://www.mining-technology.com/features/mining-robots-rio-tinto-doubles-autonomous-drilling/
+Drills,BHP,Drills overseen by one person,3,count,2018,Company statement,https://www.mining-technology.com/features/mining-robots-rio-tinto-doubles-autonomous-drilling/
+Trains,Rio Tinto,Road travel avoided each year for driver shift changes,1500000,km,2023,Company figure,https://www.progressiverailroading.com/railPrime/details/Rio-Tinto-finds-success-in-its-autonomous-freight-train-operation--70277
+Trains,Rio Tinto,Distance run by AutoHaul trains from 2018 to 2023,33000000,km,2023,Company figure,https://www.progressiverailroading.com/railPrime/details/Rio-Tinto-finds-success-in-its-autonomous-freight-train-operation--70277
