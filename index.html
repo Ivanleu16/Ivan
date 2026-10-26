@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Robotics in Australia</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #fcfcfb;
+      --ink: #1a1a18;
+      --muted: #5f5e58;
+      --line: #e1e0d9;
+      --soft: #f4f3ee;
+      --manufacturing: #2a78d6;
+      --mining: #eb6834;
+      --health: #1baf7a;
+      --agriculture: #eda100;
+      --accent: #1a1a18;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; scroll-padding-top: 70px; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-size: 17px;
+      line-height: 1.65;
+    }
+    h1, h2, h3 { font-family: "Fraunces", Georgia, serif; line-height: 1.15; margin: 0; }
+
+    /* ---------- nav ---------- */
+    .topnav {
+      position: sticky; top: 0; z-index: 50;
+      display: flex; gap: 6px; justify-content: center; flex-wrap: wrap;
+      padding: 10px 16px;
+      background: rgba(252, 252, 251, 0.92);
+      backdrop-filter: blur(6px);
+      border-bottom: 1px solid var(--line);
+      font-size: 14px;
+    }
+    .topnav a {
+      color: var(--muted); text-decoration: none;
+      padding: 4px 12px; border-radius: 999px;
+    }
+    .topnav a:hover { background: var(--soft); color: var(--ink); }
+
+    /* ---------- hero ---------- */
+    .hero {
+      padding: 96px 24px 64px;
+      text-align: center;
+      background:
+        radial-gradient(circle at 15% 20%, rgba(235,104,52,.10), transparent 40%),
+        radial-gradient(circle at 85% 30%, rgba(42,120,214,.10), transparent 40%),
+        radial-gradient(circle at 50% 90%, rgba(27,175,122,.10), transparent 45%);
+    }
+    .eyebrow {
+      font-size: 13px; letter-spacing: .14em; text-transform: uppercase;
+      color: var(--muted); margin-bottom: 18px;
+    }
+    .hero h1 { font-size: clamp(40px, 7vw, 76px); font-weight: 700; max-width: 900px; margin: 0 auto 22px; }
+    .hero .lede { max-width: 700px; margin: 0 auto; font-size: 19px; color: var(--muted); }
+    .dots { display: flex; justify-content: center; gap: 10px; margin-top: 34px; }
+    .dots span { width: 14px; height: 14px; border-radius: 50%; }
+    .dots .d1 { background: var(--manufacturing); }
+    .dots .d2 { background: var(--mining); }
+    .dots .d3 { background: var(--health); }
+    .dots .d4 { background: var(--agriculture); }
+
+    /* ---------- layout ---------- */
+    main { max-width: 1280px; margin: 0 auto; padding: 0 24px 80px; }
+    section { padding: 72px 0 24px; border-top: 1px solid var(--line); }
+    section:first-of-type { border-top: none; }
+    .section-head { max-width: 760px; margin-bottom: 28px; }
+    .kicker {
+      display: inline-block; font-size: 13px; font-weight: 600;
+      letter-spacing: .12em; text-transform: uppercase;
+      color: var(--accent); padding-bottom: 6px;
+      border-bottom: 3px solid var(--accent); margin-bottom: 14px;
+    }
+    .section-head h2 { font-size: clamp(30px, 4vw, 44px); margin-bottom: 14px; }
+    .section-head p { margin: 0 0 12px; color: var(--muted); }
+
+    .mining { --accent: var(--mining); }
+    .manufacturing { --accent: var(--manufacturing); }
+    .agriculture { --accent: var(--agriculture); }
+    .health { --accent: var(--health); }
+    .work { --accent: #5f5e58; }
+
+    /* ---------- chart cards (every row is full width so nothing is cut off) ---------- */
+    .row { display: grid; gap: 24px; margin: 24px 0; grid-template-columns: 1fr; }
+    .card {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-top: 4px solid var(--accent);
+      border-radius: 10px;
+      padding: 20px 22px 16px;
+      box-shadow: 0 1px 2px rgba(0,0,0,.04), 0 8px 24px rgba(0,0,0,.04);
+      overflow-x: auto;
+      min-width: 0;
+    }
+    .card h3 { font-size: 20px; margin-bottom: 4px; }
+    .card .sub { font-size: 14px; color: var(--muted); margin: 0 0 14px; }
+    .card .chart { display: block; }
+    .card .chart .vega-embed { display: block; margin: 0 auto; }
+    .caption {
+      font-size: 13.5px; color: var(--muted);
+      border-top: 1px solid var(--line);
+      margin-top: 14px; padding-top: 10px;
+    }
+
+    /* hide the Vega "..." menu on every chart */
+    .vega-embed details,
+    .vega-embed .vega-actions,
+    .vega-actions-wrapper { display: none !important; }
+
+    /* ---------- text boxes to fill in ---------- */
+    .note {
+      border: 2px dashed #c3c2b7;
+      border-radius: 10px;
+      padding: 18px 22px;
+      background: var(--soft);
+      color: var(--muted);
+      margin: 24px 0;
+    }
+    .note strong { color: var(--ink); display: block; margin-bottom: 4px; font-size: 14px; letter-spacing: .06em; text-transform: uppercase; }
+    .takeaway {
+      border-left: 5px solid var(--accent);
+      background: #fff;
+      padding: 18px 24px;
+      margin: 28px 0;
+      font-family: "Fraunces", Georgia, serif;
+      font-size: 22px; line-height: 1.4;
+      border-radius: 0 10px 10px 0;
+      box-shadow: 0 1px 2px rgba(0,0,0,.04);
+    }
+    .takeaway small { display: block; font-family: "Inter", sans-serif; font-size: 13px; color: var(--muted); margin-top: 8px; }
+
+    /* ---------- table fallback + footer ---------- */
+    table { border-collapse: collapse; margin: 12px 0; }
+    th, td { padding: 6px 18px 6px 0; text-align: left; border-bottom: 1px solid var(--line); }
+    th { font-weight: 600; }
+    summary { cursor: pointer; margin-top: 8px; font-size: 14px; color: var(--muted); }
+    footer { background: var(--ink); color: #d6d5cd; padding: 56px 24px; }
+    footer .inner { max-width: 1280px; margin: 0 auto; }
+    footer h2 { color: #fff; font-size: 28px; margin-bottom: 14px; }
+    footer .note { background: transparent; border-color: #5f5e58; color: #b3b2ab; }
+    footer .note strong { color: #fff; }
+
+    /* ---------- fade in ---------- */
+    .reveal { opacity: 0; transform: translateY(16px); transition: opacity .6s ease, transform .6s ease; }
+    .reveal.in { opacity: 1; transform: none; }
+
+    @media (max-width: 560px) {
+      body { font-size: 16px; }
+      .card { padding: 16px 14px 12px; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="topnav">
+    <a href="#intro">Overview</a>
+    <a href="#mining">Mining</a>
+    <a href="#manufacturing">Manufacturing</a>
+    <a href="#agriculture">Agriculture</a>
+    <a href="#health">Health care</a>
+    <a href="#work">The workplace</a>
+    <a href="#conclusion">Conclusion</a>
+  </nav>
+
+  <header class="hero">
+    <div class="eyebrow">Robotics and technology in Australia</div>
+    <h1>Four industries, four different paths</h1>
+    <p class="lede">
+      Since 1994, Australia's workforce has not changed evenly. Technology is only one reason,
+      but it shows that every industry has been reshaped differently.
+    </p>
+    <div class="dots"><span class="d1"></span><span class="d2"></span><span class="d3"></span><span class="d4"></span></div>
+  </header>
+
+  <main>
+
+    <!-- ===================== OVERVIEW ===================== -->
+    <section id="intro">
+      <div class="section-head reveal">
+        <span class="kicker">Overview</span>
+        <h2>The workforce has not changed evenly</h2>
+        <p>
+          Health care has more than tripled its jobs and mining has nearly tripled its own,
+          while manufacturing and agriculture now employ about a fifth fewer people than they did.
+          In the pages ahead, we look at how technology is working inside each one, from factory
+          floors and mine sites to paddocks and hospital wards.
+        </p>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Employment by industry since 1994</h3>
+          <p class="sub">Replace with a short description of what to look at.</p>
+          <div id="hook-chart" class="chart" style="width:100%"></div>
+          <details><summary>View as table</summary><div id="hook-table"></div></details>
+          <div class="caption">Source: ABS. Add your source and notes here.</div>
+        </div>
+      </div>
+
+      <div class="note reveal">
+        <strong>Text box: context</strong>
+        Total employment almost doubled, so even industries that held their ground lost share.
+        Manufacturing went from Australia's biggest employer to one of the smaller ones, while
+        health care took its place. (Edit or expand this.)
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Who lost share and who gained it</h3>
+          <p class="sub">Replace with a short description.</p>
+          <div id="share-chart" class="chart"></div>
+          <div class="caption">Source: ABS. Add notes here.</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== MINING ===================== -->
+    <section id="mining" class="mining">
+      <div class="section-head reveal">
+        <span class="kicker">1 · Mining</span>
+        <h2>Automation moves to where the ore is</h2>
+        <p>[Intro: why mining adopted autonomous haulage and drilling first, and where.]</p>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Where the mines are</h3>
+          <p class="sub">[One line on what the map shows.]</p>
+          <div id="mine-map" class="chart"></div>
+          <div class="caption">Source: [add].</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Mines using autonomous trucks</h3>
+          <p class="sub">[One line on what the map shows.]</p>
+          <div id="mine-with-autodriving" class="chart"></div>
+          <div class="caption">Source: [add].</div>
+        </div>
+      </div>
+
+      <div class="note reveal">
+        <strong>Text box: mining story</strong>
+        [Explain the jump from the first map to the second. Where is automation concentrated and why?]
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Reported safety gains</h3>
+          <p class="sub">Operator claims versus independent regulator data.</p>
+          <div id="safety-chart" class="chart"></div>
+          <div class="caption">Operator figures are company-reported and not proven causal. Regulator figures are independent.</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Fatalities across the states</h3>
+          <p class="sub">[One line on the tile map.]</p>
+          <div id="tile-map" class="chart"></div>
+          <div class="caption">Source: [add].</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Efficiency claims for trucks and drills</h3>
+          <p class="sub">Company-reported improvements by technology.</p>
+          <div id="efficiency-chart-mining" class="chart"></div>
+          <div class="caption">Company-reported figures. Add your note on limits here.</div>
+        </div>
+      </div>
+
+      <div class="takeaway reveal">
+        [Mining takeaway: one sentence, for example output grew but multifactor productivity fell.]
+        <small>Add the supporting number and source.</small>
+      </div>
+    </section>
+
+    <!-- ===================== MANUFACTURING ===================== -->
+    <section id="manufacturing" class="manufacturing">
+      <div class="section-head reveal">
+        <span class="kicker">2 · Manufacturing</span>
+        <h2>Fewer workers, more output per hour</h2>
+        <p>[Intro: manufacturing's story is productivity and adoption, not robots replacing a crowd.]</p>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Productivity since 1994-95</h3>
+          <p class="sub">Indexed to 100 in 1994-95.</p>
+          <div id="manufacturing-chart" class="chart"></div>
+          <div class="caption">Source: ABS Estimates of Industry Multifactor Productivity.</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Technology use versus all businesses</h3>
+          <p class="sub">Percentage point gap, manufacturing minus all businesses.</p>
+          <div id="manufacturing-tech" class="chart"></div>
+          <div class="caption">Source: ABS Business Characteristics Survey.</div>
+        </div>
+      </div>
+
+      <div class="note reveal">
+        <strong>Text box: manufacturing story</strong>
+        [Labour productivity is up 34% while hours are down 14%. Say what that means for workers.]
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Where the manufacturing jobs went</h3>
+          <p class="sub">Dashed rings show 1994, filled circles show 2026. Colour shows share of state jobs.</p>
+          <div id="manufacturing-map" class="chart"></div>
+          <div class="caption">Source: ABS Labour Force, Detailed. Queensland is unchanged, so its ring is hidden. Western Australia grew, so its ring sits under the circle.</div>
+        </div>
+      </div>
+
+      <div class="takeaway reveal">
+        Manufacturing's share of jobs more than halved in every state, yet Western Australia has more manufacturing jobs than in 1994.
+        <small>Add your own conclusion for the section.</small>
+      </div>
+    </section>
+
+    <!-- ===================== AGRICULTURE ===================== -->
+    <section id="agriculture" class="agriculture">
+      <div class="section-head reveal">
+        <span class="kicker">3 · Agriculture</span>
+        <h2>Much more from much less labour</h2>
+        <p>[Intro: farms produce far more with slightly fewer hours, and technology adoption is uneven.]</p>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Output and hours on the farm</h3>
+          <p class="sub">Three-year average, indexed to 1994-95.</p>
+          <div id="agriculture-chart" class="chart"></div>
+          <div class="caption">Source: ABS. Weather causes large swings, so a rolling average is used.</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Which technologies farmers use</h3>
+          <p class="sub">[One line on the survey.]</p>
+          <div id="agriculture-survey" class="chart"></div>
+          <div class="caption">Source: [add survey source].</div>
+        </div>
+      </div>
+
+      <div class="takeaway reveal">
+        [Agriculture takeaway: multifactor productivity up about 180%, hours down about 11%.]
+        <small>Add the source and caveat.</small>
+      </div>
+    </section>
+
+    <!-- ===================== HEALTH ===================== -->
+    <section id="health" class="health">
+      <div class="section-head reveal">
+        <span class="kicker">4 · Health care</span>
+        <h2>Robots in the operating theatre</h2>
+        <p>[Intro: health care is the one industry where robots work directly alongside patients.]</p>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Robotic surgery is growing</h3>
+          <p class="sub">da Vinci procedures in Australia and New Zealand.</p>
+          <div id="health-chart" class="chart"></div>
+          <div class="caption">Source: [add]. Data covers Australia and New Zealand combined.</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Outcomes and cost per case</h3>
+          <p class="sub">Robotic versus laparoscopic versus open prostatectomy.</p>
+          <div id="health-outcome-chart" class="chart"></div>
+          <div class="caption">Source: Victorian study, 2010 to 2013.</div>
+        </div>
+      </div>
+
+      <div class="note reveal">
+        <strong>Text box: access and cost</strong>
+        [Better outcomes, but each platform costs about $3.9 million and only 26 of 162 are public. Who benefits?]
+      </div>
+    </section>
+
+    <!-- ===================== WORKPLACE ===================== -->
+    <section id="work" class="work">
+      <div class="section-head reveal">
+        <span class="kicker">5 · The workplace</span>
+        <h2>What changed for the people doing the work</h2>
+        <p>[Intro: hours and pay across industries, then 1994 against today.]</p>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Hours and earnings, 1994 to 2026</h3>
+          <p class="sub">[One line on how to read the bubbles.]</p>
+          <div id="workplace-chart" class="chart"></div>
+          <div class="caption">Source: ABS Average Weekly Earnings and Labour Force.</div>
+        </div>
+      </div>
+
+      <div class="row reveal">
+        <div class="card">
+          <h3>Change in hours and income</h3>
+          <p class="sub">Four focus industries against the rest.</p>
+          <div id="change-in-income" class="chart"></div>
+          <div class="caption">Source: ABS Labour Account. Earnings survey excludes agriculture.</div>
+        </div>
+      </div>
+
+      <div class="takeaway reveal">
+        [Workplace takeaway: who now works fewer hours or earns more relative to the average?]
+        <small>Add the supporting numbers.</small>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===================== CONCLUSION ===================== -->
+  <footer id="conclusion">
+    <div class="inner">
+      <h2>Conclusion</h2>
+      <div class="note">
+        <strong>Text box: closing message</strong>
+        [Same technology, four different outcomes. Pull your story together here.]
+      </div>
+      <div class="note">
+        <strong>Text box: sources and notes</strong>
+        [List data sources, caveats and any company-reported claims here.]
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <script src="hook-chart.js"></script>
+  <script src="dumbbell-chart.js"></script>
+  <script src="map-chart.js"></script>
+  <script src="mine-with-autodriving.js"></script>
+  <script src="safety-chart.js"></script>
+  <script src="tile-map.js"></script>
+  <script src="efficiency-chart-mining.js"></script>
+  <script src="manufacturing-chart.js"></script>
+  <script src="manufacturing-tech.js"></script>
+  <script src="agriculture-chart.js"></script>
+  <script src="agriculture-technology.js"></script>
+  <script src="health-chart.js"></script>
+  <script src="health-outcome-chart.js"></script>
+  <script src="workplace-chart.js"></script>
+  <script src="change-in-income.js"></script>
+  <script src="manufacturing-map.js"></script>
+
+  <script>
+    // fade sections in as they scroll into view
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); } });
+    }, { threshold: 0.08 });
+    document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  </script>
+</body>
+</html>
